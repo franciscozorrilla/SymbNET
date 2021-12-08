@@ -4,14 +4,14 @@
 
 ### 💰 Learning Outcomes
 
-This module will cover practical aspects of metagenomics-based metabolic modeling, including:
+This module will cover practical aspects of metagenomics-based metabolic modeling:
 
  - Generating genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
  - Predicting metabolic interactions within communities of GEMs
  - Visualizing the effect of gapfilling and simulation media
  - Exploring the panmetabolism of conspecifc genomes
 
-### 🧰 Tools
+### 🍬 Tools
 
 | Tool | Task | GitHub | Reference |
 | :---         | :---           | :---          |  :---         | 
@@ -20,7 +20,7 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 | metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
 
-### ⏲️ Tentative structure
+### 🍱 Tentative structure
 
 - Carve your own MAGs
   - Dump MAGs into folder, run Snakefile rule to carve in series or in parallel
