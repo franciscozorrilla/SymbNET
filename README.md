@@ -1,17 +1,26 @@
 # 💻 SymbNET 🧬
 
-## From Metagenomics to Metabolic Interactions (Day 5)
+## 🔬 From Metagenomics to Metabolic Interactions (Day 5)
 
-### Learning Outcomes
+### 💰 Learning Outcomes
 
 This module will cover practical aspects of metagenomics-based metabolic modeling, including:
 
- - Generating genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs) 
+ - Generating genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
  - Predicting metabolic interactions within communities of GEMs
- - Understanding the effect of gapfilling and simulation media
- - Exploring the panmetabolism of genomes
+ - Visualizing the effect of gapfilling and simulation media
+ - Exploring the panmetabolism of conspecifc genomes
 
-### Tentative structure
+### 🧰 Tools
+
+| Tool | Task | GitHub | Reference |
+| :---         | :---           | :---          |  :---         | 
+| CarveMe   | Build GEMs from MAGs   |[Repo](https://github.com/cdanielmachado/carveme)    |        [Paper](https://academic.oup.com/nar/article/46/15/7542/5042022)       |
+| SMETANA     | Predict metabolic interactions between GEMs       | [Repo](https://github.com/cdanielmachado/smetana)      |          [Paper](https://www.pnas.org/content/112/20/6449)     |
+| metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
+| Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
+
+### ⏲️ Tentative structure
 
 - Carve your own MAGs
   - Dump MAGs into folder, run Snakefile rule to carve in series or in parallel
@@ -31,15 +40,15 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 - Discussion on different analysis options/avenues
   - Other applications?
  
-### Suggested Reading
+### 📚 Suggested Reading
 
  - Intro to FBA: [What is flux balance analysis?](https://www.nature.com/articles/nbt.1614)
  - CarveMe: [Fast automated reconstruction of genome-scale metabolic models for microbial species and communities](https://academic.oup.com/nar/article/46/15/7542/5042022)
  - SMETANA: [Metabolic dependencies drive species co-occurrence in diverse microbial communities](https://www.pnas.org/content/112/20/6449)
  - metaGEM: [Reconstruction of genome scale metabolic models directly from metagenomes](https://academic.oup.com/nar/article/49/21/e126/6382386)
 
-### About SymbNET
+### 🇪🇺 About SymbNET
 
 SymbNET is a European network for host-microbe interactions research, funded by the European Union’s Horizon 2020 research and innovation programme. The project coordinated by FCG-IGC (Instituto Gulbenkian de Ciência, Portugal), brings together the world-leading research institutions EMBL (European Molecular Biology Laboratory, Germany),  CAU (Christian-Albrechts-Universität zu Kiel, Germany),  and UNIL (Université de Lausanne,  Switzerland), and a local widening partner ITQB NOVA (Instituto de Tecnologia Química e Biológica, Portugal).
 
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement Nº 952537 🇪🇺
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement Nº 952537
