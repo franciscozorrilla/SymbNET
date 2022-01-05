@@ -1,6 +1,4 @@
-# 💻 SymbNET 🧬
-
-## 🔬 From Metagenomics to Metabolic Interactions (Day 5)
+# 💻 SymbNET 🧬 From Metagenomics to Metabolic Interactions (Day 5) 
 
 ### 💰 Learning Outcomes
 
@@ -8,8 +6,7 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 
  - Generating genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
  - Predicting metabolic interactions within communities of GEMs
- - Visualizing the effect of gapfilling and simulation media
- - Exploring the panmetabolism of conspecifc genomes
+ - Exploring the effect of gapfilling and simulation media
 
 ### 🍬 Tools
 
@@ -20,14 +17,30 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 | metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
 
-### 💡 Understanding CarveMe
+### 💡 Key points: CarveMe
 
-1. The top-down approach: create one universal well-curated bacterial model, **carve** out a species specific model based on organism's genome.
-2. The BiGG database: connects protein sequences with standardized and curated metabolic reaction knowledgebase.
-3. The carving algorithm: MILP problem to maximize presence of high genomic evidence reactions, minimize presence of low genomic evidence reactions, enforce gapless pathways.
-4. The gap-filling algorithm: Uses genomic evidence scores to minimize the number of added reactions needed to support growth on a given a media composition.
+1. The top-down approach
+   - based on a universal and well-curated bacterial model, **carves** out a species specific model based on organism's genome.
+2. The BiGG database
+   - connects protein sequences with standardized and curated metabolic reaction knowledgebase.
+3. The carving algorithm
+   - MILP formulation to maximize presence of high genomic evidence reactions, minimize presence of low genomic evidence reactions, enforce gapless pathways.
+4. The gap-filling algorithm
+   - Uses genomic evidence scores to prioritize and minimize the number of added reactions needed to support growth on a given a media composition.
 
 Note: model carving and gapfilling problems can result in multiple possible solutions!
+
+### 🔑 Key points: SMETANA
+
+1. The species coupling score measures the dependence of growth of species A on species B (SCS<sub>A,B</sub>)
+   - calculated by enumerating all possible community member subsets where species A can grow, SCS<sub>A,B</sub> is the fraction of subsets where both species A and B can grow
+
+2. The metabolite uptake score measures the dependence of growth of species A on metabolite *m* (MUS<sub>A,*m*</sub>)
+   - calculated by enumerating all possible metabolite requirement subsets where species A can grow, MUS<sub>A,*m*</sub> is the fraction of subsets where both species A grows and metabolite *m* is taken up
+
+
+2. The SMETANA score ranges from 0 to 1
+   - measures how strongly a receiver species relies on a donor species for a particular metabolite
 
 ### 🍱 Tentative structure
 
