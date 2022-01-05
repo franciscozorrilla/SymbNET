@@ -22,10 +22,10 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 
 ### 💡 Understanding CarveMe
 
-- The top-down approach: create one universal well-curated bacterial model, **carve** out a species specific model based on organism's genome.
-- The BiGG database: connects protein sequences with standardized and curated metabolic reaction knowledgebase.
-- The carving algorithm: MILP problem to maximize presence of high genomic evidence reactions, minimize presence of low genomic evidence reactions, enforce gapless pathways.
-- The gap-filling algorithm: Uses genomic evidence scores to minimize the number of added reactions needed to support growth on a given a media composition.
+1. The top-down approach: create one universal well-curated bacterial model, **carve** out a species specific model based on organism's genome.
+2. The BiGG database: connects protein sequences with standardized and curated metabolic reaction knowledgebase.
+3. The carving algorithm: MILP problem to maximize presence of high genomic evidence reactions, minimize presence of low genomic evidence reactions, enforce gapless pathways.
+4. The gap-filling algorithm: Uses genomic evidence scores to minimize the number of added reactions needed to support growth on a given a media composition.
 
 Note: model carving and gapfilling problems can result in multiple possible solutions!
 
