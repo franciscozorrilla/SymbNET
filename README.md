@@ -20,12 +20,21 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 | metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
 
+### 💡 Understanding CarveMe
+
+- The top-down approach: create one universal well-curated bacterial model, **carve** out a species specific model based on organism's genome.
+- The BiGG database: connects protein sequences with standardized and curated metabolic reaction knowledgebase.
+- The carving algorithm: MILP problem to maximize presence of high genomic evidence reactions, minimize presence of low genomic evidence reactions, enforce gapless pathways.
+- The gap-filling algorithm: Uses genomic evidence scores to minimize the number of added reactions needed to support growth on a given a media composition.
+
+Note: model carving and gapfilling problems can result in multiple possible solutions!
+
 ### 🍱 Tentative structure
 
 - Carve your own MAGs
   - Dump MAGs into folder, run Snakefile rule to carve in series or in parallel
   - Run model_vis.R script to visualize rxns,speices,number genes
-  - Classify GEMs/MAGs using metaGEM-gtdbtk?
+  - Classify GEMs/MAGs using metaGEM-gtdbtk (if not done previously)
 - Run most basic SMETANA example with 2 species
   - Could have them use metaGEM parser for this and previous step
   - Run smetana_vis.R script to visualize interactions in one medium
