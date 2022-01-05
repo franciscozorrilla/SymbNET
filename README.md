@@ -34,10 +34,10 @@ Note: model carving and gapfilling problems can result in multiple possible solu
 
 1. The species coupling score measures the dependence of growth of species A on species B (SCS<sub>A,B</sub>)
    - calculated by enumerating all possible community member subsets where species A can grow, SCS<sub>A,B</sub> is the fraction of subsets where both species A and B can grow
-
 2. The metabolite uptake score measures the dependence of growth of species A on metabolite *m* (MUS<sub>A,*m*</sub>)
    - calculated by enumerating all possible metabolite requirement subsets where species A can grow, MUS<sub>A,*m*</sub> is the fraction of subsets where both species A grows and metabolite *m* is taken up
-
+3. The metabolite production score is a binary score indicating whether a given species B can produce metabolite *m* (MPS = 1) or not (MPS = 0) in the community of N members. (MPS<sub>B,*m*</sub>)
+   - calculated by enumerating all possible metabolite requirement subsets where species A can grow, MUS<sub>A,*m*</sub> is the fraction of subsets where both species A grows and metabolite *m* is taken up
 
 2. The SMETANA score ranges from 0 to 1
    - measures how strongly a receiver species relies on a donor species for a particular metabolite
