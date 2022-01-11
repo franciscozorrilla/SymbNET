@@ -30,6 +30,14 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 
 Note: model carving and gapfilling problems can result in multiple possible solutions!
 
+```
+
+while read model;do 
+   carve -v --mediadb ../milk_composition.tsv -g MILK --cobra -o ../ucsd_models/${model}.xml $model;
+done< <(ls)
+
+```
+
 ### 🔑 Key points: SMETANA
 
 1. The species coupling score measures the dependence of growth of species A on species B (SCS<sub>A,B</sub>)
@@ -42,6 +50,12 @@ Note: model carving and gapfilling problems can result in multiple possible solu
    - SMETANA<sub>A,B,*m*</sub> = SCS<sub>A,B</sub> * MUS<sub>A,*m*</sub> * MPS<sub>B,*m*</sub>
 
 Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP (metabolic interaction potential) and MRO (metabolic resource overlap).
+
+```
+
+smetana --flavor ucsd -o test -v -g *.xml
+
+```
 
 ### 🍱 Tentative structure
 
