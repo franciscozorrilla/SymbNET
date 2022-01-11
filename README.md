@@ -41,7 +41,7 @@ Note: model carving and gapfilling problems can result in multiple possible solu
    - measures how strongly a receiver species relies on a donor species for a particular metabolite
    - SMETANA<sub>A,B,*m*</sub> = SCS<sub>A,B</sub> * MUS<sub>A,*m*</sub> * MPS<sub>B,*m*</sub>
 
-Note: 
+Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP (metabolic interaction potential) and MRO (metabolic resource overlap).
 
 ### 🍱 Tentative structure
 
