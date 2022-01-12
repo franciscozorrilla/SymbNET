@@ -30,12 +30,25 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 
 Note: model carving and gapfilling problems can result in multiple possible solutions!
 
+Kefir GEMs:
 ```
-
 while read model;do 
    carve -v --mediadb ../milk_composition.tsv -g MILK --cobra -o ../ucsd_models/${model}.xml $model;
 done< <(ls)
+```
 
+Gut GEMs:
+```
+while read model;do     
+   carve -v --mediadb ../media_db.tsv -g M8 --cobra -o ../models/${model}.xml $model;
+done< <(ls)
+```
+
+Soil GEMs:
+```
+while read model;do     
+   carve -v --mediadb ../media_db.tsv -g M8 --cobra -o ../models/${model}.xml $model;
+done< <(ls)
 ```
 
 ### 🔑 Key points: SMETANA
