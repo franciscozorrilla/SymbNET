@@ -46,13 +46,13 @@ done< <(ls)
 
 ### 🔑 Key points: SMETANA
 
-Detailed algorithm
+**Detailed algorithm**
 
-1. The species coupling score measures the dependence of growth of species A on species B (SCS<sub>A,B</sub>)
+1. The species coupling score (SCS) measures the dependence of growth of species A on species B (SCS<sub>A,B</sub>)
    - calculated by enumerating all possible community member subsets where species A can grow, SCS<sub>A,B</sub> is the fraction of subsets where both species A and B can grow.
-2. The metabolite uptake score measures the dependence of growth of species A on metabolite *m* (MUS<sub>A,*m*</sub>)
+2. The metabolite uptake score (MUS) measures the dependence of growth of species A on metabolite *m* (MUS<sub>A,*m*</sub>)
    - calculated by enumerating all possible metabolite requirement subsets where species A can grow, MUS<sub>A,*m*</sub> is the fraction of subsets where both species A grows and metabolite *m* is taken up.
-3. The metabolite production score is a binary score indicating whether a given species B can produce metabolite *m* (MPS = 1) or not (MPS = 0) in the community of N members (MPS<sub>B,*m*</sub>)
+3. The metabolite production score (MPS) is a binary score indicating whether a given species B can produce metabolite *m* (MPS = 1) or not (MPS = 0) in the community of N members (MPS<sub>B,*m*</sub>)
 4. The SMETANA score ranges from 0 to 1
    - measures how strongly a receiver species relies on a donor species for a particular metabolite
    - SMETANA<sub>A,B,*m*</sub> = SCS<sub>A,B</sub> * MUS<sub>A,*m*</sub> * MPS<sub>B,*m*</sub>
@@ -63,9 +63,12 @@ Note: There may be equivalent solutions that satisfy the linear programming prob
 smetana --flavor cobra -o gut_normal -v -d --mediadb ../media_db.tsv -m M3 *.xml
 ```
 
-Global algorithm
+**Global algorithm**
 
-Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP (metabolic interaction potential) and MRO (metabolic resource overlap).
+1. The metabolic interaction potential (MIP) measures the propensity of a given community to exchange metabolites, and is defined as the maximum number of essential nutritional components that a community can provide for itself through interspecies metabolic exchanges.
+2. The metabolic resource overlap (MRO) measures the degree of metabolic competition in a community, and is defined as the maximum possible overlap between the minimal nutritional requirements of all member species.
+
+Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP and MRO (metabolic resource overlap).
 
 ```
 smetana --flavor ucsd -o test -v -g *.xml
