@@ -31,6 +31,10 @@ https://github.com/cdanielmachado/reframed
 
 https://github.com/cdanielmachado/HiOrCo
 
+https://github.com/cdanielmachado/carveme_paper
+
+https://github.com/cdanielmachado/embl_gems
+
 ### 💡 Key points: CarveMe
 
 1. The top-down approach
