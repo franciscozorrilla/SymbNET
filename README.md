@@ -31,33 +31,33 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 Kefir GEMs:
 ```
 while read model;do 
-   carve -v --mediadb ../milk_composition.tsv -g MILK --cobra -o ../ucsd_models/${model}.xml $model;
-done< <(ls)
+   carve -v --mediadb data/milk_composition.tsv -g MILK --cobra -o ${model}.xml $model;
+done< <(ls genomes/kefir/*.faa)
 ```
 
 Gut GEMs:
 ```
 while read model;do     
-   carve -v --mediadb ../media_db.tsv -g M8 --cobra -o ../models/${model}.xml $model;
-done< <(ls)
+   carve -v --mediadb data/media_db.tsv -g M8 --cobra -o ${model}.xml $model;
+done< <(ls genomes/gut_*.faa)
 ```
 
 Soil GEMs:
 ```
 while read model;do     
-   carve -v --cobra -o ../models/${model}.xml $model;
-done< <(ls)
+   carve -v --cobra -o ${model}.xml $model;
+done< <(ls genomes/soil/*.faa)
 ```
 
 Note: model carving and gapfilling problems can result in multiple possible solutions!
-Use the ensemble flag to generate a user-defined number of equally plausible models to be stored in a single sbml file, e.g. `-n 100`.
-One can then calculate the pairwise jaccard distance between models within ensembles to [quantify network uncertainity](https://github.com/cdanielmachado/carveme_paper/blob/master/notebooks/Ensemble%20distances.ipynb).
+
+Use the ensemble flag to generate a user-defined number of equally plausible models to be stored in a single sbml file, e.g. `-n 100`. One can then calculate the pairwise jaccard distance between models within ensembles to [quantify network uncertainity](https://github.com/cdanielmachado/carveme_paper/blob/master/notebooks/Ensemble%20distances.ipynb).
 
 Build ensemble models:
 ```
 while read model;
  do carve -v --cobra -n 100 -o ${model}.xml $model; 
-done< <(ls)
+done< <(ls genomes/*.faa)
 ```
 
 ### 🔑 Key points: SMETANA
@@ -77,7 +77,7 @@ Note: There may be equivalent solutions that satisfy the linear programming prob
 
 Gut example:
 ```
-smetana --flavor cobra -o gut_normal -v -d --mediadb ../media_db.tsv -m M3 *.xml
+smetana --flavor cobra -o gut_normal -v -d --mediadb data/media_db.tsv -m M3 *.xml
 ```
 
 Soil example:
@@ -96,7 +96,11 @@ done
 Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP and MRO (metabolic resource overlap).
 
 ```
-smetana --flavor ucsd -o test -v -g *.xml
+for i in {1..100}; do 
+ echo "Running simulation $i out of 100 ... "; 
+ smetana --flavor ucsd -o sim_${i} -v -g *.xml;
+done
+
 ```
 
 ### 🍱 Tentative structure
