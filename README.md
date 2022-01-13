@@ -44,6 +44,13 @@ while read model;do
 done< <(ls)
 ```
 
+Soil GEMs:
+```
+while read model;do     
+   carve -v --cobra -o ../models/${model}.xml $model;
+done< <(ls)
+```
+
 ### 🔑 Key points: SMETANA
 
 **Detailed algorithm**
