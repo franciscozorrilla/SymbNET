@@ -22,9 +22,13 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 Useful tools and resources from Daniel Machado:
 
 https://github.com/cdanielmachado/cooccurrence
+
 https://github.com/cdanielmachado/designmc
+
 https://github.com/cdanielmachado/kefir_paper
+
 https://github.com/cdanielmachado/reframed
+
 https://github.com/cdanielmachado/HiOrCo
 
 ### 💡 Key points: CarveMe
