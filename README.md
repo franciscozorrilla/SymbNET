@@ -28,8 +28,6 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 4. The gap-filling algorithm
    - Uses genomic evidence scores to prioritize and minimize the number of added reactions needed to support growth on a given a media composition.
 
-Note: model carving and gapfilling problems can result in multiple possible solutions!
-
 Kefir GEMs:
 ```
 while read model;do 
@@ -50,6 +48,11 @@ while read model;do
    carve -v --cobra -o ../models/${model}.xml $model;
 done< <(ls)
 ```
+
+Note: model carving and gapfilling problems can result in multiple possible solutions!
+Use the ensemble flag to generate a user-defined number of equally plausible models to be stored in a single sbml file, e.g. `-n 100`.
+One can then calculate the pairwise jaccard distance between models within ensembles to [quantify network uncertainity](https://github.com/cdanielmachado/carveme_paper/blob/master/notebooks/Ensemble%20distances.ipynb).
+
 
 ### 🔑 Key points: SMETANA
 
