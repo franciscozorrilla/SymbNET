@@ -69,8 +69,17 @@ One can then calculate the pairwise jaccard distance between models within ensem
 
 Note: There may be equivalent solutions that satisfy the linear programming problems posed by the detailed algorithm. To explore the solution space run multiple simulations and then take averages.
 
+Gut example:
 ```
 smetana --flavor cobra -o gut_normal -v -d --mediadb ../media_db.tsv -m M3 *.xml
+```
+
+Soil example:
+```
+for i in {1..100}; do 
+ echo "Running simulation $i out of 100 ... "; 
+ smetana --flavor ucsd -o sim_${i} -v -d --molweight --zeros *.xml;
+done
 ```
 
 **Global algorithm**
