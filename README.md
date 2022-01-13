@@ -44,14 +44,9 @@ while read model;do
 done< <(ls)
 ```
 
-Soil GEMs:
-```
-while read model;do     
-   carve -v --mediadb ../media_db.tsv -g M8 --cobra -o ../models/${model}.xml $model;
-done< <(ls)
-```
-
 ### 🔑 Key points: SMETANA
+
+Detailed algorithm
 
 1. The species coupling score measures the dependence of growth of species A on species B (SCS<sub>A,B</sub>)
    - calculated by enumerating all possible community member subsets where species A can grow, SCS<sub>A,B</sub> is the fraction of subsets where both species A and B can grow.
@@ -62,12 +57,18 @@ done< <(ls)
    - measures how strongly a receiver species relies on a donor species for a particular metabolite
    - SMETANA<sub>A,B,*m*</sub> = SCS<sub>A,B</sub> * MUS<sub>A,*m*</sub> * MPS<sub>B,*m*</sub>
 
+Note: There may be equivalent solutions that satisfy the linear programming problems posed by the detailed algorithm. To explore the solution space run multiple simulations and then take averages.
+
+```
+smetana --flavor cobra -o gut_normal -v -d --mediadb ../media_db.tsv -m M3 *.xml
+```
+
+Global algorithm
+
 Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP (metabolic interaction potential) and MRO (metabolic resource overlap).
 
 ```
-
 smetana --flavor ucsd -o test -v -g *.xml
-
 ```
 
 ### 🍱 Tentative structure
