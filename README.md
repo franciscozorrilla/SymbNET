@@ -53,6 +53,12 @@ Note: model carving and gapfilling problems can result in multiple possible solu
 Use the ensemble flag to generate a user-defined number of equally plausible models to be stored in a single sbml file, e.g. `-n 100`.
 One can then calculate the pairwise jaccard distance between models within ensembles to [quantify network uncertainity](https://github.com/cdanielmachado/carveme_paper/blob/master/notebooks/Ensemble%20distances.ipynb).
 
+Build ensemble models:
+```
+while read model;
+ do carve -v --cobra -n 100 -o ${model}.xml $model; 
+done< <(ls)
+```
 
 ### 🔑 Key points: SMETANA
 
