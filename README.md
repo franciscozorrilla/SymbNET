@@ -17,24 +17,6 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 | metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
 
-### 🕺 Daniel's repos
-
-Useful tools and resources from Daniel Machado:
-
-https://github.com/cdanielmachado/cooccurrence
-
-https://github.com/cdanielmachado/designmc
-
-https://github.com/cdanielmachado/kefir_paper
-
-https://github.com/cdanielmachado/reframed
-
-https://github.com/cdanielmachado/HiOrCo
-
-https://github.com/cdanielmachado/carveme_paper
-
-https://github.com/cdanielmachado/embl_gems
-
 ### 💡 Key points: CarveMe
 
 1. The top-down approach
@@ -120,6 +102,24 @@ for i in {1..100}; do
 done
 
 ```
+
+### 🕺 Daniel's repos
+
+Useful tools and resources from Daniel Machado:
+
+https://github.com/cdanielmachado/cooccurrence
+
+https://github.com/cdanielmachado/designmc
+
+https://github.com/cdanielmachado/kefir_paper
+
+https://github.com/cdanielmachado/reframed
+
+https://github.com/cdanielmachado/HiOrCo
+
+https://github.com/cdanielmachado/carveme_paper
+
+https://github.com/cdanielmachado/embl_gems
 
 ### 📚 Suggested Reading
 
