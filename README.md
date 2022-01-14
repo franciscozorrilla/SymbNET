@@ -17,6 +17,18 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 | metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
 
+### ⛏️ Datasets
+
+| Microbiome |Genome type| Condition | Species | Reference |
+| :---        | :--- | :---           | :---          |  :---         | 
+| Human gut  | MAGs |Normal Glucose Tolerance (NGT) |  <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   |   [Paper](https://academic.oup.com/nar/article/46/15/7542/5042022)       |
+| Human gut   | MAGs |Impaired Glucose Tolerance (IGT)      | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   |          [Paper](https://www.pnas.org/content/112/20/6449)     |
+| Human gut  | MAGs | Type II Diabetes (T2D)  | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
+| Human gut| Reference genomes | Reference genomes taken from RefSeq   | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | [Paper](https://f1000research.com/articles/10-33)   |
+| Kefir | SAGs | Fermented using German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | [Paper](https://f1000research.com/articles/10-33)   |
+| Soil | MAGs |  Calcarosols from Uluru, Australia   | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
+
+
 ### 💡 Key points: CarveMe
 
 1. The top-down approach
