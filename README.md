@@ -119,21 +119,21 @@ done
 
 **Tools**
 
-[DesignMC](https://github.com/cdanielmachado/designmc): Design microbial communities for production of specific target compounds using GEMs 
+ - [DesignMC](https://github.com/cdanielmachado/designmc): Design microbial communities for production of specific target compounds using GEMs 
 
-[Reframed](https://github.com/cdanielmachado/reframed): Metabolic modeling package
+ - [HiOrCo](https://github.com/cdanielmachado/HiOrCo): Compute higher order cooccurence using abundance across samples
 
-[HiOrCo](https://github.com/cdanielmachado/HiOrCo): Compute higher order cooccurence using abundance across samples
+ - [Reframed](https://github.com/cdanielmachado/reframed): Metabolic modeling package
 
-**Resources**:
+**Resources**
 
-[Cooccurrence paper](https://github.com/cdanielmachado/cooccurrence): Supplement repo to cooccurrence paper
+ - [Cooccurrence paper](https://github.com/cdanielmachado/cooccurrence): Supplement repo to cooccurrence paper
 
-[Kefir paper](https://github.com/cdanielmachado/kefir_paper): Supplement repo to kefir paper
+ - [CarveMe paper](https://github.com/cdanielmachado/carveme_paper): Supplement repo to CarveMe paper
 
-[CarveMe paper](https://github.com/cdanielmachado/carveme_paper): Supplement repo to CarveMe paper
+ - [Kefir paper](https://github.com/cdanielmachado/kefir_paper): Supplement repo to kefir paper
 
-[EMBL GEMs](https://github.com/cdanielmachado/embl_gems): Collection of RefSeq-based GEMs
+ - [EMBL GEMs](https://github.com/cdanielmachado/embl_gems): Collection of RefSeq-based GEMs
 
 Please cite [Daniel Machado](https://orcid.org/0000-0002-2063-5383)'s relevant literature if you make use of these tools and resources!
 
