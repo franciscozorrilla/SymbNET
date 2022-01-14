@@ -1,0 +1,19 @@
+{
+"__default__" : {
+        "account" : "MRC-TOX-SL2-CPU",
+        "time" : "0-24:00:00",
+        "n" : 8,
+        "tasks" : 1,
+        "mem" : 192G,
+        "cpusPerTask" : 1,
+        "name"      : "DL.{rule}",
+        "output"    : "logs/{wildcards}.%N.{rule}.out.log",
+        "part" : "cclake",
+},
+}
+
+#MEM FLAG
+#nohup snakemake all -j 200 -k --cluster-config cluster_config.json -c "sbatch -A {cluster.account} -p {cluster.part} --mem {cluster.mem} -t {cluster.time} -n {cluster.n} --ntasks {cluster.tasks} --cpus-per-task {cluster.n} --output {cluster.output}" &
+
+#NO MEM FLAG
+#nohup snakemake all -j 200 -k --cluster-config cluster_config.json -c "sbatch -A {cluster.account} -p {cluster.part} -t {cluster.time} -n {cluster.n} --ntasks {cluster.tasks} --cpus-per-task {cluster.n} --output {cluster.output}" &
