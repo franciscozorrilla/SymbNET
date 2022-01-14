@@ -117,21 +117,25 @@ done
 
 ### 🕺 Daniel's repos
 
-Useful tools and resources from Daniel Machado:
-
-https://github.com/cdanielmachado/cooccurrence
+**Tools**
 
 https://github.com/cdanielmachado/designmc
-
-https://github.com/cdanielmachado/kefir_paper
 
 https://github.com/cdanielmachado/reframed
 
 https://github.com/cdanielmachado/HiOrCo
 
+**Resources**:
+
+https://github.com/cdanielmachado/cooccurrence
+
+https://github.com/cdanielmachado/kefir_paper
+
 https://github.com/cdanielmachado/carveme_paper
 
 https://github.com/cdanielmachado/embl_gems
+
+Please cite Daniel Machado's relevant literature if you make use of these tools and resources!
 
 ### 📚 Suggested Reading
 
