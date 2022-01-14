@@ -17,6 +17,10 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 | metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
 
+The following figure shows the metaGEM workflow for reconstruction of MAGs and metabolic modeling. By now you will be familiar with the tools used for MAG generation, next you will learn how to generate and simulate communities of metabolic models.
+
+![](https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png)
+
 ### ⛏️ Datasets
 
 | Microbiome |Genome type| Condition | Species | Links |
