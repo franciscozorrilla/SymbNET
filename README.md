@@ -24,6 +24,8 @@ The following figure shows the metaGEM workflow for reconstruction of MAGs and m
 
 ### ⛏️ Datasets
 
+The following table describes in detail the 6 small bacterial communities of 5 species that we will consider for metabolic modeling. These include MAG,SAG, and reference genome-based communities; the samples also span the human gut, kefir, and soil habitats.
+
 | Microbiome |Genome type| Condition | Species | Links |
 | :---        | :--- | :---           | :---          |  :---         | 
 | Human gut  | MAGs |Normal Glucose Tolerance (NGT) |  <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   | <ul><li>[Paper](https://www.nature.com/articles/nature12198)</li><li>[metaGEM](https://github.com/franciscozorrilla/metaGEM_paper)</li><li>[MGnify](https://www.ebi.ac.uk/metagenomics/analyses/MGYA00001287#overview)</li></ul> |
