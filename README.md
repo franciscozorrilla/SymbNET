@@ -4,9 +4,9 @@
 
 This module will cover practical aspects of metagenomics-based metabolic modeling:
 
- - Generating genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
- - Predicting metabolic interactions within communities of GEMs
- - Exploring the effect of gapfilling and simulation media
+ - Explain the goal of genome-scale modeling for single species and communities
+ - Describe the steps to get from MAGs to community interaction predictions
+ - Analyse the implications (pros and cons) of modelling approaches
 
 ### 🍬 Tools
 
