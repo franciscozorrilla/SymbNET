@@ -26,7 +26,7 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 | Human gut  | MAGs | Type II Diabetes (T2D)  | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Human gut| Reference genomes | Reference genomes taken from RefSeq   | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | [Paper](https://f1000research.com/articles/10-33)   |
 | Kefir | SAGs | Fermented using German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | [Paper](https://f1000research.com/articles/10-33)   |
-| Soil | MAGs |  Calcarosols from Uluru, Australia   | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
+| Soil | MAGs |  Calcarosols from Uluru, Australia   | <ul><li>f__Thermoleophilaceae;g__</li><li>f__Herpetosiphonaceae;g__</li><li>f__Phormidiaceae;g__Microcoleus</li><li>f__Geodermatophilaceae;g__Geodermatophilus</li><li>f__Rubrobacteraceae;g__Rubrobacter_A</li></ul>   | [Paper](https://f1000research.com/articles/10-33)   |
 
 
 ### 💡 Key points: CarveMe
