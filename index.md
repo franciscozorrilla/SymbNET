@@ -17,23 +17,21 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 | metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
 
-### 🕺 Daniel's repos
+The following figure shows the metaGEM workflow for reconstruction of MAGs and metabolic modeling. By now you will be familiar with the tools used for MAG generation, next you will learn how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
 
-Useful tools and resources from Daniel Machado:
+![](https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png)
 
-https://github.com/cdanielmachado/cooccurrence
+### ⛏️ Datasets
 
-https://github.com/cdanielmachado/designmc
+| Microbiome |Genome type| Condition | Species | Links |
+| :---        | :--- | :---           | :---          |  :---         | 
+| Human gut  | MAGs |Normal Glucose Tolerance (NGT) |  <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   | <ul><li>[Paper](https://www.nature.com/articles/nature12198)</li><li>[Analysis](https://doi.org/10.1093/nar/gkab815)</li></ul> |
+| Human gut   | MAGs |Impaired Glucose Tolerance (IGT)      | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   |  <ul><li>[Paper](https://www.nature.com/articles/nature12198)</li><li>[Analysis](https://doi.org/10.1093/nar/gkab815)</li></ul>  |
+| Human gut  | MAGs | Type II Diabetes (T2D)  | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | <ul><li>[Paper](https://www.nature.com/articles/nature12198)</li><li>[Analysis](https://doi.org/10.1093/nar/gkab815)</li></ul> |
+| Human gut| Reference genomes | Reference genomes taken from RefSeq   | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | <ul><li>[NCBI](https://www.ncbi.nlm.nih.gov/)</li></ul>   |
+| Kefir | SAGs | Fermented with German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | <ul><li>[Paper](https://www.nature.com/articles/s41564-020-00816-5)</li></ul>   |
+| Soil | MAGs |  Calcarosols from Uluru, Australia   | <ul><li>f_Thermoleophilaceae</li><li>f_Herpetosiphonaceae</li><li>f_Phormidiaceae</li><li>f_Geodermatophilaceae</li><li>f_Rubrobacteraceae</li></ul>   | <ul><li>[Paper](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982)</li><li>[Analysis](https://doi.org/10.1093/nar/gkab815)</li></ul>  |
 
-https://github.com/cdanielmachado/kefir_paper
-
-https://github.com/cdanielmachado/reframed
-
-https://github.com/cdanielmachado/HiOrCo
-
-https://github.com/cdanielmachado/carveme_paper
-
-https://github.com/cdanielmachado/embl_gems
 
 ### 💡 Key points: CarveMe
 
@@ -120,6 +118,28 @@ for i in {1..100}; do
 done
 
 ```
+
+### 🕺 Daniel's repos
+
+**Tools**
+
+ - [DesignMC](https://github.com/cdanielmachado/designmc): Design microbial communities for production of specific target compounds using GEMs 
+
+ - [HiOrCo](https://github.com/cdanielmachado/HiOrCo): Compute higher order cooccurence using abundance across samples
+
+ - [Reframed](https://github.com/cdanielmachado/reframed): Metabolic modeling package
+
+**Resources**
+
+ - [Cooccurrence paper](https://github.com/cdanielmachado/cooccurrence): Supplement repo to cooccurrence paper
+
+ - [CarveMe paper](https://github.com/cdanielmachado/carveme_paper): Supplement repo to CarveMe paper
+
+ - [Kefir paper](https://github.com/cdanielmachado/kefir_paper): Supplement repo to kefir paper
+
+ - [EMBL GEMs](https://github.com/cdanielmachado/embl_gems): Collection of RefSeq-based GEMs
+
+Please cite [Daniel Machado](https://orcid.org/0000-0002-2063-5383)'s relevant literature if you make use of these tools and resources!
 
 ### 📚 Suggested Reading
 
