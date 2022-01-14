@@ -19,14 +19,14 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
 
 ### ⛏️ Datasets
 
-| Microbiome |Genome type| Condition | Species | Reference |
+| Microbiome |Genome type| Condition | Species | Links |
 | :---        | :--- | :---           | :---          |  :---         | 
-| Human gut  | MAGs |Normal Glucose Tolerance (NGT) |  <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   |   [Paper](https://academic.oup.com/nar/article/46/15/7542/5042022)       |
-| Human gut   | MAGs |Impaired Glucose Tolerance (IGT)      | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   |          [Paper](https://www.pnas.org/content/112/20/6449)     |
-| Human gut  | MAGs | Type II Diabetes (T2D)  | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
-| Human gut| Reference genomes | Reference genomes taken from RefSeq   | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | [Paper](https://f1000research.com/articles/10-33)   |
-| Kefir | SAGs | Fermented using German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | [Paper](https://f1000research.com/articles/10-33)   |
-| Soil | MAGs |  Calcarosols from Uluru, Australia   | <ul><li>f__Thermoleophilaceae;g__</li><li>f__Herpetosiphonaceae;g__</li><li>f__Phormidiaceae;g__Microcoleus</li><li>f__Geodermatophilaceae;g__Geodermatophilus</li><li>f__Rubrobacteraceae;g__Rubrobacter_A</li></ul>   | [Paper](https://f1000research.com/articles/10-33)   |
+| Human gut  | MAGs |Normal Glucose Tolerance (NGT) |  <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   | <ul><li>[Data source](https://www.nature.com/articles/nature12198)</li><li>[Analysis](https://doi.org/10.1093/nar/gkab815)</li></ul> |
+| Human gut   | MAGs |Impaired Glucose Tolerance (IGT)      | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>   |  <ul><li>[Data source](https://www.nature.com/articles/nature12198)</li><li>[Analysis](https://doi.org/10.1093/nar/gkab815)</li></ul>  |
+| Human gut  | MAGs | Type II Diabetes (T2D)  | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | <ul><li>[Data source](https://www.nature.com/articles/nature12198)</li><li>[Analysis](https://doi.org/10.1093/nar/gkab815)</li></ul> |
+| Human gut| Reference genomes | Reference genomes taken from RefSeq   | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | [NCBI](https://www.ncbi.nlm.nih.gov/)   |
+| Kefir | SAGs | Fermented using German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | [Paper](https://www.nature.com/articles/s41564-020-00816-5)   |
+| Soil | MAGs |  Calcarosols from Uluru, Australia   | <ul><li>f__Thermoleophilaceae;g__</li><li>f__Herpetosiphonaceae;g__</li><li>f__Phormidiaceae;g__Microcoleus</li><li>f__Geodermatophilaceae;g__Geodermatophilus</li><li>f__Rubrobacteraceae;g__Rubrobacter_A</li></ul>   | <ul><li>[Data source](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982)</li><li>[Analysis](https://doi.org/10.1093/nar/gkab815)</li></ul>  |
 
 
 ### 💡 Key points: CarveMe
