@@ -38,6 +38,55 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 
 ### 💡 Key points: CarveMe
 
+Usage:
+
+```
+$ carve -h
+
+smusage: carve [-h] [--dna | --egg | --refseq] [--diamond-args DIAMOND_ARGS]
+             [-r] [-o OUTPUT] [-u UNIVERSE | --universe-file UNIVERSE_FILE]
+             [--cobra | --fbc2] [-n ENSEMBLE] [-g GAPFILL] [-i INIT]
+             [--mediadb MEDIADB] [-v] [-d] [--soft SOFT] [--hard HARD]
+             [--reference REFERENCE]
+             INPUT [INPUT ...]
+
+Reconstruct a metabolic model using CarveMe
+
+positional arguments:
+  INPUT                 Input (protein fasta file by default, see other options for details).
+                        When used with -r an input pattern with wildcards can also be used.
+                        When used with --refseq an NCBI RefSeq assembly accession is expected.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --dna                 Build from DNA fasta file
+  --egg                 Build from eggNOG-mapper output file
+  --refseq              Download genome from NCBI RefSeq and build
+  --diamond-args DIAMOND_ARGS
+                        Additional arguments for running diamond
+  -r, --recursive       Bulk reconstruction from folder with genome files
+  -o OUTPUT, --output OUTPUT
+                        SBML output file (or output folder if -r is used)
+  -u UNIVERSE, --universe UNIVERSE
+                        Pre-built universe model (default: bacteria)
+  --universe-file UNIVERSE_FILE
+                        Reaction universe file (SBML format)
+  --cobra               Output SBML in old cobra format
+  --fbc2                Output SBML in sbml-fbc2 format
+  -n ENSEMBLE, --ensemble ENSEMBLE
+                        Build model ensemble with N models
+  -g GAPFILL, --gapfill GAPFILL
+                        Gap fill model for given media
+  -i INIT, --init INIT  Initialize model with given medium
+  --mediadb MEDIADB     Media database file
+  -v, --verbose         Switch to verbose mode
+  -d, --debug           Debug mode: writes intermediate results into output files
+  --soft SOFT           Soft constraints file
+  --hard HARD           Hard constraints file
+  --reference REFERENCE
+                        Manually curated model of a close reference species.
+```
+
 1. The top-down approach
    - based on a universal and well-curated bacterial model, **carves** out a species specific model based on organism's genome.
 2. The BiGG database
@@ -80,6 +129,65 @@ done< <(ls genomes/*.faa)
 ```
 
 ### 🔑 Key points: SMETANA
+
+Usage:
+
+```
+$ smetana -h
+
+usage: smetana [-h] [-c COMMUNITIES.TSV] [-o OUTPUT] [--flavor FLAVOR]
+               [-m MEDIA] [--mediadb MEDIADB]
+               [-g | -d | -a ABIOTIC | -b BIOTIC] [-p P] [-n N] [-v] [-z]
+               [--solver SOLVER] [--molweight] [--exclude EXCLUDE]
+               [--no-coupling]
+               MODELS [MODELS ...]
+
+Calculate SMETANA scores for one or multiple microbial communities.
+
+positional arguments:
+  MODELS                
+                        Multiple single-species models (one or more files).
+                        
+                        You can use wild-cards, for example: models/*.xml, and optionally protect with quotes to avoid automatic bash
+                        expansion (this will be faster for long lists): "models/*.xml". 
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -c COMMUNITIES.TSV, --communities COMMUNITIES.TSV
+                        
+                        Run SMETANA for multiple (sub)communities.
+                        The communities must be specified in a two-column tab-separated file with community and organism identifiers.
+                        The organism identifiers should match the file names in the SBML files (without extension).
+                        
+                        Example:
+                            community1	organism1
+                            community1	organism2
+                            community2	organism1
+                            community2	organism3
+                        
+  -o OUTPUT, --output OUTPUT
+                        Prefix for output file(s).
+  --flavor FLAVOR       Expected SBML flavor of the input files (cobra or fbc2).
+  -m MEDIA, --media MEDIA
+                        Run SMETANA for given media (comma-separated).
+  --mediadb MEDIADB     Media database file
+  -g, --global          Run global analysis with MIP/MRO (faster).
+  -d, --detailed        Run detailed SMETANA analysis (slower).
+  -a ABIOTIC, --abiotic ABIOTIC
+                        Test abiotic perturbations with given list of compounds.
+  -b BIOTIC, --biotic BIOTIC
+                        Test biotic perturbations with given list of species.
+  -p P                  Number of components to perturb simultaneously (default: 1).
+  -n N                  
+                        Number of random perturbation experiments per community (default: 1).
+                        Selecting n = 0 will test all single species/compound perturbations exactly once.
+  -v, --verbose         Switch to verbose mode
+  -z, --zeros           Include entries with zero score.
+  --solver SOLVER       Change default solver (current options: 'gurobi', 'cplex').
+  --molweight           Use molecular weight minimization (recomended).
+  --exclude EXCLUDE     List of compounds to exclude from calculations (e.g.: inorganic compounds).
+  --no-coupling         Don't compute species coupling scores.
+```
 
 **Detailed algorithm**
 
