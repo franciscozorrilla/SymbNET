@@ -2,7 +2,7 @@
 title: "plot_smetana_detailed"
 author: "Francisco Zorrilla"
 date: "15/01/2022"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
