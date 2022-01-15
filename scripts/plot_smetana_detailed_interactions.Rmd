@@ -9,22 +9,67 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Packages
+
+```{r}
+library(tidyverse) # data manipulation
+library(ggpubr) # statistical testing and figure manipulation
+library(ggalluvial) # easy alluvial diagrams
+```
+
+## SMETANA detailed interactions
+
+We will now generate sankey/alluvial diagrams using the metabolic predictions from SMETANA.
+
+```{r}
+## Set working directory inside scripts folder of cloned repo
+#setwd("~/path/to/SymbNET/scripts")
+
+# Load data & take average across simulations within each community, remember to unzip smet_all.tsv.gz!
+smet_all <- read.delim("../data/smet_all.tsv") %>% 
+     select(-medium) %>% 
+     group_by(simulation,compound,receiver,donor) %>% 
+     mutate(ave_smet = mean(smetana)) %>%
+     ungroup() %>%
+     select(-simulation,-mps,-mus,-scs,-smetana) %>%
+     unique() %>%
+     filter(ave_smet!=0) %>%
+     mutate(community=as.factor(community))%>%
+     mutate(receiver=as.factor(receiver))%>%
+     mutate(donor=as.factor(donor))%>%
+     mutate(compound=as.factor(compound))
+
+# Summary from data manipulation
+summary(smet_all)
+```
+
+# Kefir community
+
+We already have some clues as to what interactions may be occurring in this community from the original publication (see, https://www.nature.com/articles/s41564-020-00816-5). As an exploratory first step, plot the distribution of average SMETANA scores across metabolites.
+
+```{r kefir_smet_distribution}
+ggplot(smet_all %>% filter(community =="kefir"),aes(x=compound,y=ave_smet)) + geom_boxplot() + coord_flip()
+```
+
+We need to filter down to some metabolites of interest to get a reasonable plot (try removing the metabolite filter to see what I mean)
+
+```{r kefir_interactions}
+# filter by compound list
+mets = c("M_val__L_e","M_tyr__L_e","M_trp__L_e","M_his__L_e","M_phe__L_e","M_fol_e")
+
+# Plot kefir
+ggplot(smet_all %>% filter(community =="kefir",compound%in%mets),
+       aes(axis1 = donor, axis2 = compound, axis3 = receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = compound)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+
+```
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=TRUE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
