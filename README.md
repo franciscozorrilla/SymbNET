@@ -100,32 +100,30 @@ optional arguments:
 
 ### Example code
 
-Kefir GEMs:
+#### Kefir GEMs
 ```
 while read model;do 
    carve -v --mediadb data/milk_composition.tsv -g MILK --cobra -o ${model}.xml $model;
 done< <(ls genomes/kefir/*.faa)
 ```
 
-Gut GEMs:
+#### Gut GEMs
 ```
 while read model;do     
    carve -v --mediadb data/media_db.tsv -g M8 --cobra -o ${model}.xml $model;
 done< <(ls genomes/gut_*.faa)
 ```
 
-Soil GEMs:
+#### Soil GEMs
 ```
 while read model;do     
    carve -v --cobra -o ${model}.xml $model;
 done< <(ls genomes/soil/*.faa)
 ```
 
-Note: model carving and gapfilling problems can result in multiple possible solutions!
+Note: the posed linear programming model carving and gapfilling problems can result in multiple equivalent solutions. Use the ensemble flag to generate a user-defined number of equally plausible models to be stored in a single sbml file, e.g. `-n 100`. One can then calculate the pairwise jaccard distance between models within ensembles to [quantify network uncertainity](https://github.com/cdanielmachado/carveme_paper/blob/master/notebooks/Ensemble%20distances.ipynb).
 
-Use the ensemble flag to generate a user-defined number of equally plausible models to be stored in a single sbml file, e.g. `-n 100`. One can then calculate the pairwise jaccard distance between models within ensembles to [quantify network uncertainity](https://github.com/cdanielmachado/carveme_paper/blob/master/notebooks/Ensemble%20distances.ipynb).
-
-Build ensemble models:
+#### Build ensemble models
 ```
 while read model;
  do carve -v --cobra -n 100 -o ${model}.xml $model; 
@@ -195,7 +193,7 @@ optional arguments:
 
 ### Key points
 
-**Detailed algorithm**
+#### Detailed algorithm
 
 1. The species coupling score (SCS) measures the dependence of growth of species A on species B (SCS<sub>A,B</sub>)
    - calculated by enumerating all possible community member subsets where species A can grow, SCS<sub>A,B</sub> is the fraction of subsets where both species A and B can grow.
@@ -206,7 +204,7 @@ optional arguments:
    - measures how strongly a receiver species relies on a donor species for a particular metabolite
    - SMETANA<sub>A,B,*m*</sub> = SCS<sub>A,B</sub> * MUS<sub>A,*m*</sub> * MPS<sub>B,*m*</sub>
 
-**Global algorithm**
+#### Global algorithm
 
 1. The metabolic interaction potential (MIP) measures the propensity of a given community to exchange metabolites, and is defined as the maximum number of essential nutritional components that a community can provide for itself through interspecies metabolic exchanges.
 2. The metabolic resource overlap (MRO) measures the degree of metabolic competition in a community, and is defined as the maximum possible overlap between the minimal nutritional requirements of all member species.
@@ -216,23 +214,22 @@ optional arguments:
 
 Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP and MRO (metabolic resource overlap).
 
-Running a series of global simulations:
+#### Running a series of global simulations
 ```
 for i in {1..100}; do 
  echo "Running simulation $i out of 100 ... "; 
  smetana --flavor ucsd -o sim_${i} -v -g *.xml;
 done
-
 ```
 
-Gut example for detailed interactions:
+#### Gut example for detailed interactions
 ```
 smetana --flavor cobra -o gut_normal -v -d --mediadb data/media_db.tsv -m M3 *.xml
 ```
 
 Note: There may be equivalent solutions that satisfy the linear programming problems posed by the detailed and global algorithms. To explore the solution space run multiple simulations and then take averages. Use the `--molweight` flag to predict interactions on community-specific minimal media. Use the `--zeros` flag to take averages across samples.
 
-Running a series of detailed simulations:
+#### Running a series of detailed simulations
 ```
 for i in {1..100}; do 
  echo "Running simulation $i out of 100 ... "; 
@@ -242,7 +239,7 @@ done
 
 ## 🏖️ Daniel's repos
 
-**Tools**
+### Tools
 
  - [DesignMC](https://github.com/cdanielmachado/designmc): Design microbial communities for production of specific target compounds using GEMs 
 
@@ -250,7 +247,7 @@ done
 
  - [Reframed](https://github.com/cdanielmachado/reframed): Metabolic modeling package
 
-**Resources**
+### Resources
 
  - [Cooccurrence paper](https://github.com/cdanielmachado/cooccurrence): Supplement repo to cooccurrence paper
 
@@ -260,7 +257,7 @@ done
 
  - [EMBL GEMs](https://github.com/cdanielmachado/embl_gems): Collection of RefSeq-based GEMs
 
-Please cite [Daniel Machado](https://orcid.org/0000-0002-2063-5383)'s relevant literature if you make use of these tools and resources!
+Please cite [Daniel Machado](https://orcid.org/0000-0002-2063-5383)'s relevant literature if you make use of these tools and/or resources.
 
 ## 📚 Suggested Reading
 
