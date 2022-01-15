@@ -9,6 +9,17 @@ This module will cover practical aspects of metagenomics-based metabolic modelin
  - Exploring uncertainty in GEM reconstruction and simulation
  - Reference genomes vs MAGs/SAGs
 
+## ☑️ Exercises
+
+ 1. Use CarveMe to generate a community of GEMs
+ 2. Visualize model metrics different species across conditions
+ 3. Generate ensemble models
+ 4. Quantify network uncertainity
+ 5. Use SMETANA global algorithm to generate MIP & MRO metrics for community of GEMs
+ 6. Visualize communities on cooperation-competition plot
+ 7. Use SMETANA detailed algorithm to predict metabolic interactions between species
+ 8. Visualize deteailed interactions with alluvial diagrams
+
 ## 🍬 Tools
 
 | Tool | Task | GitHub | Reference |
