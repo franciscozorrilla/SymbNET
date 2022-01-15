@@ -92,7 +92,7 @@ optional arguments:
 1. The top-down approach
    - based on a universal and well-curated bacterial model, **carves** out a species specific model based on organism's genome.
 2. The BiGG database
-   - connects protein sequences with standardized and curated metabolic reaction knowledgebase.
+   - connects protein sequences with standardized and curated metabolic reaction [knowledgebase](http://bigg.ucsd.edu/).
 3. The carving algorithm
    - MILP formulation to maximize presence of high genomic evidence reactions, minimize presence of low genomic evidence reactions, enforce gapless pathways.
 4. The gap-filling algorithm
