@@ -1,0 +1,1617 @@
+bigg	name	super_class	class	sub_class
+thm	Thiamine	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+26dap__M	Meso-2,6-Diaminoheptanedioate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+3cmp	3 CMP	Nucleosides, nucleotides, and analogues	Ribonucleoside 3'-phosphates	Ribonucleoside 3'-phosphates
+5mtr	5-Methylthio-D-ribose	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives
+chols	Choline sulfate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal sulfates
+citr__L	L-Citrulline	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glyald	D-Glyceraldehyde	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides
+id3acald	Indole 3 acetaldehyde	Organoheterocyclic compounds	Indoles and derivatives	Indoles and derivatives
+malt	Maltose	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides
+pnto__R	(R)-Pantothenate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+progly	Prolylglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+uaagmda	uaagmda	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives
+udcpp	Undecaprenyl phosphate	Lipids and lipid-like molecules	Prenol lipids	Polyprenols
+10fthf	10-Formyltetrahydrofolate	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+12ppd__S	(S)-Propane-1,2-diol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+13Shocdcy1829Z11Ea	13S-hydroxyoctadecadienoic acid	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives
+13Shpocdcy1829Z11Ea	13-L-Hydroperoxylinoleic acid	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives
+13dpg	3-phosphonato-D-glyceroyl Phosphate(4-)	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+13oocdcy1829Z11Ea	13-OxoODE	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives
+15dap	Cadaverine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+1Dgali	Galactinol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+1acpc	1-Aminocyclopropanecarboxylic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+1agpe140	LysoPE(14:0/0:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+1agpe160	LysoPE(16:0/0:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+1agpg180	1-Stearoylglycerophosphoglycerol	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerols
+1btol	1-Butanol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+1ddecg3p	1-dodecanoyl-glycero-3-phosphate	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+1mncam	1-Methylnicotinamide	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives
+1mpyr	1-Methylpyrrolinium	Organoheterocyclic compounds	Pyrrolines	
+1odecg3p	LysoPA(18:0/0:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+1p3h5c	(3R,5S)-1-pyrroline-3-hydroxy-5-carboxylic Acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+1pipdn2c	D-1-Piperideine-2-carboxylic acid	Organoheterocyclic compounds	Pyridines and derivatives	Hydropyridines
+1pipdn2c	1-piperideine-2-carboxylate	Organoheterocyclic compounds	Pyridines and derivatives	Hydropyridines
+1pyr5c	1-Pyrroline-5-carboxylic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+1tdecg3p	1-tetradecanoyl-sn-glycero-3-phosphate	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+23cump	Uridine 2',3'-cyclic phosphate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Cyclic pyrimidine nucleotides
+23dappa	2,3-Diaminopropionic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+23dhb	2-Pyrocatechuic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+23dhmb	(R)-2,3-Dihydroxy-isovalerate	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+23dhmp	(R) 2,3-Dihydroxy-3-methylvalerate	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+23doguln	Diketogulonic acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+23doguln	2,3-Diketo-L-gulonate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+23doguln	2,3-diketogulonate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+24dab	L-2,4-diaminobutyric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+25aics	SAICAR	Nucleosides, nucleotides, and analogues	Imidazole ribonucleosides and ribonucleotides	1-ribosyl-imidazolecarboxamides
+26dap_LL	Diaminopimelic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+26dmani	2,6-Dimethylaniline	Benzenoids	Benzene and substituted derivatives	Xylenes
+2a3pp	2-Amino-3-phosphonopropionic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+2agpe140	LysoPE(0:0/14:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+2agpe160	LysoPE(0:0/16:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+2agpe180	LysoPE(0:0/18:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+2agpg180	2-Stearoylglycerophosphoglycerol	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerols
+2ahbut	(S)-2-Aceto-2-hydroxybutanoic acid	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+2ahethmpp	2-(a-Hydroxyethyl)thiamine diphosphate	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+2amac	2-Aminoacrylic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+2ameph	Ciliatine	Organic acids and derivatives	Organic phosphonic acids and derivatives	Organic phosphonic acids
+2aobut	L-2-Amino-3-oxobutanoic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+2coum	Coumaric acid	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+2coum	Cis-2-coumarate	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+2ddg6p	2-Keto-3-deoxy-6-phosphogluconic acid	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives
+2ddglcn	2-Keto-3-deoxy-D-gluconic acid	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives
+2dr1p	Deoxyribose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+2h34hppr	2-Hydroxy-3-(4-hydroxyphenyl)propenoic acid	Benzenoids	Benzene and substituted derivatives	Phenylpyruvic acid derivatives
+2h3opp	Tartronate semialdehyde	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+2h3oppan	Tartronate semialdehyde	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+hop	Tartronate semialdehyde	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+2hb	2-Hydroxybutyric acid	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives
+2hbut	2-Hydroxybutyric acid	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives
+2hdecg3p	LysoPA(0:0/16:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+2hog	2-Hydroxyglutarate	Organic acids and derivatives	Hydroxy acids and derivatives	Short-chain hydroxy acids and derivatives
+2hp6mp	2-Hexaprenyl-6-methoxyphenol	Lipids and lipid-like molecules	Prenol lipids	Polyprenylphenols
+2hxmp	2-Hydroxybenzyl alcohol	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols
+2hymeph	2-Hydroxybenzyl alcohol	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols
+2hyoxplac	Ortho-Hydroxyphenylacetic acid	Benzenoids	Benzene and substituted derivatives	Phenylacetic acids
+2ippm	Isopropylmaleate	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+2kmb	2-Oxo-4-methylthiobutanoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+4met2obut	2-Oxo-4-methylthiobutanoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+2maacoa	2-Methylacetoacetyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+2mb2coa	Tiglyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+2mb2coa	2-methylcrotonoyl-CoA(4-)	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+2mbac	2-Methylbutyl acetate	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+2mbald	(±)-2-Methylbutanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+2mbcoa	2-Methylbutyryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+2mbdhl	S-(2-Methylbutanoyl)-dihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+HC01376	S-(2-Methylbutanoyl)-dihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+2mbtoh	(S)-2-Methyl-1-butanol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+2mcacn	cis-2-Methylaconitate	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+2mcit	2-Methylcitric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+2mhob	2-Methyl-1-hydroxybutyl-ThPP	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+2mhop	2-Methyl-1-hydroxypropyl-ThPP	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+2mop	2-Methyl-3-oxopropanoic acid	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+2mp2coa	Methacrylyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+2mpdhl	S-(2-Methylpropionyl)-dihydrolipoamide-E	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides
+2mppal	2-Methylpropanal	Organooxygen compounds	Carbonyl compounds	Aldehydes
+2obut	2-Ketobutyric acid	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+2odecg3p	LysoPA(0:0/18:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+2ommbl	2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol	Lipids and lipid-like molecules	Prenol lipids	Sesterterpenoids
+2oxoadp	Oxoadipic acid	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives
+2pcpgc	2-(3,4-Dihydroxybenzoyloxy)-4,6-dihydroxybenzoate	Phenylpropanoids and polyketides	Depsides and depsidones	
+2pg	2-Phospho-D-glyceric acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+2pg	2-phosphonato-D-glycerate(3-)	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+2pglyc	Phosphoglycolic acid	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+2phetoh	2-Phenylethanol	Benzenoids	Benzene and substituted derivatives	
+2ppoh	Isopropyl alcohol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+34dhbald	3,4-Dihydroxybenzaldehyde	Benzenoids	Benzene and substituted derivatives	Benzaldehydes
+34dhbz	Protocatechuic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+34dhcinm	Caffeic acid	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+34dhcinm	3,4-Dihydroxy-trans-cinnamate	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+34dhmald	3,4-Dihydroxymandelaldehyde	Benzenoids	Benzene and substituted derivatives	Phenylacetaldehydes
+34dhoxpeg	3,4-Dihydroxyphenylglycol	Benzenoids	Phenols	Benzenediols
+34dhpac	3,4-Dihydroxyphenylacetaldehyde	Benzenoids	Benzene and substituted derivatives	Phenylacetaldehydes
+34dhpacet	3,4-Dihydroxybenzeneacetic acid	Benzenoids	Phenols	Benzenediols
+34dhpha	3,4-Dihydroxybenzeneacetic acid	Benzenoids	Phenols	Benzenediols
+34hpl	Hydroxyphenyllactic acid	Phenylpropanoids and polyketides	Phenylpropanoic acids	
+34hpp	4-Hydroxyphenylpyruvic acid	Benzenoids	Benzene and substituted derivatives	Phenylpyruvic acid derivatives
+35cgmp	Cyclic GMP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Cyclic purine nucleotides
+36dahx	(3S)-3,6-Diaminohexanoate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+3aap	Acetamidopropanal	Organooxygen compounds	Carbonyl compounds	Aldehydes
+3aib	(R)-b-aminoisobutyric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+3amba	3-Aminobutanoic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+3amp	3'-AMP	Nucleosides, nucleotides, and analogues	Ribonucleoside 3'-phosphates	
+3c4mop	2-Isopropyl-3-oxosuccinate	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+3ddcrn	3-hydroxydodecanoyl carnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+3deccrn	3-hydroxydecanoyl carnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+3dh5hpb	3-Hexaprenyl-4,5-Dihydroxybenzoic acid	Lipids and lipid-like molecules	Prenol lipids	Polyprenylphenols
+3dhguln	3-Dehydro-L-gulonate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+3dhq	3-Dehydroquinate	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives
+3dsphgn	3-Dehydrosphinganine	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+3dsphgn	3-dehydrosphinganinium(1+)	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+3hadpcoa	(3S)-3-Hydroxyadipyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hadpcoa	3-Hydroxypentanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hanthrn	3-Hydroxyanthranilic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+3hbcoa	(S)-3-Hydroxybutyryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hbycoa	(S)-3-Hydroxybutyryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hcinnm	m-Coumaric acid	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+3hdcoa	(S)-Hydroxydecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hddcoa	(S)-3-Hydroxydodecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hddcoa	3S-hydroxydodecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hexdcrn	3-Hydroxyhexadecanoylcarnitine	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives
+3hexdcrn	3-hydroxyhexadecanoyl carnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+3hhcoa	(S)-Hydroxyhexanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hhcoa	3S-hydroxy-hexanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hhdcoa	(S)-3-Hydroxyhexadecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hhdcoa	3S-hydroxyhexadecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hib	(S)-3-Hydroxyisobutyric acid	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives
+3hibutcoa	(S)-3-Hydroxyisobutyryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+hibcoa	(S)-3-Hydroxyisobutyryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hivcoa	3-Hydroxyisovaleryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hlido	3-Hydroxylidocaine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+3hmbcoa	2-Methyl-3-hydroxybutyryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hmp	3-hydroxy-2-isobutyrate	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives
+3hocoa	(S)-Hydroxyoctanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hoxpac	3-Hydroxyphenylacetic acid	Benzenoids	Phenols	1-hydroxy-4-unsubstituted benzenoids
+3hpcoa	3-hydroxypropanoyl-CoA(4-)	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hph5mb	3-Hexaprenyl-4-hydroxy-5-methoxybenzoic acid	Lipids and lipid-like molecules	Prenol lipids	Polyprenylphenols
+3hpimcoa	3-Hydroxypimelyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hpp	Hydroxypropionic acid	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives
+3hppnl	3-Hydroxypropanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+3hpppn	3-(3-Hydroxyphenyl)propanoic acid	Phenylpropanoids and polyketides	Phenylpropanoic acids	
+3htdcoa	(S)-3-Hydroxytetradecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3hxkynam	3-Hydroxykynurenamine	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+3mb	Isovaleric acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+3mb2coa	3-Methylcrotonyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3mbald	Iso-Valeraldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+3mbzald	3-Methylbenzaldehyde	Benzenoids	Benzene and substituted derivatives	Benzoyl derivatives
+3mgcoa	3-Methylglutaconyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3mhtpp	3-Methyl-1-hydroxybutyl-ThPP	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+3mob	alpha-Ketoisovaleric acid	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+3mox4hpac	Homovanillin	Benzenoids	Phenols	Methoxyphenols
+3moxtyr	3-Methoxytyramine	Benzenoids	Phenols	Methoxyphenols
+3mtp	3-Methylthiopropionic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+C08276	3-Methylthiopropionic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+mtpp	3-Methylthiopropionic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+3odcoa	3-Oxodecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3oddcoa	3-Oxododecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3oddcoa	3-oxo-dodecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3ohcoa	3-Oxohexanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3ohcoa	3-oxo-hexanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3ohdcoa	3-Oxohexadecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3ohodcoa	3-Oxooctadecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3ohxccoa	3-Oxohexacosyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3ohxccoa	3-Oxohexacosanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3ophb_5	3-Hexaprenyl-4-hydroxybenzoic acid	Lipids and lipid-like molecules	Prenol lipids	Polyprenylphenols
+3otdcoa	3-Oxotetradecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+3oxoadp	3-Oxoadipic acid	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives
+3pg	(2R)-2-Hydroxy-3-(phosphonatooxy)propanoate	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives
+3php	Phosphohydroxypyruvic acid	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+3sala	3-Sulfinoalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+3sala	3-Sulfinato-L-alaninate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+3spyr	3-Sulfopyruvic acid	Organic acids and derivatives	Keto acids and derivatives	Alpha-keto acids and derivatives
+3tdcrn	3-hydroxytetradecanoyl carnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+3uib	Ureidoisobutyric acid	Organic acids and derivatives	Organic carbonic acids and derivatives	Ureas
+3ump	3'-UMP	Nucleosides, nucleotides, and analogues	Ribonucleoside 3'-phosphates	
+46dhoxquin	4,6-Dihydroxyquinoline	Organoheterocyclic compounds	Quinolines and derivatives	Quinolones and derivatives
+48dhoxquin	Quinoline-4,8-diol	Organoheterocyclic compounds	Quinolines and derivatives	Quinolones and derivatives
+4aabutn	4-Acetamidobutanoic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+4abut	gamma-Aminobutyric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+4abutn	4-Aminobutyraldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+4abz	p-Aminobenzoic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+4crsol	p-Cresol	Benzenoids	Phenols	Cresols
+4fumacac	4-Fumarylacetoacetic acid	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives
+4gudbutn	4-Guanidinobutanoic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+4h2oglt	4-Hydroxy-2-oxoglutaric acid	Organic acids and derivatives	Keto acids and derivatives	Gamma-keto acids and derivatives
+4h3npac	4-hydroxy-3-nitrophenylacetate	Organic compounds	Benzenoids	Phenols
+CE1957	4-hydroxy-3-nitrophenylacetate	Organic compounds	Benzenoids	Phenols
+4hba	4-Hydroxybenzyl alcohol	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols
+4hbald	4-Hydroxybenzaldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+4hbz	4-Hydroxybenzoic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+4hbzcoa	4-hydroxybenzoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+4hbzcoa	4-Hydroxybenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+4hglu	4-Hydroxy-L-glutamic acid	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives
+4hglusa	L-4-Hydroxyglutamate semialdehyde	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+4hoxpac	p-Hydroxyphenylacetic acid	Benzenoids	Phenols	1-hydroxy-2-unsubstituted benzenoids
+4hoxpacd	4-Hydroxyphenylacetaldehyde	Benzenoids	Benzene and substituted derivatives	Phenylacetaldehydes
+4hphac	4-Hydroxyphenyl acetate	Benzenoids	Phenol esters	
+4izp	5-(2-carboxylatoethyl)-4-oxo-4,5-dihydro-1H-imidazol-5-ide	Organoheterocyclic compounds	Azoles	Imidazoles
+4mbzalc	4-Methylbenzyl alcohol	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols
+4mbzald	4-Methylbenzaldehyde	Benzenoids	Benzene and substituted derivatives	Benzoyl derivatives
+4mcat	4-Methylcatechol	Benzenoids	Phenols	Benzenediols
+4mhetz	5-(2-Hydroxyethyl)-4-methylthiazole	Organoheterocyclic compounds	Azoles	Thiazoles
+4mlacac	Maleylacetoacetic acid	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives
+4mop	Ketoleucine	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+4mzym_int1	4-Methylzymosterol intermediate 1	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+4mzym_int2	4-Methylzymosterol intermediate 2	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids
+4pasp	L-Aspartyl-4-phosphate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+4ppan	D-4'-Phosphopantothenate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+4ppan	(R)-4'-phosphonatopantothenate(3-)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+4tmeabutn	4-Trimethylammoniobutanoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+gbbtn	4-Trimethylammoniobutanoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+56dh5flura	5,6-Dihydro-5-fluorouracil	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+56dthm	Dihydrothymine	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+56dura	Dihydrouracil	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+5a2opntn	5-Amino-2-oxopentanoic acid	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+5aizc	5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+5aizc	5-Phosphoribosyl-4-carboxy-5-aminoimidazole	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+5aop	5-Aminolevulinic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+5apentam	5-Aminopentanamide	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+5aprbu	5-Amino-6-(5'-phosphoribitylamino)uracil	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+5aptn	5-Aminopentanoic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+5caiz	N5-Carboxyaminoimidazole ribonucleotide	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+5dpmev	(S)-5-Diphosphomevalonic acid	Organic oxygen compounds	Organic oxoanionic compounds	Organic pyrophosphates
+5flura	Fluorouracil	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+5flurimp	5-Fluorouridine monophosphate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+5forthf	5-Formiminotetrahydrofolic acid	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+5fthf	Folinic acid	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+5fthf	(6S)-5-formyltetrahydrofolate(2-)	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+5g2oxpt	2-Oxoarginine	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+5hiu	5-Hydroxyisourate	Alkaloids and derivatives		
+C11821	5-Hydroxyisourate	Alkaloids and derivatives		
+5houdic	5-hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+houdic	5-hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+5hoxindact	5-Hydroxyindoleacetaldehyde	Organoheterocyclic compounds	Indoles and derivatives	Hydroxyindoles
+5hxkynam	5-Hydroxykynurenamine	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+5mcsn	5-Methylcytosine	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+5mdru1p	5-Methylthioribulose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+5moxact	5-Methoxyindoleacetate	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives
+5mta	5'-Methylthioadenosine	Nucleosides, nucleotides, and analogues	5'-deoxyribonucleosides	5'-deoxy-5'-thionucleosides
+5mthf	5-Methyltetrahydrofolic acid	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+5oxpro	Pyrrolidonecarboxylic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+5oxpro	5-Oxoprolinate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+5pmev	Mevalonic acid-5P	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+5prdmbz	N1-(5-Phospho-a-D-ribosyl)-5,6-dimethylbenzimidazole	Nucleosides, nucleotides, and analogues	Benzimidazole ribonucleosides and ribonucleotides	
+6a2ohxnt	2-Keto-6-aminocaproate	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives
+6ampenc	6-Aminopenicillanic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+6apa	6-Aminopenicillanic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+6ax	Aminocaproic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+6dg	Melibiose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+6hch1eccoa	6-Hydroxycyclohex-1-ene-1-carboxyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+6hnac	6-Hydroxynicotinic acid	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives
+6mpur	Mercaptopurine	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+6occhcoa	6-Oxocyclohex-1-ene-1-carboxyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+6pgc	6-Phosphogluconic acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+6pgc	6-phosphonatooxy-D-gluconate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+6pgl	6-Phosphonoglucono-D-lactone	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+6pgl	6-O-phosphonato-D-glucono-1,5-lactone(2-)	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+6tgsnmp	6-Thioguanosine monophosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+6tgsnmp	6-Thioguanylic acid	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+6tins5mp	6-Thioinosine-5'-monophosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+6txan5mp	6-Thioxanthine 5'-monophosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+B_ara1p	Beta-L-arabinose 1-phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+C01601	Pelargonic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+nona	Pelargonic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+C02147	Dihydrolipoate	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+C02356	L-alpha-Aminobutyric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+C02442	N-Methyltyramine	Benzenoids	Benzene and substituted derivatives	Phenethylamines
+C02470	Xanthurenic acid	Organoheterocyclic compounds	Quinolines and derivatives	Quinoline carboxylic acids
+C02528	Chenodeoxycholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+C02744	Psychosine sulfate	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids
+C03413	N1,N12-Diacetylspermine	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+C03413	N(1),N(12)-diacetylsperminium(2+)	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+C03577	20-Hydroxy-leukotriene E4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+C03693	D-Mannose 1,6-bisphosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+C03958	Thyrotropin releasing hormone	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+C04051	5-Aminoimidazole-4-carboxamide	Organoheterocyclic compounds	Azoles	Imidazoles
+C04843	(5Z,9E,12S,14Z)-8,11,12-Trihydroxyicosa-5,9,14-trienoate	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+C04849	(5Z,9E,14Z)-(8xi,11R,12S)-11,12-epoxy-8-hydroxyicosa-5,9,14-trienoic Acid	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+C05284	11b-Hydroxyandrost-4-ene-3,17-dione	Lipids and lipid-like molecules	Steroids and steroid derivatives	Androstane steroids
+C05298	2-Hydroxyestrone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+C05299	2-Methoxyestrone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+C05300	16a-Hydroxyestrone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+C05301	2-Hydroxyestradiol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+C05708	Selenomethionine se-oxide	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+C05957	Prostaglandin J2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+C06199	Hordenine	Benzenoids	Benzene and substituted derivatives	Phenethylamines
+C06314	Lipoxin A4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+C06315	Lipoxin B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+C06350	(R,S)-Norlaudanosoline	Organoheterocyclic compounds	Isoquinolines and derivatives	Benzylisoquinolines
+C06453	Methylcobalamin	Organic compounds	Organoheterocyclic compounds	Tetrapyrroles and derivatives
+C06948	Diazepam	Organoheterocyclic compounds	Benzodiazepines	1,4-benzodiazepines
+C07486	Nordiazepam	Organoheterocyclic compounds	Benzodiazepines	1,4-benzodiazepines
+C07535	Benzo[a]pyrene	Benzenoids	Pyrenes	Benzopyrenes
+C09209	Harman	Alkaloids and derivatives	Harmala alkaloids	
+C09640	(-)-Salsoline	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+C09642	Salsolinol	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+C11304	S-(PGA1)-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+C11695	Anandamide	Organic nitrogen compounds	Organonitrogen compounds	Amines
+C13856	2-Arachidonylglycerol	Lipids and lipid-like molecules	Endocannabinoids	
+C14768	5,6-Epoxy-8,11,14-eicosatrienoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+C14769	8,9-Epoxyeicosatrienoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+C14771	14,15-Epoxy-5,8,11-eicosatrienoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+C14825	9,10-Epoxyoctadecenoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+C14849	Benzo[a]pyrene-9,10-oxide	Benzenoids	Pyrenes	
+C14851	Benzo[a]pyrene-4,5-oxide	Benzenoids	Phenanthrenes and derivatives	Chrysenes
+CE0074	Alloxan	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+CE0233	5beta-Cholestane-3alpha,7alpha,27-triol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids
+CE0347	12S-hydroxy-5E,8Z,10Z,14Z-eicosatetraenoic acid	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE0737	Malondialdehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+CE0955	6-Keto-prostaglandin F1a	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE1059	N1,N8-Diacetylspermidine	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+CE1102	cis-(3S)-hydroxytetradec-7-enoyl-CoA	Benzenoids	Naphthalenes	Chloronaphthalenes
+CE1243	12S-HHT	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE1274	3alpha,7alpha,12alpha,25-Tetrahydroxy-5beta-cholestane-24-one	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+CE1277	5beta-cholestane-3alpha,7alpha,12alpha,23,25-pentol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+CE1294	27alpha-Hydroxy-8-dehydrocholesterol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+CE1298	3beta-Hydroxy-5-cholestenal	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+CE1401	Homocysteine thiolactone	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE1447	11-Dehydro-thromboxane B2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE1554	N-Acetyl-L-alanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE1589	Deoxycholoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE1617	9-cis-Retinoic acid	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+CE1617	9,13-cis-Retinoic acid	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+CE1787	L-Aspartic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5868	L-Aspartic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+asp__L	L-Aspartic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE1787	1-deoxy-1-(N6-lysino)-D-fructose	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5868	1-deoxy-1-(N6-lysino)-D-fructose	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+asp__L	1-deoxy-1-(N6-lysino)-D-fructose	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE1787	N-acetyl-seryl-aspartate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5868	N-acetyl-seryl-aspartate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+asp__L	N-acetyl-seryl-aspartate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE1918	5-Hydroxytryptophol	Organoheterocyclic compounds	Indoles and derivatives	Hydroxyindoles
+CE1925	3'-carboxy-alpha-chromanol	Organoheterocyclic compounds	Benzopyrans	1-benzopyrans
+CE1936	Spermine dialdehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+CE1937	Spermic acid 1	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE1941	Isoputreanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE1944	1-Pyrrolinium	Organoheterocyclic compounds	Pyrrolines	
+CE2006	4-Hydroxynonenal	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols
+CE2011	Hypothiocyanite	Organosulfur compounds	Thiocyanates	
+CE2020	N-Arachidonoyl glycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2020	N-arachidonoylglycinate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2028	3-Hydroxyisovaleric acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE2047	9,10-DHOME	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE2053	20-oxo-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE2056	20-dihydroxyleukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE2065	Acetylcarnosine	Organic acids and derivatives	Peptidomimetics	Hybrid peptides
+CE2072	Putreanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2084	5-KETE	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE2102	Lipoyllysine	Organoheterocyclic compounds	Dithiolanes	Lipoamides
+CE2122	Indole-3-methyl acetate	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives
+CE2152	1,2,3,4-Tetrahydro-beta-carboline	Organoheterocyclic compounds	Indoles and derivatives	Pyridoindoles
+CE2173	N-methyl-4,6,7-trihydroxy-1,2,3,4-tetrahydroisoquinoline	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+CE2174	4,6,7-Trihydroxy-1,2,3,4-tetrahydroisoquinoline	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+CE2176	3-O-Methyl-a-methyldopa	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2180	4-Hydroxyestrone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+CE2184	2-Hydroxy-3-methoxyestrone	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives
+CE2186	4-Methoxy-17beta-estradiol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+CE2189	4-Methoxyestrone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+CE2196	(R)-1,2-dimethyl-5,6-dihydroxy-tetrahydroisoquinoline	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+CE2201	23S,25-dihydroxyvitamin D3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives
+CE2202	23S,25,26-Trihydroxyvitamin D3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives
+CE2203	25-Hydroxyvitamin D3-26,23-lactol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives
+CE2204	25-Hydroxyvitamin D3-26,23-lactone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives
+CE2206	24-Oxo-1alpha,25-dihydroxyvitamin D3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives
+CE2207	24-Oxo-1alpha,23,25-trihydroxyvitamin D3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives
+CE2209	Dihydroandrosterone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Androstane steroids
+CE2211	Allopregnanolone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Pregnane steroids
+CE2211	Alloepipregnanolone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Pregnane steroids
+CE2242	(2E)-Docosenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2246	3-Hydroxydocosanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2248	3-hydroxyoctadecanoyl-CoA	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls
+CE2249	3-Hydroxytetracosanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2250	3-Oxodocosanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2251	3-Oxoicosanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2251	3-Oxoeicosanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2253	3-Oxotetracosanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2303	9-Hydroxy-10-O-D-glucuronoside-12Z-octadecenoate	Lipids and lipid-like molecules	Saccharolipids	
+CE2304	10-Hydroxy-octadec-12Z-enoate-9-beta-D-glucuronide	Lipids and lipid-like molecules	Saccharolipids	
+CE2305	12-Hydroxy-13-O-D-glucuronoside-octadec-9Z-enoate	Lipids and lipid-like molecules	Saccharolipids	
+CE2306	12-O-D-Glucuronoside-13-hydroxyoctadec-9Z-enoate	Lipids and lipid-like molecules	Saccharolipids	
+CE2313	4,4-Dimethylcholesta-8(9),14-dien-3beta-ol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids
+CE2314	4,4-Dimethyl-5a-cholesta-8-en-3b-ol	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+CE2418	(3S)-3-Hydroxy-cis,cis-palmito-7,10-dienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2420	(3S)-3-Hydroxydodec-cis-6-enoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2421	(3S)-3-Hydroxylinoleoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2445	6-trans-Leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE2516	8,11,14-Eicosatrienoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE2565	15R-hydroxy-5Z,8Z,11Z,13E-eicosatetraenoic acid	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE2568	15-Epi-lipoxin A4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE2576	4-Hydroperoxy-2-nonenal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+CE2577	4-Oxo-2-nonenal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+CE2592	(S)-3-hydroxypalmitoleoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2597	3(S)-3-hydroxydodecen-(5Z)-oyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE2754	Reverse-triiodthyronine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+HC02187	Reverse-triiodthyronine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2838	Maltononaose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+CE2839	Maltodecaose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+CE2847	Fructoseglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2858	Dynorphin A 1-8	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2863	Neurotensin 11-13	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2872	3,5-Dimethoxybenzaldehyde	Benzenoids	Benzene and substituted derivatives	Methoxybenzenes
+CE2874	3'-monoiodo-L-thyronine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2875	3'-Monoiodo-L-thyronine 4'-O-sulfate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2876	3',5'-Diiodo-L-thyronine-beta-D-glucuronoside	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2890	Dynorphin A (6-8)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2891	Dynorphin B	Organic Polymers	Polypeptides	
+CE2916	Neocasomorphin	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE2917	Apelin-13	Organic Polymers	Polypeptides	
+CE2934	2-Methylhippuric acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+CE2947	Xanthurenate-8-O-beta-D-glucoside	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+CE2953	rac-5,6-Epoxy-retinoate	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+CE2955	all-trans-3,4-Didehydroretinoate	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+CE2958	rac-5,6-Epoxy-retinoyl-beta-D-glucuronide	Lipids and lipid-like molecules	Prenol lipids	Terpene glycosides
+CE2961	4-Hydroxy-all-trans-retinyl acetate	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+CE2962	rac-4-Hydroxy-4-O-(beta-D-glucuronide)-all-trans-retinyl acetate	Lipids and lipid-like molecules	Prenol lipids	Terpene glycosides
+CE3038	3beta,7alpha-Dihydroxy-5-cholestenoate	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+CE3075	sorbitol 3-phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+CE3086	4-(2-amino-3-hydroxyphenyl)-4-oxobutanoic acid O-glucoside	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+CE3087	Beta-Carboline	Organoheterocyclic compounds	Indoles and derivatives	Pyridoindoles
+CE3140	1-(1,2,3,4,5-Pentahydroxypent-1-yl)-1,2,3,4-tetrahydro-beta-carboline-3-carboxylate	Alkaloids and derivatives	Harmala alkaloids	
+CE3481	1-Lyso-2-arachidonoyl-phosphatidate	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+CE3554	20-Trihydroxy-leukotriene-B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE4633	Hypochlorite	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal hypochlorites
+CE4633	HClO	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal hypochlorites
+CE4722	beta-Casomorphin (1-6)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE4723	Neocasomorphin (1-5)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE4724	Apelin (1-12)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE4753	Dynorphin B (10-13)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE4754	Dynorphin B (6-9)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE4816	2-trans-9,12,15,18,21-all-cis-Tetracosahexaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4817	3(S)-Hydroxy-docosa-7,10,13,16,19-all-cis-pentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4818	3(S)-Hydroxy-tetracosa-9,12,15,18,21-all-cis-pentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4819	3-Oxo-docosa-7,10,13,16,19-all-cis-pentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4820	3-oxo-all-cis-6,9,12,15,18-Tetracosapentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4821	2-trans-7,10,13,16,19-all-cis-Docosahexaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4824	Tetracosa-9,12,15,18,21-all-cis-pentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4830	2-trans-9,12,15,18-all-cis-Tetracosapentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4831	3(S)-Hydroxy-docosa-7,10,13,16-all-cis-tetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4833	3-Oxo-docosa-7,10,13,16-all-cis-tetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4834	3-Oxo-tetracosa-9,12,15,18-all-cis-tetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4835	2E,7Z,10Z,13Z,16Z-Docosapentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4837	Tetracosa-9,12,15,18-all-cis-tetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4840	(3S)-Hydroxy-eicosa-cis,cis-11,14-dienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4841	3-Oxoeicosa-cis,cis-11,14-dienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4842	trans,cis,cis-2,11,14-Eicosatrienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4843	cis,cis-11,14-Eicosadienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4844	3(S)-Hydroxy-10,13,16-all-cis-docosatrienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4845	3-Oxo-docosa-cis,cis,cis-10,13,16-trienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4846	trans,cis,cis,cis-2,10,13,16-Docosatetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4847	cis,cis,cis-10,13,16-Docosatrienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4848	3(S)-Hydroxy-docosa-10,13,16,19-all-cis-tetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4849	3(S)-Hydroxy-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4850	3-Oxo-docosa-10,13,16,19-all-cis-tetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4851	3-Oxo-tetracosa-12,15,18,21-all-cis-tetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4852	trans,cis,cis,cis,cis-2,10,13,16,19-Docosapentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4853	trans,cis,cis,cis,cis-2,12,15,18,21-Tetracosapentaenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4854	all-cis-10,13,16,19-Docosatetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4855	all-cis-12,15,18,21-Tetracosatetraenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE4876	Delta-12-Prostaglandin J2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE4890	(S)-N-Methylsalsolinol	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+CE4936	N-Acetyl-leukotriene E4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE4968	Isovalerylglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE4969	Isobutyrylglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE4970	2-Methylbutyrylglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE4980	Prostaglandin PGE2 glyceryl ester	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE4987	10,11-dihydro-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE4990	12-Keto-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE4993	10,11-Dihydro-12R-hydroxy-leukotriene C4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5014	anhydroretinol	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+CE5026	5-S-glutathionyl-L-DOPA	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5138	12-Oxo-20-hydroxy-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5139	12-oxo-20-dihydroxy-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5140	12-Oxo-20-trihydroxy-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5141	12,20-Dioxo-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5151	11Z-eicosenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE5178	5-Oxo-6-trans-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5236	O2'-4a-cyclic-tetrahydrobiopterin	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+CE5240	2-Hydroxyestrone-4-S-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5242	2-Hydroxyestrone-1-S-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5243	4-Hydroxy-17beta-estradiol-2-S-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5244	4-Hydroxyestrone-2-S-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5249	17beta-Estradiol-3,4-quinone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Oxosteroids
+CE5250	17beta-Estradiol-2,3-quinone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+CE5251	Estrone-3,4-quinone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Oxosteroids
+CE5252	Estrone-2,3-quinone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+CE5276	Dopamine quinone	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+CE5277	Aminochrome o-semiquinone	Organoheterocyclic compounds	Indoles and derivatives	Indolines
+CE5278	Dopachrome o-semiquinone	Organoheterocyclic compounds	Indoles and derivatives	Indolecarboxylic acids and derivatives
+CE5304	15-deoxy-PGD2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5456	D-Leucic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE5525	12-Oxo-20-carboxy-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE5531	12-Oxo-c-LTB3	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5536	Adrenochrome	Organoheterocyclic compounds	Indoles and derivatives	
+CE5538	Noradrenochrome	Organoheterocyclic compounds	Indoles and derivatives	
+CE5541	Adrenochrome o-semiquinone	Organoheterocyclic compounds	Indoles and derivatives	
+CE5542	Noradrenochrome o-semiquinone	Organoheterocyclic compounds	Indoles and derivatives	Indolines
+CE5545	5-S-Glutathionyl-aminochrome reduced	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5586	Dehydrospermidine	Organic nitrogen compounds	Organonitrogen compounds	Imines
+CE5586	N-[(E)-4-Ammoniobutylidene]propane-1,3-diaminium	Organic nitrogen compounds	Organonitrogen compounds	Imines
+CE5588	Deoxyhypusine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5593	4-OH-Retinal	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+CE5626	Salsolinol 1-carboxylate	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+CE5627	Salsoline-1-carboxylate	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+CE5629	1,2-Dehydrosalsolinol	Organoheterocyclic compounds	Dihydroisoquinolines	
+CE5643	Peroxynitrite	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal peroxynitrites
+CE5654	4-Oxo-13-cis-retinoate	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+CE5656	Lipoyl-AMP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+lipoamp	Lipoyl-AMP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+CE5661	15-Oxo-lipoxin A4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5661	15-oxo-5S,6R-dihydroxy-7E,9E,11Z,13E-eicosatetraenoic acid	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5662	13,14-Dihydro-15-oxo-lipoxin A4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5662	15-oxo-5S,6R-dihydroxy-7E,9E,11Z-eicosatrienoic acid	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5665	Leukoaminochrome	Organoheterocyclic compounds	Indoles and derivatives	Indolines
+CE5726	Prostaglandin PGE2 1-glyceryl ester	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5747	N-Retinylidene-N-retinylethanolamine	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+CE5752	iso-A2E(13-cis)	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+CE5753	iso-A2E(11-cis)	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+CE5754	iso-A2E(9-cis)	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+CE5755	iso-A2E(9,13-di-cis)	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+CE5757	4-Oxo-9-cis-retinoyl-beta-glucuronide	Lipids and lipid-like molecules	Prenol lipids	Terpene glycosides
+CE5789	Kinetensin 1-8	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5795	Neuromedin B (1-3)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5796	Neuromedin B (4-10)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5797	Neuromedin N	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5798	Neuromedin N (1-4)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5842	13'-Hydroxy-alpha-tocopherol	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+CE5843	13'-Carboxy-alpha-tocopherol	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+CE5860	N-Acetyl-5-methoxykynuramine	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+CE5869	Lysyl-Proline	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE5944	10,11-dihydro-12-oxo-LTB4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5945	10,11-dihydro-20-dihydroxy-LTB4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5946	10,11-dihydro-20-trihydroxy-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5947	20-COOH-10,11-dihydro-LTB4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE5971	3(S),5(S),12(R)-trihydroxy-eicosa-8-trans-6,14-cis-trienoyl-CoA	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines
+CE5976	12-oxo-10,11-dihydro-20-COOH-LTB4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE5994	20-Oxo-leukotriene E4	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE5995	20-COOH-leukotriene E4	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6000	nitrosoperoxycarbonate	Organic oxygen compounds	Organic oxoanionic compounds	Organic peroxynitrites
+CE6027	24,25,26,27-Tetranor-23-oxo-hydroxyvitamin D3	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives
+CE6182	20-CoA-20-oxo-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6183	18,20-Dioxo-20-CoA-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6184	18-CoA-18-oxo-dinorleukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6185	Omega-Carboxy-trinor-leukotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+CE6186	18E-20-oxo-20-CoA-LTB4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6187	20-CoA-20-oxo-18R-hydroxyleucotriene B4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6188	CoA-omega-COOH-dinor-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6189	CoA-20-COOH-18-oxo-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6190	CoA-20-COOH-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6191	18E-20-Oxo-20-CoA-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6192	18(R)-Hydroxy-20-oxo-20-CoA-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6193	18-Carboxy-dinor-LTE4	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6198	16,18-Oxo-18-CoA-dinor-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6205	5-Methoxytryptophol	Organoheterocyclic compounds	Indoles and derivatives	Indoles
+CE6225	16E-18-Oxo-18-CoA-dinor-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6226	16(S)-hydroxy-18-oxo-18-CoA-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6227	CoA-18-COOH-15E-dinor-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6228	13E-Tetranor-16-oxo-16-CoA-LTE4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+CE6229	13E-Tetranor-16-carboxy-LTE4	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6230	15-Hydroperoxyeicosa-8Z,11Z,13E-trienoate	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE6232	Prostaglandin G1	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE6234	Prostaglandin H1	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE6235	S-(PGA2)-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6240	9-Deoxy-delta12-PGD2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE6241	S-(9-deoxy-delta12-PGD2)-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6242	S-(PGJ2)-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6243	S-(9-deoxy-delta9,12-PGD2)-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6244	S-(11-hydroxy-9-deoxy-delta12-PGD2)-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6245	S-(11-OH-9-deoxy-delta9,12-PGD2)-glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE6251	12,20-DiHETE	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE6317	N,N-dimethylindoliumolate	Organoheterocyclic compounds	Indoles and derivatives	
+CE6415	11-HpODE	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives
+CE6504	1-hydroperoxy-8-carboxyoctyl 3,4-epoxynon-(2E)-enyl ether	Organic oxygen compounds	Organooxygen compounds	Ethers
+CE6506	3,4-Epoxynonanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+CE7081	15R-hydroxy-5Z,8Z,11Z,13E,17Z-eicosapentaenoic acid	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7082	15S-hydroxy-5Z,8Z,11Z,13E,17Z-eicosapentaenoic acid	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7083	Leukotriene B5	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7086	Leukotriene C5	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+CE7087	Leukotriene D5	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7088	Prostaglandin H3	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7090	18R-HEPE	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7090	18R-hydroxy-5Z,8Z,11Z,14Z,16E-eicosapentaenoic acid	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7091	15(R)-hydroperoxy-EPE	Organoheterocyclic compounds	Diazinanes	Piperazines
+CE7096	5,15-DiHETE	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7101	8alpha-Hydroxy-gama-tocopherone	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids
+CE7110	5,6-epoxy,18R-HEPE	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols
+CE7113	15-Epi-lipoxin B5	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7114	5,12,18R-TriHEPE	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CE7144	13'-Hydroxy-alpha-tocotrienol	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+CE7145	13'-Carboxy-alpha-tocotrienol	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+CE7172	14,15-DiHETE	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+CN0016	Dibenzo[a,l]pyrene	Benzenoids	Pyrenes	Benzopyrenes
+CN0020	7,12-Dimethylbenz[a]anthracene	Benzenoids	Phenanthrenes and derivatives	
+DPA	2,6-Pyridinedicarboxylic acid	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives
+Glc_aD	Alpha-D-Glucose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glc__aD	Alpha-D-Glucose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+HC00229	Isomaltose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+isomal	Isomaltose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+HC00460	Gentisic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+HC00576	Homocarnosine	Organic acids and derivatives	Peptidomimetics	Hybrid peptides
+hcarn	Homocarnosine	Organic acids and derivatives	Peptidomimetics	Hybrid peptides
+HC00591	2-Keto-glutaramic acid	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+HC00682	S-Acetyldihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides
+adhlam	S-Acetyldihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides
+HC00695	(S)-Succinyldihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+sdhlam	(S)-Succinyldihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+HC00718	N-Methylethanolaminium phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+HC00822	N,N'-diacetylchitobiose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+chitob	N,N'-diacetylchitobiose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+HC00832	L-Fuculose	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols
+fcl__L	L-Fuculose	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols
+HC00900	Methylmalonic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+mm	Methylmalonic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+mmal	Methylmalonic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+HC00955	L-3-Cyanoalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+HC01104	4-Nitrophenyl phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+HC01115	N-Glycolylneuraminic acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+HC01115	NeuNGc	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Sugar acids and derivatives
+HC01231	D-Pantothenoyl-L-cysteine	Organic acids and derivatives	Peptidomimetics	Hybrid peptides
+ptcys	D-Pantothenoyl-L-cysteine	Organic acids and derivatives	Peptidomimetics	Hybrid peptides
+HC01254	6-Lactoyltetrahydropterin	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+HC01361	7,8-Dihydroneopterin	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+dhnpt	7,8-Dihydroneopterin	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+HC01434	Oxalosuccinic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+HC01435	3-Carboxy-1-hydroxypropylthiamine diphosphate	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+HC01444	Galactosylglycerol	Lipids and lipid-like molecules	Glycerolipids	Glycosylglycerols
+ggl	Galactosylglycerol	Lipids and lipid-like molecules	Glycerolipids	Glycosylglycerols
+HC01446	3'-Ketolactose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+HC01501	Thiosulfate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal thiosulfates
+tsul	Thiosulfate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal thiosulfates
+HC01501	Hydroxidodioxidosulfidosulfate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal thiosulfates
+tsul	Hydroxidodioxidosulfidosulfate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal thiosulfates
+HC01522	Gentisate aldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+HC01577	gamma-Glutamyl-beta-cyanoalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+HC01651	Formamidopyrimidine nucleoside triphosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+HC01652	2,5-Diaminopyrimidine nucleoside triphosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+HC01668	Propinol adenylate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+HC01672	Acetyl adenylate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+HC01700	gamma-Glutamyl-beta-aminopropiononitrile	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+HC01710	2,5-Diamino-6-(5'-triphosphoryl-3',4'-trihydroxy-2'-oxopentyl)-amino-4-oxopyrimidine	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+HC01712	S-Glutaryldihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+S_gtrdhdlp	S-Glutaryldihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+HC01842	Phosphodimethylethanolamine	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+HC02180	Thromboxane B2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02191	Lithocholic acid	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives
+HC02193	Lithocholic acid glycine conjugate	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+HC02194	Ursodeoxycholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+HC02195	Tauroursodeoxycholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+HC02196	Glycoursodeoxycholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+HC02197	Sulfoglycolithocholate(2-)	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+HC02202	Prostaglandin A1	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02203	Prostaglandin A2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02204	Prostaglandin B1	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02205	Prostaglandin B2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02206	Prostaglandin C1	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02207	Prostaglandin-c2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02208	Prostaglandin D1	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02210	Prostaglandin D3	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02213	Prostaglandin E3	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02214	Prostaglandin F1a	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02216	Prostaglandin F2b	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02217	Prostaglandin G2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+HC02228	Hexadecenal	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
+hxdceal	Hexadecenal	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
+HC10859	Malonyl-Carnitin	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts
+L2aadp6sa	(S)-2-amino-6-oxohexanoate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Lfmkynr	L-Formylkynurenine	Benzenoids	Benzene and substituted derivatives	Butyrophenones
+Lkynr	L-Kynurenine	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+Lpipecol	L-Pipecolic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+N1aspmd	N1-Acetylspermidine	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+N1sprm	N1-Acetylspermine	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+N1sprm	N(1)-acetylsperminium(3+)	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+Nacasp	N-Acetyl-L-aspartic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Ncbmpts	N-Carbamoylputrescine	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+Nforglu	N-Formyl-L-glutamic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Sfglutth	S-Formylglutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Sfglutth	S-formylglutathionate(1-)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+Sptmyn	Spectinomycin	Organoheterocyclic compounds	Dioxanes	1,4-dioxanes
+Ssq23epx	(S)-2,3-Epoxysqualene	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+Ssq23epx	(3S)-2,3-epoxy-2,3-dihydrosqualene	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+Stmyn	Streptomycin	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+T4hcinnm	4-Hydroxycinnamic acid	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+aa	Acrylamide	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+aacoa	Acetoacetyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+aact	Aminoacetone	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+abt	L-Arabitol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+abt__L	L-Arabitol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+abt__D	D-Arabitol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+ac	Acetic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acids
+acac	Acetoacetic acid	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+acald	Acetaldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+acaro	Alpha-Carotene	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+accoa	Acetyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+acetol	Hydroxyacetone	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+acetone	Acetone	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+acg5p	N-Acetyl-L-glutamyl 5-phosphate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+acg5sa	N-Acetyl-L-glutamate 5-semialdehyde	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+acgal1p	N-Acetyl-D-galactosamine 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+acgam	N-Acetyl-D-glucosamine	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+acgam6p	N-Acetyl-D-Glucosamine 6-Phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+acgam6p	N-Acetylglucosamine 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+acglcgal14acglcgalgluside_cho	nLc5Cer	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids
+acgpail_cho	6-(N-Acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositols
+ach	Acetylcholine	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts
+acmanap	N-Acetyl-D-mannosamine 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+acmum	N-Acetylmuramate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+acnam	N-Acetylneuraminic acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+acngalacglcgal14acglcgalgluside_cho	VI3NeuAc-nLc6Cer	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids
+acon_C	cis-Aconitic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+acon_T	trans-Aconitic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+acorn	N-Acetylornithine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+acryl	Acrylic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Acrylic acids and derivatives
+acser	O-Acetylserine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+actp	Acetylphosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+ad	Acetamide	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+ade	Adenine	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+adn	Adenosine	Nucleosides, nucleotides, and analogues	Purine nucleosides	
+adocbi	Adenosyl cobinamide	Organic compounds	Organoheterocyclic compounds	Tetrapyrroles and derivatives
+adocbip	Adenosyl cobinamide phosphate	Organic compounds	Organoheterocyclic compounds	Tetrapyrroles and derivatives
+adocbl	Adenosylcobalamin	Organic compounds	Organoheterocyclic compounds	Tetrapyrroles and derivatives
+adp	ADP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+adpglc	ADP-glucose	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine nucleotide sugars
+adpglc	ADP Alpha-D-glucoside(2-)	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine nucleotide sugars
+aflbala	alpha-Fluoro-beta-alanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+aflburppa	alpha-Fluoro-beta-ureidopropionic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Alpha-halocarboxylic acids and derivatives
+ag	Silver	Homogeneous metal compounds	Homogeneous transition metal compounds	
+agdpcbi	Adenosylcobinamide-GDP	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleotides
+agm	Agmatine	Organic nitrogen compounds	Organonitrogen compounds	Guanidines
+ahandrostan	Etiocholanolone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Androstane steroids
+ahcys	S-Adenosylhomocysteine	Nucleosides, nucleotides, and analogues	5'-deoxyribonucleosides	5'-deoxy-5'-thionucleosides
+aicar	AICAR	Nucleosides, nucleotides, and analogues	Imidazole ribonucleosides and ribonucleotides	1-ribosyl-imidazolecarboxamides
+air	5-amino-1-(5-phosphonato-D-ribosyl)imidazol-3-ium	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+akg	Oxoglutaric acid	Organic acids and derivatives	Keto acids and derivatives	Gamma-keto acids and derivatives
+ala_B	beta-Alanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+ala_L_phe__L	Alanyl-Phenylalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+ala__D	D-Alanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+ala__L	L-Alanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+alaala	D-Alanyl-D-alanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+alac__S	(S)-2-Acetolactate	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+alltn	Allantoin	Organoheterocyclic compounds	Azoles	Imidazoles
+alltt	Allantoic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+alpam	S-aminomethyldihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides
+am6sa	2-Aminomuconic acid semialdehyde	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+amet	S-Adenosylmethionine	Nucleosides, nucleotides, and analogues	5'-deoxyribonucleosides	5'-deoxy-5'-thionucleosides
+ametam	S-Adenosylmethioninamine	Nucleosides, nucleotides, and analogues	5'-deoxyribonucleosides	5'-deoxy-5'-thionucleosides
+amp	Adenosine monophosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+amuco	2-Aminomuconic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+ans	Anserine	Organic acids and derivatives	Peptidomimetics	Hybrid peptides
+anth	2-Aminobenzoic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+ap4a	Diadenosine tetraphosphate	Nucleosides, nucleotides, and analogues	(5'->5')-dinucleotides	
+ap4a	P1,P4-Bis(5'-adenosyl) tetraphosphate	Nucleosides, nucleotides, and analogues	(5'->5')-dinucleotides	
+appl	1-Amino-propan-2-ol	Organic nitrogen compounds	Organonitrogen compounds	Amines
+aproa	3-Aminopropionaldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+aproa	3-amino-propanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+aprut	N-Acetylputrescine	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+aprut	N-Acetylputrescinium	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+aps	Adenosine phosphosulfate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+ara5p	D-Arabinose 5-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+arab__L	L-Arabinose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+arach	Arachidic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+arbt	Arbutin	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+arbtn_fe3	Aerobactin	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+arg__D	D-Arginine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+arg__L	L-Arginine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+arg__L	L-argininium(1+)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+ascb__L	Ascorbic acid	Organoheterocyclic compounds	Dihydrofurans	Furanones
+asn__L	L-Asparagine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+aso3	Arsenite	Inorganic compounds	Mixed metal/non-metal compounds	Miscellaneous mixed metal/non-metals
+aso4	Arsenate	Mixed metal/non-metal compounds	Miscellaneous mixed metal/non-metals	Miscellaneous metallic oxoanionic compounds
+asp__D	D-Aspartic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+aspsa	L-Aspartate-semialdehyde	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+athr__L	L-Allothreonine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+athtp	Adenosine thiamine triphosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+atp	Adenosine triphosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+atrz	Atrazine	Organoheterocyclic compounds	Triazines	1,3,5-triazines
+avite1	alpha-Tocopherol	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+b124tc	(Z)-But-1-ene-1,2,4-tricarboxylate	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+hacon_C	(Z)-But-1-ene-1,2,4-tricarboxylate	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+b2coa	Crotonoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+b2coa	(E)-but-2-enoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+b2coa	(2E)-Butenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+bcryptox	beta-Cryptoxanthin	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+bdg2hc	cis-beta-D-Glucosyl-2-hydroxycinnamate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+benzcoa	Benzoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+betald	Betaine aldehyde	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts
+bgly	N-benzoylglycinate	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+bhb	(R)-3-Hydroxybutyric acid	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives
+bilirub	Bilirubin	Organic compounds	Organoheterocyclic compounds	Tetrapyrroles and derivatives
+biliverd	Biliverdin	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Bilirubins
+btal	Butanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+btcoa	Butyryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+btn	Biotin	Organoheterocyclic compounds	Biotin and derivatives	
+bvite	Beta-tocopherol	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+bz	Benzoic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+bzal	Benzaldehyde	Benzenoids	Benzene and substituted derivatives	Benzoyl derivatives
+bzalc	Benzyl alcohol	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols
+bzsucc	(R)-2-Benzylsuccinate	Phenylpropanoids and polyketides	Phenylpropanoic acids	
+c4crn	Butyrylcarnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+c4dc	Succinylcarnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+ca2	Calcium	Homogeneous metal compounds	Homogeneous alkaline earth metal compounds	
+cala	Ureidopropionic acid	Organic acids and derivatives	Organic carbonic acids and derivatives	Ureas
+cala	N-carbamoyl-beta-alaninate	Organic acids and derivatives	Organic carbonic acids and derivatives	Ureas
+camp	Cyclic AMP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Cyclic purine nucleotides
+caphis	2-(3-Carboxy-3-aminopropyl)-L-histidine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+caro	B-Carotene	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+carveol	Carveol	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids
+cat	Calcitriol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives
+catechol	Pyrocatechol	Benzenoids	Phenols	Benzenediols
+cbasp	Ureidosuccinic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+cbl1	Cob(I)alamin	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Corrinoids
+cbm	Carbamic acid	Organic acids and derivatives	Organic carbonic acids and derivatives	
+cbp	Carbamoyl phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	
+ccmuac	cis,cis-Muconic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+cd2	Cadmium	Homogeneous metal compounds	Homogeneous transition metal compounds	
+cdp	CDP	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+cdpchol	Citicoline	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+cdpea	CDP-Ethanolamine	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+cdpglc	CDP-glucose	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+cdpglyc	CDP-glycerol	Lipids and lipid-like molecules	Glycerophospholipids	CDP-glycerols
+cellb	Cellobiose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+cgly	Cysteinylglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+ch4	Methane	Hydrocarbons	Saturated hydrocarbons	Alkanes
+ch4s	Methanethiol	Organosulfur compounds	Thiols	Alkylthiols
+chito2pdol	N,N'-Diacetylchitobiosyldiphosphodolichol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+chitos	Chitosan	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+chlb	Chlorophyll b	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Chlorins
+chol	Choline	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts
+cholate	Cholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+cholp	Phosphorylcholine	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts
+chor	Chorismate	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+chsterol	Cholesterol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids
+chtn	Chitin	Organic compounds	Organic oxygen compounds	Organooxygen compounds
+cinnm	Cinnamic acid	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Cinnamic acids
+cinnm	trans-Cinnamic acid	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Cinnamic acids
+cit	Citric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+citac	Citraconic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+cital	Citalopram	Benzenoids	Benzene and substituted derivatives	Phenylbutylamines
+citalald	Citalopram aldehyde	Organoheterocyclic compounds	Isocoumarans	
+citalo	Citalopram N-oxide	Benzenoids	Benzene and substituted derivatives	Phenylbutylamines
+citalppa	Citalopram propionic acid	Organoheterocyclic compounds	Isocoumarans	
+citm	Citramalic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+cl	Chloride ion	Homogeneous non-metal compounds	Homogeneous halogens	
+cl	Hydrochloric acid	Homogeneous non-metal compounds	Halogen organides	Halogen hydrides
+clpn160	CL(16:0/16:0/16:0/16:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerophosphoglycerols
+cm	Chloramphenicol	Benzenoids	Benzene and substituted derivatives	Nitrobenzenes
+cmaphis	2-(3-Carboxy-3-(methylammonio)propyl)-L-histidine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+cmp	Cytidine monophosphate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+cmpacna	Cytidine monophosphate N-acetylneuraminic acid	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+cmpglna	CMP-N-glycoloylneuraminate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+cmpglna	CMP-N-glycoloyl-beta-neuraminate(2-)	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+cmusa	2-Amino-3-carboxymuconic acid semialdehyde	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+cmusa	Cis,cis-2-amino-3-(3-oxoprop-1-enyl)but-2-enedioate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+co	Carbon monoxide	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+co1dam	Cob(I)yrinate a,c diamide	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Corrinoids
+co2	Carbon dioxide	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal oxides
+coa	Coenzyme A	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+confrl	Coniferyl alcohol	Benzenoids	Phenols	Methoxyphenols
+coucoa	4-Coumaroyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+coumarin	Coumarin	Phenylpropanoids and polyketides	Coumarins and derivatives	
+cph4	6-Carboxy-5,6,7,8-tetrahydropterin	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+cpmp	Cyclic pyranopterin monophosphate	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+cpp3	Coproporphyrin III	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+cpppg1	Coproporphyrinogen I	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+cpppg3	Coproporphyrinogen III	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+creat	Creatinine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+crn	L-Carnitine	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts
+crn__D	(S)-carnitinium	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts
+crpxan	Alpha-Cryptoxanthin	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+csn	Cytosine	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+ctp	Cytidine triphosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+cyan	Hydrogen cyanide	Organic nitrogen compounds	Organonitrogen compounds	Organic cyanides
+cyart	Cycloartenol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cycloartanols and derivatives
+cynt	Cyanate	Organic compounds	Organic oxygen compounds	Organic oxoanionic compounds
+cys__D	D-Cysteine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+cys__L	L-Cysteine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+cysam	Cysteamine	Organosulfur compounds	Thiols	Alkylthiols
+cysi__L	L-Cystine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+cyst__L	L-Cystathionine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+cytd	Cytidine	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides	
+dad_2	Deoxyadenosine	Nucleosides, nucleotides, and analogues	Purine nucleosides	Purine 2'-deoxyribonucleosides
+dad_5	5'-Deoxyadenosine	Nucleosides, nucleotides, and analogues	5'-deoxyribonucleosides	
+dadp	dADP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine deoxyribonucleotides
+damp	Deoxyadenosine monophosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine deoxyribonucleotides
+datp	Deoxyadenosine triphosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine deoxyribonucleotides
+dc2coa	(2E)-Decenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+dcacoa	Decanoyl-CoA (n-C10:0CoA)	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+dcal	Decanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+dcamp	Adenylsuccinic acid	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+dcamp	N(6)-(1,2-dicarboxyethyl)AMP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+dcaro	delta-Carotene	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+dcdp	dCDP	Organic oxygen compounds	Organic oxoanionic compounds	Organic pyrophosphates
+dchac	Deoxycholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+dcholcoa	Chenodeoxycholoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+dcmp	dCMP	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides
+dctp	dCTP	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides
+dcyt	Deoxycytidine	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides	Pyrimidine 2'-deoxyribonucleosides
+dd2coa	Trans-2,3-dehydrododecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+trans_dd2coa	Trans-2,3-dehydrododecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ddcacoa	Lauroyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ddcal	Lauric aldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+ddmcital	Didemethylcitalopram	Benzenoids	Benzene and substituted derivatives	Phenylbutylamines
+debrisoquine	Debrisoquine	Organoheterocyclic compounds	Tetrahydroisoquinolines	
+decdp	all-trans-Decaprenyl diphosphate	Lipids and lipid-like molecules	Prenol lipids	Polyprenols
+dedoldp	Dehydrodolichol diphosphate	Lipids and lipid-like molecules	Prenol lipids	Polyprenols
+dextrin	Dextrin	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+dgdp	dGDP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine deoxyribonucleotides
+dgsn	Deoxyguanosine	Nucleosides, nucleotides, and analogues	Purine nucleosides	Purine 2'-deoxyribonucleosides
+dgtp	dGTP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine deoxyribonucleotides
+dha	Dihydroxyacetone	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+dhap	Dihydroxyacetone phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+dhcinnm	(E)-3-(2,3-Dihydroxyphenyl)-2-propenoic acid	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+dhcrm_cho	Dihydroceramide	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+dheas	Dehydroepiandrosterone sulfate	Lipids and lipid-like molecules	Steroids and steroid derivatives	Sulfated steroids
+dhf	Dihydrofolic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+dhlam	Dihydrolipoamide	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides
+dhmtp	1,2-Dihydroxy-3-keto-5-methylthiopentene	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+dhnpthld	1,2-Dihydronaphthalene-1,2-diol	Benzenoids	Naphthalenes	
+dhor__S	L-Dihydroorotic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+dhpmp	Dihydroneopterin phosphate	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+dhptdn	Dihydropteridine	Organoheterocyclic compounds	Pteridines and derivatives	
+dhretinol	All-trans-13,14-dihydroretinol	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+diact	Diacetyl	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+didp	dIDP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine deoxyribonucleotides
+dimp	dIMP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine deoxyribonucleotides
+din	Deoxyinosine	Nucleosides, nucleotides, and analogues	Purine nucleosides	Purine 2'-deoxyribonucleosides
+dkmpp	5-(Methylthio)-2,3-dioxopentyl phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+dma	Dimethylamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+dmcital	N-Desmethylcitalopram	Benzenoids	Benzene and substituted derivatives	Phenylbutylamines
+dmcital	Desmethylcitalopram	Benzenoids	Benzene and substituted derivatives	Phenylbutylamines
+dmgly	Dimethylglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+dmlz	6,7-Dimethyl-8-(1-D-ribityl)lumazine	Organoheterocyclic compounds	Pteridines and derivatives	
+dmpp	Dimethylallylpyrophosphate	Lipids and lipid-like molecules	Prenol lipids	Isoprenoid phosphates
+dms	Dimethylsulfide	Organosulfur compounds	Thioethers	Dialkylthioethers
+dmso	Dimethyl sulfoxide	Organosulfur compounds	Sulfoxides	
+dmtphllqne	Demethylphylloquinone	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+doco13ac	Erucic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+docoscoa	Docosanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+doldp	Dolichyl diphosphate	Organic oxygen compounds	Organic oxoanionic compounds	Organic pyrophosphates
+dolmanp	Dolichyl phosphate D-mannose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+dolp	Dolichol phosphate	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+dopa	Dopamine	Benzenoids	Phenols	Benzenediols
+doxrbcn	Doxorubicin	Phenylpropanoids and polyketides	Anthracyclines	
+dpcoa	Dephospho-CoA	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+drib	Deoxyribose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+dtbt	Dethiobiotin	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+dtdp	dTDP	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides
+dtdp4aaddg	dTDP-4-acetamido-4,6-dideoxy-D-galactose	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+dtdp4d6dg	dTDP-4-dehydro-6-deoxy-alpha-D-glucose	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+dtdpglu	DTDP-alpha-D-glucose(2-)	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+dtdprmn	Deoxythymidine diphosphate-l-rhamnose	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+dtmp	5-Thymidylic acid	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides
+dtocophe	Delta-Tocopherol	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+dttOX	Oxidized dithiothreitol	Organoheterocyclic compounds	Dithianes	
+dttp	Thymidine 5'-triphosphate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides
+dudp	dUDP	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides
+dump	dUMP	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides
+duri	Deoxyuridine	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides	Pyrimidine 2'-deoxyribonucleosides
+dutp	Deoxyuridine triphosphate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine deoxyribonucleotides
+dxyl	1-Deoxy-D-xylulose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+dxyl5p	1-Deoxy-D-xylulose 5-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+e4hglu	Erythro-4-hydroxy-L-glutamate(1-)	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives
+e4p	D-Erythrose 4-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+ebastine	Ebastine	Benzenoids	Benzene and substituted derivatives	Diphenylmethanes
+egly	N-Ethylglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+eig3p	D-Erythro-imidazole-glycerol-phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+enter	Chymosin preparation, escherichia coli k-12	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+epist	Episterol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Ergostane steroids
+epm	Epimelibiose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+ergst	Ergosterol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Ergostane steroids
+estriol	Estriol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+estrone	Estrone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids
+etha	Ethanolamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+etha	Ethanolaminium(1+)	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts
+ethamp	O-Phosphoethanolamine	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+etoh	Ethanol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+f1p	D-fructose 1-phosphate	Organooxygen compounds	Carbonyl compounds	Ketones
+f26bp	D-Fructose 2,6-bisphosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+f2p	Beta-D-Fructose 2-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+f6p	Fructose 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+f6p_B	Beta-D-Fructose 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+fad	FAD	Nucleosides, nucleotides, and analogues	Flavin nucleotides	
+fald	Formaldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+fdp_B	Fructose 1,6-bisphosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+fdp_B	beta-D-Fructose 1,6-bisphosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+fe2	Fe2+	Homogeneous metal compounds	Homogeneous transition metal compounds	
+fer	trans-Ferulic acid	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives
+fgam	5'-Phosphoribosyl-N-formylglycinamide	Nucleosides, nucleotides, and analogues	Glycinamide ribonucleotides	
+fmet	N-Formyl-L-methionine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+fmnh2	FMNH2	Nucleosides, nucleotides, and analogues	Flavin nucleotides	
+focytc	Ferrocytochrome	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Metallotetrapyrroles
+fol	Folic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+for	Formic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acids
+forcoa	Formyl-CoA	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+forglu	Formiminoglutamic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+fpram	2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+fprica	Phosphoribosyl formamidocarboxamide	Nucleosides, nucleotides, and analogues	Imidazole ribonucleosides and ribonucleotides	1-ribosyl-imidazolecarboxamides
+frdp	Farnesyl pyrophosphate	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids
+frmd	Formamide	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+fru	D-Fructose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+fru	Fructose-1P	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides
+fuc12gal14acglcgalgluside_cho	IV2Fuc-nLc4Cer	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids
+fuc1p__L	Fucose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+fuc__L	L-Fucose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+fuc__L	L-Fucose-1P	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+fucgalacglcgal14acglcgalgluside_cho	VI2Fuc-nLc6	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids
+fum	Fumaric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+fumpyr	3-Fumarylpyruvate	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives
+fusa	Fusidic Acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid esters
+g15lac	Gluconolactone	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+g1p	Glucose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+g3p	D-Glyceraldehyde 3-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+g3pe	sn-glycero-3-Phosphoethanolamine	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+g3pi	1-(sn-Glycero-3-phospho)-1D-myo-inositol	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositols
+g6p	Glucose 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+g6p_B	Beta-D-Glucose 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+ga	Gallic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+gal	D-Galactose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+gal1p	Galactose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+gal_bD	Beta-D-Galactose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+galct__D	Galactaric acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+galctr__D	Galactaric acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+galctn__D	Galactonic acid	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives
+galt	Galactitol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+gam	Glucosamine	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+gar	Glycineamideribotide	Nucleosides, nucleotides, and analogues	Glycinamide ribonucleotides	
+gcald	Glycolaldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+gdchola	Chenodeoxyglycocholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+gdp	Guanosine diphosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+gdpfuc	GDP-L-fucose	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine nucleotide sugars
+gdpmann	Guanosine diphosphate mannose	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine nucleotide sugars
+gdptp	Guanosine 3'-diphosphate 5'-triphosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+gg4abut	4-(Glutamylamino) butanoate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+ggdp	Geranylgeranyl-PP	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids
+ghb	4-Hydroxybutyric acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+glc__D	D-Glucose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glcn	Gluconic acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glcn__D	Gluconic acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glcr	Glucaric acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glcr	D-Glucaric acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glcur	D-Glucuronic acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glcur1p	D-Glucuronic acid 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glcurn	D-Glucurono-6,3-lactone	Organoheterocyclic compounds	Furofurans	Isosorbides
+gln__L	L-Glutamine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glu5p	L-Glutamic acid 5-phosphate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glu5sa	L-Glutamic gamma-semialdehyde	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glu__D	D-Glutamic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glu__L	L-Glutamic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glu__L	DL-Glutamate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+gluala	gamma-Glutamylalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glucys	gamma-Glutamylcysteine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+gluside_cho	Glucosylceramide	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids
+glutar	Glutaric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+glutcoa	Glutaryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+glx	Glyoxylic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acids
+gly	Glycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+gly_leu__L	Glycylleucine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glyleu	Glycylleucine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+gly_phe__L	Glycyl-Phenylalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glyphe	Glycyl-Phenylalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glyb	Betaine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glyb	Trimethylammonioacetate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glyc	Glycerol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glyc2p	Beta-Glycerophosphoric acid	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+glyc3p	Glycerol 3-phosphate	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+glyclt	Glycolic acid	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives
+glycogen	Glycogen	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+glygly	Glycyl-glycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+glypro	Glycylproline	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+gmp	Guanosine monophosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+gp4g	Diguanosine tetraphosphate	Nucleosides, nucleotides, and analogues	(5'->5')-dinucleotides	
+grdp	Geranyl-PP	Lipids and lipid-like molecules	Prenol lipids	Isoprenoid phosphates
+gsn	Guanosine	Nucleosides, nucleotides, and analogues	Purine nucleosides	
+gthox	Oxidized glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+gthrd	Glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+gthrd	Glutathionate(1-)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+gtocophe	Gamma-Tocopherol	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+gtp	Guanosine triphosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+gua	Guanine	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+guln__L	Gulonic acid	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives
+h	Hydrogen Ion	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal hydrides
+h2	Hydrogen	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal hydrides
+h2co3	Carbonic acid	Organic acids and derivatives	Organic carbonic acids and derivatives	Organic carbonic acids
+h2co3	Carbonate	Organic acids and derivatives	Organic carbonic acids and derivatives	Organic carbonic acids
+h2o	Hydroxide	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal hydroxides
+oh1	Hydroxide	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal hydroxides
+h2o	Water	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+oh1	Water	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+h2o2	Hydrogen peroxide	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+h2s	Hydrogen sulfide	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal sulfides
+h4mpt	5,6,7,8-Tetrahydromethanopterin	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+hLkynr	L-3-Hydroxykynurenine	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+ham	Hydroxylamine	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+hatrz	4-ethylamino-6-isopropylamino-1,3,5-triazin-2-ol	Organoheterocyclic compounds	Triazines	Aminotriazines
+hco3	Hydrogen carbonate	Organic acids and derivatives	Organic carbonic acids and derivatives	Organic carbonic acids
+hdca	Palmitic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+hdd2coa	(2E)-Hexadecenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+hemeA	Heme A	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Metallotetrapyrroles
+hemeO	Heme O	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Metallotetrapyrroles
+hepdp	All-trans-heptaprenyl diphosphate	Lipids and lipid-like molecules	Prenol lipids	Polyprenols
+hexdp	All-trans-hexaprenyl diphosphate	Lipids and lipid-like molecules	Prenol lipids	Polyprenols
+hg2	Mercury	Homogeneous metal compounds	Homogeneous transition metal compounds	
+hgentis	Homogentisic acid	Benzenoids	Benzene and substituted derivatives	Phenylacetic acids
+his__L	L-Histidine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+hista	Histamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+hista	Histamium	Organic nitrogen compounds	Organonitrogen compounds	Amines
+histd	L-Histidinol	Organic nitrogen compounds	Organonitrogen compounds	Amines
+hlys	Erythro-5-hydroxy-L-lysinium(1+)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+hmbil	Hydroxymethylbilane	Organoheterocyclic compounds	Tetrapyrroles and derivatives	
+hmfurn	Norfuraneol	Organoheterocyclic compounds	Dihydrofurans	Furanones
+hmgcoa	3-Hydroxy-3-methylglutaryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+hmgth	S-(Hydroxymethyl)glutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+hom__L	L-Homoserine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+hpa	Heptanoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+hpal	Heptanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+hpdcal	Heptadecanal	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
+hpglu	Tetrahydropteroyltri-L-glutamate	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+hphaccoa	4-Hydroxyphenylacetyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+hpyr	Hydroxypyruvic acid	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives
+hqn	Hydroquinone	Benzenoids	Phenols	Benzenediols
+hspmd	4,4'-Diaminodibutylamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+hxa	Caproic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+hxa	Caproate (6:0)	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+hxal	Hexanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+hxan	Hypoxanthine	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+hxc2coa	(2E)-Hexacosenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+hxdcal	Palmitaldehyde	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
+i	Iodide	Homogeneous non-metal compounds	Homogeneous halogens	
+i	I(-)	Homogeneous non-metal compounds	Halogen organides	Halogen hydrides
+iad	1H-Indole-3-acetamide	Organoheterocyclic compounds	Indoles and derivatives	Indoles
+iamac	Isopentyl acetate	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+iamoh	Isopentanol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+iasp	Iminoaspartic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+ibcoa	Isobutyryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ibt	Isobutyric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acids
+ibutac	2-Methylpropyl acetate	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives
+ibutoh	Isobutanol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+icit	Isocitric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+idp	IDP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+ile__L	L-Isoleucine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+im4ac	Imidazoleacetic acid	Organoheterocyclic compounds	Azoles	Imidazoles
+imzac	Imidazoleacetic acid	Organoheterocyclic compounds	Azoles	Imidazoles
+im4act	Imidazole-4-acetaldehyde	Organoheterocyclic compounds	Azoles	Imidazoles
+imzacd	Imidazole-4-acetaldehyde	Organoheterocyclic compounds	Azoles	Imidazoles
+imacp	Imidazole acetol-phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+imp	Inosinic acid	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+ind3ac	Indoleacetic acid	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives
+ind3acnl	3-Indoleacetonitrile	Organoheterocyclic compounds	Indoles and derivatives	Indoles
+ind3eth	Tryptophanol	Organoheterocyclic compounds	Indoles and derivatives	Indoles
+indole	Indole	Organoheterocyclic compounds	Indoles and derivatives	Indoles
+indpyr	Indolepyruvate	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives
+inoshp	Myo-inositol hexakisphosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+minohp	Myo-inositol hexakisphosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+inost	myo-Inositol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+ins	Inosine	Nucleosides, nucleotides, and analogues	Purine nucleosides	
+iodine	Iodine	Homogeneous non-metal compounds	Homogeneous halogens	
+ipdp	Isopentenyl pyrophosphate	Lipids and lipid-like molecules	Prenol lipids	Isoprenoid phosphates
+isetac	2-Hydroxyethanesulfonate	Organic acids and derivatives	Organic sulfonic acids and derivatives	Organosulfonic acids and derivatives
+istnt	2-Hydroxyethanesulfonate	Organic acids and derivatives	Organic sulfonic acids and derivatives	Organosulfonic acids and derivatives
+itaccoa	Itaconyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+itacon	Itaconic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+itp	Inosine triphosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+ivcoa	Isovaleryl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ivcrn	Isovalerylcarnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+k	Potassium	Homogeneous metal compounds	Homogeneous alkali metal compounds	
+lac6p	Lactose 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+lac__D	D-Lactic acid	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives
+lac__L	L-Lactic acid	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives
+lald__D	D-Lactaldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+lanost	Lanosterin	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+leu__L	L-Leucine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+leugly	Leucyl-Glycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+leuktrA4	Leukotriene A4	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+leuktrC4	Leukotriene C4	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+leuleu	Leucyl-Leucine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+lgt__S	S-Lactoylglutathione	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+lgt__S	(R)-S-lactoylglutathionate(1-)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+lido	Lidocaine	Benzenoids	Benzene and substituted derivatives	Xylenes
+limnen	Polylimonene	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids
+lipoate	(R)-lipoic acid	Organoheterocyclic compounds	Dithiolanes	Lipoic acids and derivatives
+lnlc	Linoleic acid	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives
+lnlccoa	Linoleoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+lnlccoa	9Z,12Z-octadecadienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+lnlnca	Alpha-Linolenic acid	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives
+lnlncacoa	Alpha-Linolenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+lnlncacoa	9Z,12Z,15Z-octadecatrienoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+lpam	Lipoamide	Organoheterocyclic compounds	Dithiolanes	Lipoamides
+lut	Lutein	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+lycop	Lycopene	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+lys__D	D-Lysine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+lys__L	L-Lysine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+lys__L	L-lysinium(1+)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+m1ocdca	Methyl stearate	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+m2mn	(a-D-mannosyl)2-b-D-mannosyl-N-acetylglucosamine	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+m_tol	M-toluic Acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+m_xyl	m-Xylene	Benzenoids	Benzene and substituted derivatives	Xylenes
+mal__D	D-Malic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+mal__L	L-Malic acid	Organic acids and derivatives	Hydroxy acids and derivatives	Beta hydroxy acids and derivatives
+malcoa	Malonyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+male	Maleic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+malon	Malonic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+malthp	Maltoheptaose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+malthx	Maltohexaose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+maltpt	Maltopentaose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+malttr	Maltotriose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+maltttr	Maltotetraose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+man	D-Mannose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+man1p	D-Mannose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+man6pglyc	2-O-(6-Phospho-alpha-mannosyl)-D-glycerate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+mannan	Mannan	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Oligosaccharides
+meglyxyl	Monoethylglycinexylidide	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+melanin	Melanin	Benzenoids	Anthracenes	
+melt	Melibiitol	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides
+meoh	Methanol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+mercppyr	3-Mercaptopyruvic acid	Organic acids and derivatives	Keto acids and derivatives	Alpha-keto acids and derivatives
+mergtrol	Delta 8,14 -Sterol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Ergostane steroids
+met_L_phe__L	Methionyl-Phenylalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+met__L	L-Methionine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+methf	5,10-Methenyltetrahydrofolic acid	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+methf	(6R)-5,10-methenyltetrahydrofolate	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+mev__R	(R)-mevalonate	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+mfecostrl	4a-Methylfecosterol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Ergostane steroids
+mg2	Magnesium	Homogeneous metal compounds	Homogeneous alkaline earth metal compounds	
+mhista	1-Methylhistamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+mhista	3-Methylhistamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+mhista	N-Methylhistamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+mhista	N(tele)-methylhistaminium	Organic nitrogen compounds	Organonitrogen compounds	Amines
+mhpglu	5-Methyltetrahydropteroyltri-L-glutamate	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+mi3p__D	Myo-inositol 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+mi3p__D	1D-myo-Inositol 3-phosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+mi4p__D	D-Myo-inositol 4-phosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+micit	Methylisocitric acid	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+mincyc	Minocycline	Phenylpropanoids and polyketides	Tetracyclines	
+mma	Methylamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+mmcoa__R	R-Methylmalonyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+mmcoa__S	S-Methylmalonyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+mmtsa	(S)-Methylmalonic acid semialdehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+mn	Beta-1,4-mannose-N-acetylglucosamine	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+mndn	Menadione	Benzenoids	Naphthalenes	Naphthoquinones
+mnl	Mannitol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+mnl1p	Mannitol 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+mnt	D-Gal alpha 1->6D-Gal alpha 1->6D-Glucose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+mptamp	Adenylyl-molybdopterin	Nucleosides, nucleotides, and analogues	Molybdopterin dinucleotides	
+mqn6	Menatetrenone	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+msa	Malonic semialdehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+mthgxl	Pyruvaldehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+n2	Nitrogen	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal nitrides
+n2o	Nitrous oxide	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal nitrides
+n4abutn	N4-Acetylaminobutanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+n8aspmd	N8-Acetylspermidine	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+n8aspmd	N(8)-Acetylspermidinium	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids
+na1	Sodium	Homogeneous metal compounds	Homogeneous alkali metal compounds	
+na15dap	Aminopropylcadaverine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+nac	Nicotinic acid	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives
+nad	NAD	Nucleosides, nucleotides, and analogues	(5'->5')-dinucleotides	
+nadh	NADH	Nucleosides, nucleotides, and analogues	(5'->5')-dinucleotides	
+nadp	NADP	Nucleosides, nucleotides, and analogues	(5'->5')-dinucleotides	
+nadph	NADPH	Nucleosides, nucleotides, and analogues	(5'->5')-dinucleotides	
+naglc2p	N-Acetyl-D-glucosaminyldiphosphodolichol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+ncam	Niacinamide	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives
+nebari	Nebularine	Nucleosides, nucleotides, and analogues	Purine nucleosides	
+neoxan	Neoxanthin	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+neuspn	Neurosporene	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+nh3	Ammonia	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+nh4	Ammonia	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+nh3	Ammonium	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+nh4	Ammonium	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+ni2	Nickel	Homogeneous metal compounds	Homogeneous transition metal compounds	
+nicrns	Nicotinate D-ribonucleoside	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+nicrnt	nicotinate beta-D-ribonucleotide	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Glycosyl compounds
+nifedipine	Nifedipine	Organoheterocyclic compounds	Pyridines and derivatives	Hydropyridines
+nmn	Nicotinamide ribotide	Nucleosides, nucleotides, and analogues	Pyridine nucleotides	Nicotinamide nucleotides
+nmn	beta-nicotinamide D-ribonucleotide	Nucleosides, nucleotides, and analogues	Pyridine nucleotides	Nicotinamide nucleotides
+nmptrc	N-Methylputrescine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+no	Nitric oxide	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal oxides
+no2	Nitrite	Inorganic compounds	Homogeneous non-metal compounds	Non-metal oxoanionic compounds
+no3	Nitrate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal nitrates
+nonal	Nonanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+novbcn	Novobiocin	Phenylpropanoids and polyketides	Coumarins and derivatives	Coumarin glycosides
+npthld	Naphthalene-1,2-diol	Benzenoids	Naphthalenes	Naphthols and derivatives
+nrpphr	Norepinephrine	Benzenoids	Phenols	Benzenediols
+o2	Oxygen	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal oxides
+o2s	Superoxide	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal superoxides
+oaa	Oxalacetic acid	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+obfool	Obtusifoliol	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+oc2coa	(2E)-Octenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+occoa	Octanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ocdca	Stearic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+ocdcal	Stearaldehyde	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
+ocdce9coa	Oleoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ocdce9coa	9Z-octadecenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ocdcea	Oleic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+ocdcecoa	cis-Vaccenoyl CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+octa	Caprylic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+octa	octanoate radical	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+octal	Octanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+octdp	Octaprenyl diphosphate	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+od2coa	trans-Octadec-2-enoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+od2coa	Trans-2-octadecenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ohpb	2-Oxo-3-hydroxy-4-phosphobutanoic acid	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives
+orn	Ornithine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+orn__L	Ornithine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+orn__D	D-Ornithine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+orot	Orotic acid	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+orot5p	Orotidylic acid	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+oxa	Oxalic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+oxadpcoa	3-Oxoadipyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+oxptn	Glutarate semialdehyde	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+p_tol	4-Methylbenzoic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+p_xyl	p-Xylene	Benzenoids	Benzene and substituted derivatives	Xylenes
+pa160	PA(16:0/16:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates
+pac	Phenylacetic acid	Benzenoids	Benzene and substituted derivatives	
+pac	Phenyl acetate	Benzenoids	Phenol esters	
+pacald	Phenylacetaldehyde	Benzenoids	Benzene and substituted derivatives	Phenylacetaldehydes
+pad	2-Phenylacetamide	Benzenoids	Benzene and substituted derivatives	Phenylacetamides
+paf_hs	2-acetyl-1-alkyl-sn-glycero-3-phosphocholine	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines
+pail345p_cho	Phosphatidylinositol-3,4,5-trisphosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+pail34p_cho	1-phosphatidyl-1D-myo-inositol-3,4-bisphosphate	Organooxygen compounds	Alcohols and polyols	Cyclic alcohols and derivatives
+pail34p_cho	1-Phosphatidyl-1D-myo-inositol 3,4-bisphosphate	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositol phosphates
+pail3p_cho	1-Phosphatidyl-1D-myo-inositol 3-phosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+pail_cho	1-Phosphatidyl-D-myo-inositol	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositols
+pan4p	Pantetheine 4'-phosphate	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+pap	Adenosine 3',5'-diphosphate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+paps	Phosphoadenosine phosphosulfate	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+paps	3'-phosphonato-5'-adenylyl Sulfate(4-)	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+pchlld	Protochlorophyllide	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Metallotetrapyrroles
+pdx5p	Pyridoxine 5'-phosphate	Organoheterocyclic compounds	Pyridines and derivatives	Pyridoxines
+pe140	PE(14:0/14:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+pe160	PE(16:0/16:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+pe161	PE(16:1(9Z)/16:1(9Z))	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+pe180	PE(18:0/18:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+pe18111Z1819Z	PE(18:1(11Z)/18:1(9Z))	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+pe18111Z1829Z12Z	PE(18:1(11Z)/18:2(9Z,12Z))	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+pe1819Z1819Z	PE(18:1(9Z)/18:1(9Z))	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+pe_cho	Phosphatidylethanolamine	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+pe_hs	Phosphatidylethanolamine	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines
+peamn	Phenylethylamine	Benzenoids	Benzene and substituted derivatives	Phenethylamines
+peamn	2-Phenylethanaminium	Benzenoids	Benzene and substituted derivatives	Phenethylamines
+pectin	Pectin	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+pencilca	Penicilloic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+peng	Penicillin G	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+pep	Phosphoenolpyruvic acid	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters
+pg160	PG(16:0/16:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerols
+pg180	PG(18:0/18:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerols
+pgp160	PGP(16:0/16:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerophosphates
+pgp180	PGP(18:0/18:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerophosphates
+phaccoa	Phenylacetyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+phdp	Phytyl diphosphate	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids
+phe__L	L-Phenylalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+pheac	2-Phenylethyl acetate	Benzenoids	Benzene and substituted derivatives	
+pheacgly	Phenylacetylglycine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+phenol	Phenol	Benzenoids	Phenols	1-hydroxy-4-unsubstituted benzenoids
+phitcoa	E-Phenylitaconyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+phllqne	Phytonadione	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+pholys	5-phosphonooxy-L-lysine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+phom	O-Phosphohomoserine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+phom	O-phosphonato-L-homoserine(2-)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+phpyr	Phenylpyruvic acid	Benzenoids	Benzene and substituted derivatives	Phenylpyruvic acid derivatives
+phthr	O-Phospho-4-hydroxy-L-threonine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+phytol	Phytol	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids
+pi	Hydrogen phosphate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal phosphates
+pi	Phosphate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal phosphates
+pi	Dihydrogen phosphate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal phosphates
+pi	Phosphoric acid	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal phosphates
+pime	Pimelic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+pmtcoa	Palmityl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+pmtcoa	hexadecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+pp2coa	Acrylyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+prpncoa	Acrylyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ppal	Propanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+ppbng	Porphobilinogen	Organic nitrogen compounds	Organonitrogen compounds	Amines
+ppcoa	Propionyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ppgpp	Guanosine 3',5'-bis(diphosphate)	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+pphn	Prephenate	Organic acids and derivatives	Keto acids and derivatives	Gamma-keto acids and derivatives
+ppi	Pyrophosphate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal pyrophosphates
+ppmi12346p	5-Diphosphoinositol pentakisphosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+ppmi1346p	Diphosphoinositol tetrakisphosphate	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+ppoh	Propyl alcohol	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+ppp9	Protoporphyrin IX	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+pppg9	Protoporphyrinogen IX	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+pppi	Triphosphate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal phosphates
+pppi	PPPi	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal phosphates
+pppn	Hydrocinnamic acid	Phenylpropanoids and polyketides	Phenylpropanoic acids	
+ppt	Phosphite	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal phosphites
+pqq	Pyrroloquinoline quinone	Organoheterocyclic compounds	Quinolines and derivatives	Pyrroloquinolines
+pram	5-Phosphoribosylamine	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+pram	5-phospho-beta-D-ribosylaminium(1-)	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+prbamp	Phosphoribosyl-AMP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+prbatp	Phosphoribosyl-ATP	Nucleosides, nucleotides, and analogues	Purine nucleotides	Purine ribonucleotides
+prephytedp	Prephytoene diphosphate	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+preq1	7-Aminomethyl-7-carbaguanine	Organoheterocyclic compounds	Pyrrolopyrimidines	Pyrrolo[2,3-d]pyrimidines
+prfp	PhosphoribosylformiminoAICAR-phosphate	Nucleosides, nucleotides, and analogues	Imidazole ribonucleosides and ribonucleotides	1-ribosyl-imidazolecarboxamides
+prgnlone	Pregnenolone	Lipids and lipid-like molecules	Steroids and steroid derivatives	Pregnane steroids
+pristanal	Pristanal	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids
+pro__L	L-Proline	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+prolb	Proline betaine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+prpp	Phosphoribosyl pyrophosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+prpp	5-O-phosphonato-alpha-D-ribofuranosyl Diphosphate(5-)	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+ps160	PS(16:0/16:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoserines
+ps180	PS(18:0/18:0)	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoserines
+ps_cho	Phosphatidylserine	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoserines
+pser__L	Phosphoserine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+psphings	Phytosphingosine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+psqldp	Presqualene diphosphate	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+pt2coa	(2E)-Pentenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+pta	Valeric acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+ptal	Pentanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+ptcoa	Pentanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+ptdcal	Pentadecanal	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
+ptrc	Putrescine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+ptth	Pantetheine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+purine	Purine	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+pyam5p	Pyridoxamine 5'-phosphate	Organoheterocyclic compounds	Pyridines and derivatives	Pyridoxamines
+pydam	Pyridoxamine	Organoheterocyclic compounds	Pyridines and derivatives	Pyridoxamines
+pydam	Pyridoxaminium(1+)	Organoheterocyclic compounds	Pyridines and derivatives	Pyridoxamines
+pydx	Pyridoxal	Organoheterocyclic compounds	Pyridines and derivatives	Pyridine carboxaldehydes
+pydx5p	Pyridoxal 5'-phosphate	Organoheterocyclic compounds	Pyridines and derivatives	Pyridine carboxaldehydes
+pydxn	Pyridoxine	Organoheterocyclic compounds	Pyridines and derivatives	Pyridoxines
+pyr	Pyruvic acid	Organic acids and derivatives	Keto acids and derivatives	Alpha-keto acids and derivatives
+q10	Coenzyme Q10	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+q10h2	Ubiquinol-10	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+q6	Ubiquinone 6	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+q6h2	Ubiquinol-6	Lipids and lipid-like molecules	Prenol lipids	Polyprenylphenols
+q8h2	Ubiquinol 8	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids
+quc	Quercetin	Phenylpropanoids and polyketides	Flavonoids	Flavones
+quin	Quinic acid	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+quln	Quinolinic acid	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives
+r1p	Ribose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+raffin	Raffinose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+rbl__D	D-Ribulose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+rbt	Ribitol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+rdmbzi	N1-(alpha-D-ribosyl)-5,6-dimethyl-benzimidazole	Nucleosides, nucleotides, and analogues	Benzimidazole ribonucleosides and ribonucleotides	
+retinal	Retinal	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+retinal_11_cis	11-cis-Retinaldehyde	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+retn	all-trans-Retinoic acid	Lipids and lipid-like molecules	Prenol lipids	Retinoids
+retpalm	Retinyl palmitate	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+retpalm_11_cis	11-cis-Retinyl palmitate	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+rfamp	Rifampin	Organoheterocyclic compounds	Naphthofurans	
+rib__D	D-Ribose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+ribflv	Riboflavin	Organoheterocyclic compounds	Pteridines and derivatives	Alloxazines and isoalloxazines
+rml	L-Rhamnulose	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols
+rmn	Rhamnose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+rnam	Nicotinamide riboside	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+ru5p__D	D-Ribulose 5-phosphate	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides
+s17bp	Sedoheptulose 1,7-bisphosphate	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides
+s7p	D-Sedoheptulose 7-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+s7p	Sedoheptulose 7-phosphate(2-)	Organic compounds	Organic oxygen compounds	Organooxygen compounds
+saccrp__L	Saccharopine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+saccrp__L	L-saccharopinate(1-)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+salc	Salicylic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+salcn	Salicin	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+sarcs	Sarcosine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+sbt__D	Sorbitol	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+scys__L	Cysteine-S-sulfate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+slfcys	Cysteine-S-sulfate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+seasmet	Se-Adenosylselenomethionine	Nucleosides, nucleotides, and analogues	5'-deoxyribonucleosides	
+sel	Selenate	Mixed metal/non-metal compounds	Other mixed metal/non-metal oxoanionic compounds	Non-metal selenates
+selcys	Selenocysteine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+selcyst	L-Selenocystathionine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+selhcys	Selenohomocysteine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+selmeth	Selenomethionine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+seln	Hydrogen selenide	Homogeneous non-metal compounds	Homogeneous other non-metal compounds	
+selnp	Selenophosphate	Mixed metal/non-metal compounds	Other mixed metal/non-metal oxoanionic compounds	Non-metal selenophosphates
+ser__D	D-Serine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+ser__L	L-Serine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+skm	Shikimic acid	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols
+sl26da	N-Succinyl-L,L-2,6-diaminopimelate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+sl2a6o	N-Succinyl-2-amino-6-ketopimelate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+sl__L	(S)-3-Sulfonatolactate	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives
+slnt	Selenite	Inorganic compounds	Mixed metal/non-metal compounds	Other mixed metal/non-metal oxoanionic compounds
+so2	Sulfur dioxide	Homogeneous non-metal compounds	Other non-metal organides	Other non-metal oxides
+so3	Sulfite	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal sulfites
+so3	Hydrogen sulfite	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal sulfites
+so3	Sulfurous acid	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal sulfites
+so4	Sulfate	Homogeneous non-metal compounds	Non-metal oxoanionic compounds	Non-metal sulfates
+sph1p	Sphinganine 1-phosphate	Lipids and lipid-like molecules	Sphingolipids	Phosphosphingolipids
+sphgn	Sphinganine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+spmd	Spermidine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+sprm	Spermine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+sql	Squalene	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids
+srb1p	Sorbose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+srb__L	L-Sorbose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+srtn	Serotonin	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives
+stchs	Stachyose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+stys	Stachyose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+stcoa	Stearoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+strcoa	Stearoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+subeac	Suberic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+succ	Succinic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives
+succoa	Succinyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+sucorn	N2-Succinyl-L-ornithine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+sucr	Sucrose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+sucsal	Succinic acid semialdehyde	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+tag16018111Z160	TG(16:0/18:1(11Z)/16:0)	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag16018111Z180	TG(16:0/18:1(11Z)/18:0)	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag16018111Z18111Z	TG(16:0/18:1(11Z)/18:1(11Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag16018111Z1819Z	TG(16:0/18:1(11Z)/18:1(9Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag1601819Z160	TG(16:0/18:1(9Z)/16:0)	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag1601819Z18111Z	TG(16:0/18:1(9Z)/18:1(11Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag1801819Z180	TG(18:0/18:1(9Z)/18:0)	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag1801819Z18111Z	TG(18:0/18:1(9Z)/18:1(11Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag1801819Z1819Z	TG(18:0/18:1(9Z)/18:1(9Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag18111Z18111Z18111Z	TG(18:1(11Z)/18:1(11Z)/18:1(11Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag18111Z18111Z1819Z	TG(18:1(11Z)/18:1(11Z)/18:1(9Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag18111Z1819Z18111Z	TG(18:1(11Z)/18:1(9Z)/18:1(11Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag18111Z1819Z1819Z	TG(18:1(11Z)/18:1(9Z)/18:1(9Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag1819Z18111Z1819Z	TG(18:1(9Z)/18:1(11Z)/18:1(9Z))	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols
+tag1p__D	D-Tagatose 1-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+tag6p__D	D-Tagatose 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+tag__D	D-Tagatose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+tagdp__D	D-Tagatose 1,6-bisphosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+tartr__D	D-Tartaric acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+tartr__L	Tartaric acid	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+taur	Taurine	Organic acids and derivatives	Organic sulfonic acids and derivatives	Organosulfonic acids and derivatives
+taxol	Paclitaxel	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids
+tcb	1,2,3-Propanetricarboxylic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives
+tchola	Taurocholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+tcynt	Thiocyanate	Organosulfur compounds	Thiocyanates	
+td2coa	(2E)-Tetradecenoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+tdchola	Taurochenodesoxycholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+tdcoa	Tetradecanoyl-CoA	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters
+tdechola	Taurodeoxycholic acid	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives
+tgua	Thioguanine	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+thbpt	Tetrahydrobiopterin	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives
+thcys	Thiocysteine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+thmmp	Thiamine monophosphate	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+thmpp	Thiamine pyrophosphate	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+thmpp	Thiamine(1+) Diphosphate(1-)	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+thmtp	Thiamine triphosphate	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+thp2c	(S)-2,3,4,5-Tetrahydropiperidine-2-carboxylate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+thp2c	(S)-2,3,4,5-tetrahydropyridine-2-carboxylate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+thptdn	Tetrahydropteridine	Organoheterocyclic compounds	Pteridines and derivatives	
+thr__L	L-Threonine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+thrp	O-Phosphothreonine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+thym	Thymine	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+thymd	Thymidine	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides	Pyrimidine 2'-deoxyribonucleosides
+tma	Trimethylamine	Organic nitrogen compounds	Organonitrogen compounds	Amines
+tmao	Trimethylamine N-oxide	Organic nitrogen compounds	Organonitrogen compounds	Aminoxides
+tmlys	N6,N6,N6-Trimethyl-L-lysine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+tol	Toluene	Benzenoids	Benzene and substituted derivatives	Toluenes
+tolbutamide	Tolbutamide	Benzenoids	Benzene and substituted derivatives	Benzenesulfonamides
+trdca	Tridecanoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+trdcal	Tridecanal	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
+tre	Trehalose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+tre6p	Trehalose 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+trp__L	L-Tryptophan	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives
+trp__L	(±)-Tryptophan	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives
+trypta	Tryptamine	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives
+ttdcal	Tetradecanal	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
+ttdcrn	Tetradecanoylcarnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
+ttrcyc	Tetracycline	Phenylpropanoids and polyketides	Tetracyclines	
+txa2	Thromboxane A2	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids
+tym	Tyramine	Benzenoids	Benzene and substituted derivatives	Phenethylamines
+tym	Tyraminium	Benzenoids	Benzene and substituted derivatives	Phenethylamines
+tyr__L	L-Tyrosine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+tyrp	O-Phosphotyrosine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+uacgam	Uridine diphosphate-N-acetylglucosamine	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+uacgam	UDP-N-acetyl-alpha-D-glucosamine(2-)	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+uacmam	UDP-N-acetyl-D-mannosamine	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+udca	Undecanoic acid	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates
+udcal	Undecanal	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
+udcpdp	Undecaprenyl diphosphate	Lipids and lipid-like molecules	Prenol lipids	Polyprenols
+udp	Uridine 5'-diphosphate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+udparab	UDP-L-arabinose	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+udpg	[(2R,3S,4R,5R)-5-(2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl {[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl phosphonato]oxy}phosphonate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+udpgal	UDP-D-galactose(2-)	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+udpgalur	UDP-D-galacturonate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+udpglcur	Uridine diphosphate glucuronic acid	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine nucleotide sugars
+udpxyl	UDP-D-Xylose	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+ump	Uridine 5'-monophosphate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+unagamu	Undecaprenyl N-acetyl-glucosaminyl-N-acetyl-mannosaminuronate pyrophosphate	Lipids and lipid-like molecules	Prenol lipids	Polyprenols
+upp1	Uroporphyrin I	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+upp3	Uroporphyrin III	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+uppg1	Uroporphyrinogen I	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+uppg3	Uroporphyrinogen III	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Porphyrins
+ura	Uracil	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
+urate	Uric acid	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+urcan	Urocanic acid	Organoheterocyclic compounds	Azoles	Imidazoles
+urcan	Trans-urocanate	Organic compounds	Organoheterocyclic compounds	Azoles
+urdglyc	(S)-Ureidoglycolic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+urea	Urea	Organic acids and derivatives	Organic carbonic acids and derivatives	Ureas
+uri	Uridine	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides	
+utp	Uridine triphosphate	Nucleosides, nucleotides, and analogues	Pyrimidine nucleotides	Pyrimidine ribonucleotides
+val__L	L-Valine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
+vanln	Vanillin	Benzenoids	Phenols	Methoxyphenols
+vanlt	Vanillic acid	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives
+vioxan	Violaxanthin	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+xan	Xanthine	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives
+xol25oh	25-Hydroxycholesterol	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids
+xtsn	Xanthosine	Nucleosides, nucleotides, and analogues	Purine nucleosides	
+xu5p__D	Xylulose 5-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+xyl__D	D-Xylose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+xyl__D	Aldehydo-D-xylose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+xylb	Xylobiose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+xylnact__D	D-Xylono-1,5-lactone	Organoheterocyclic compounds	Lactones	Delta valerolactones
+xylu__D	D-Xylulose	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides
+xylu__L	L-Threo-2-pentulose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
+zeax	Zeaxanthin	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids
+zym_int2	Zymosterol intermediate 2	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids
