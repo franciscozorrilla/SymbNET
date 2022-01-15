@@ -36,9 +36,9 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 | Soil | MAGs |  Calcarosols from Uluru, Australia (ERR671933)   | <ul><li>f_Thermoleophilaceae</li><li>f_Herpetosiphonaceae</li><li>f_Phormidiaceae</li><li>f_Geodermatophilaceae</li><li>f_Rubrobacteraceae</li></ul>   | <ul><li>[Paper](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982)</li><li>[metaGEM](https://github.com/franciscozorrilla/metaGEM_paper)</li><li>[MGnify](https://www.ebi.ac.uk/metagenomics/studies/MGYS00000434)</li></ul>  |
 
 
-### 💡 Key points: CarveMe
+### 🪚 CarveMe
 
-Usage:
+#### Usage
 
 ```
 $ carve -h
@@ -87,6 +87,8 @@ optional arguments:
                         Manually curated model of a close reference species.
 ```
 
+#### Key points
+
 1. The top-down approach
    - based on a universal and well-curated bacterial model, **carves** out a species specific model based on organism's genome.
 2. The BiGG database
@@ -95,6 +97,8 @@ optional arguments:
    - MILP formulation to maximize presence of high genomic evidence reactions, minimize presence of low genomic evidence reactions, enforce gapless pathways.
 4. The gap-filling algorithm
    - Uses genomic evidence scores to prioritize and minimize the number of added reactions needed to support growth on a given a media composition.
+
+#### Code
 
 Kefir GEMs:
 ```
@@ -128,9 +132,9 @@ while read model;
 done< <(ls genomes/*.faa)
 ```
 
-### 🔑 Key points: SMETANA
+### 🔑 SMETANA
 
-Usage:
+#### Usage
 
 ```
 $ smetana -h
@@ -189,6 +193,8 @@ optional arguments:
   --no-coupling         Don't compute species coupling scores.
 ```
 
+#### Key points
+
 **Detailed algorithm**
 
 1. The species coupling score (SCS) measures the dependence of growth of species A on species B (SCS<sub>A,B</sub>)
@@ -200,34 +206,38 @@ optional arguments:
    - measures how strongly a receiver species relies on a donor species for a particular metabolite
    - SMETANA<sub>A,B,*m*</sub> = SCS<sub>A,B</sub> * MUS<sub>A,*m*</sub> * MPS<sub>B,*m*</sub>
 
-Note: There may be equivalent solutions that satisfy the linear programming problems posed by the detailed algorithm. To explore the solution space run multiple simulations and then take averages.
-
-Gut example:
-```
-smetana --flavor cobra -o gut_normal -v -d --mediadb data/media_db.tsv -m M3 *.xml
-```
-
-Soil example:
-```
-for i in {1..100}; do 
- echo "Running simulation $i out of 100 ... "; 
- smetana --flavor ucsd -o sim_${i} -v -d --molweight --zeros *.xml;
-done
-```
-
 **Global algorithm**
 
 1. The metabolic interaction potential (MIP) measures the propensity of a given community to exchange metabolites, and is defined as the maximum number of essential nutritional components that a community can provide for itself through interspecies metabolic exchanges.
 2. The metabolic resource overlap (MRO) measures the degree of metabolic competition in a community, and is defined as the maximum possible overlap between the minimal nutritional requirements of all member species.
 
+
+#### Code
+
 Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP and MRO (metabolic resource overlap).
 
+Running a series of global simulations:
 ```
 for i in {1..100}; do 
  echo "Running simulation $i out of 100 ... "; 
  smetana --flavor ucsd -o sim_${i} -v -g *.xml;
 done
 
+```
+
+Gut example for detailed interactions:
+```
+smetana --flavor cobra -o gut_normal -v -d --mediadb data/media_db.tsv -m M3 *.xml
+```
+
+Note: There may be equivalent solutions that satisfy the linear programming problems posed by the detailed and global algorithms. To explore the solution space run multiple simulations and then take averages. Use the `--molweight` flag to predict interactions on community-specific minimal media. Use the `--zeros` flag to take averages across samples.
+
+Running a series of detailed simulations:
+```
+for i in {1..100}; do 
+ echo "Running simulation $i out of 100 ... "; 
+ smetana --flavor ucsd -o sim_${i} -v -d --molweight --zeros *.xml;
+done
 ```
 
 ### 🏖️ Daniel's repos
