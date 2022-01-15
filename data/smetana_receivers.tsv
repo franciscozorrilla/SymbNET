@@ -1,0 +1,31 @@
+receiver	taxonomy_receiver
+230a_03182016.faa	L. mesenteroides
+261_03182016.faa	L. lactis
+290_03182016.faa	A. fabarum
+322b_03182016.faa	L. kefiranofaciens
+376_03182016.faa	L. kefiri
+ERR260140_bin.10.p.faa	F. saccharivorans
+ERR260140_bin.11.s.faa	E. rectale
+ERR260140_bin.13.s.faa	B. wexlerae
+ERR260140_bin.19.p.faa	R. bromii
+ERR260140_bin.3.s.faa	B. uniformis
+ERR260172_bin.10.p.faa	B. uniformis
+ERR260172_bin.31.s.faa	E. rectale
+ERR260172_bin.34.p.faa	F. saccharivorans
+ERR260172_bin.44.p.faa	R. bromii
+ERR260172_bin.7.s.faa	B. wexlerae
+ERR260255_bin.14.p.faa	F. saccharivorans
+ERR260255_bin.19.p.faa	E. rectale
+ERR260255_bin.24.s.faa	B. uniformis
+ERR260255_bin.7.p.faa	R. bromii
+ERR260255_bin.9.s.faa	B. wexlerae
+ERR671933_bin.1.o.faa	f_Thermoleophilaceae
+ERR671933_bin.2.o.faa	f_Herpetosiphonaceae
+ERR671933_bin.3.s.faa	f_Phormidiaceae
+ERR671933_bin.4.o.faa	f_Geodermatophilaceae
+ERR671933_bin.5.s.faa	f_Rubrobacteraceae
+GCF_000020605.1_ASM2060v1_protein.faa.gz	E. rectale
+GCF_002834225.1_ASM283422v1_protein.faa.gz	R. bromii
+GCF_015557635.1_ASM1555763v1_protein.faa.gz	F. saccharivorans
+GCF_018292165.1_ASM1829216v1_protein.faa.gz	B. uniformis
+GCF_018785545.1_ASM1878554v1_protein.faa.gz	B. wexlerae

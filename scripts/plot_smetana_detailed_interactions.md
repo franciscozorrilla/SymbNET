@@ -43,8 +43,8 @@ predictions from SMETANA.
 # Load data & take average across simulations within each community, remember to unzip smet_all.tsv.gz!
 smet_all <- read.delim("../data/smet_all.tsv") %>% 
      select(-medium) %>% 
-     group_by(simulation,compound,receiver,donor) %>% 
-     mutate(ave_smet = mean(smetana)) %>%
+     group_by(community,compound,receiver,donor) %>% 
+     mutate(ave_smet = mean(smetana),sd_smet=sd(smetana)) %>%
      ungroup() %>%
      select(-simulation,-mps,-mus,-scs,-smetana) %>%
      unique() %>%
@@ -58,22 +58,30 @@ smet_all <- read.delim("../data/smet_all.tsv") %>%
 summary(smet_all)
 ```
 
-    ##         community                                          receiver   
-    ##  gut_impaired: 739   ERR260140_bin.10.p.faa                    : 438  
-    ##  gut_normal  : 191   ERR671933_bin.3.s.faa                     : 420  
-    ##  gut_refseq  : 587   ERR260140_bin.19.p.faa                    : 334  
-    ##  gut_t2d     :1477   GCF_002834225.1_ASM283422v1_protein.faa.gz: 324  
-    ##  kefir       : 994   ERR671933_bin.1.o.faa                     : 307  
-    ##  soil        :1372   ERR260140_bin.11.s.faa                    : 300  
-    ##                      (Other)                                   :3237  
-    ##                     donor            compound       ave_smet       
-    ##  ERR260140_bin.3.s.faa : 525   M_h_e     : 480   Min.   :0.003333  
-    ##  ERR260140_bin.13.s.faa: 489   M_acald_e : 422   1st Qu.:0.024000  
-    ##  ERR260172_bin.10.p.faa: 359   M_ala__D_e: 370   Median :0.078000  
-    ##  ERR671933_bin.1.o.faa : 338   M_ala__L_e: 351   Mean   :0.171537  
-    ##  ERR671933_bin.4.o.faa : 335   M_nh4_e   : 345   3rd Qu.:0.213333  
-    ##  ERR671933_bin.5.s.faa : 311   M_h2o_e   : 307   Max.   :1.000000  
-    ##  (Other)               :3003   (Other)   :3085
+    ##         community                                         receiver  
+    ##  gut_impaired:105   322b_03182016.faa                         : 76  
+    ##  gut_normal  :100   376_03182016.faa                          : 75  
+    ##  gut_refseq  :134   230a_03182016.faa                         : 74  
+    ##  gut_t2d     :263   ERR671933_bin.3.s.faa                     : 70  
+    ##  kefir       :301   ERR260140_bin.10.p.faa                    : 68  
+    ##  soil        :284   GCF_002834225.1_ASM283422v1_protein.faa.gz: 68  
+    ##                     (Other)                                   :756  
+    ##                     donor           compound      ave_smet        
+    ##  261_03182016.faa      : 82   M_h_e     : 74   Min.   :0.0000344  
+    ##  ERR671933_bin.1.o.faa : 74   M_acald_e : 73   1st Qu.:0.0048700  
+    ##  ERR260140_bin.11.s.faa: 71   M_h2s_e   : 66   Median :0.0267010  
+    ##  ERR671933_bin.4.o.faa : 69   M_nh4_e   : 65   Mean   :0.1226602  
+    ##  290_03182016.faa      : 68   M_ala__D_e: 62   3rd Qu.:0.1092500  
+    ##  ERR260140_bin.13.s.faa: 68   M_h2o_e   : 58   Max.   :1.0000000  
+    ##  (Other)               :755   (Other)   :789                      
+    ##     sd_smet       
+    ##  Min.   :0.00000  
+    ##  1st Qu.:0.00589  
+    ##  Median :0.02263  
+    ##  Mean   :0.05531  
+    ##  3rd Qu.:0.06925  
+    ##  Max.   :0.50000  
+    ## 
 
 # Kefir community
 
@@ -84,20 +92,15 @@ first step, plot the distribution of average SMETANA scores across
 metabolites.
 
 ``` r
-ggplot(smet_all %>% filter(community =="kefir"),aes(x=compound,y=ave_smet)) + geom_boxplot() + coord_flip()
+ggplot(smet_all %>% filter(community =="kefir"),aes(x=reorder(compound,ave_smet),y=ave_smet)) + geom_boxplot() + coord_flip()
 ```
 
 ![](plot_smetana_detailed_interactions_files/figure-gfm/kefir_smet_distribution-1.png)<!-- -->
 
-We need to filter down to some metabolites of interest to get a
-reasonable plot (try removing the metabolite filter to see what I mean)
+Let’s plot all interactions with high SMETANA score
 
 ``` r
-# filter by compound list
-mets = c("M_val__L_e","M_tyr__L_e","M_trp__L_e","M_his__L_e","M_phe__L_e","M_fol_e")
-
-# Plot kefir
-ggplot(smet_all %>% filter(community =="kefir",compound%in%mets),
+ggplot(smet_all %>% filter(community =="kefir",ave_smet>=0.90),
        aes(axis1 = donor, axis2 = compound, axis3 = receiver,
            y = ave_smet)) +
     scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
@@ -117,10 +120,169 @@ ggplot(smet_all %>% filter(community =="kefir",compound%in%mets),
     ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
     ## params$discern): Some strata appear at multiple axes.
 
-![](plot_smetana_detailed_interactions_files/figure-gfm/kefir_interactions-1.png)<!-- -->
+![](plot_smetana_detailed_interactions_files/figure-gfm/kefir_interactions_all-1.png)<!-- -->
 
-## R Markdown
+Filter down to some metabolites of interest to get a more interpretable
+plot
 
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
+``` r
+mets = c("M_val__L_e","M_tyr__L_e","M_trp__L_e","M_his__L_e","M_phe__L_e","M_fol_e")
+
+ggplot(smet_all %>% filter(community =="kefir",compound%in%mets, ave_smet>=0.90),
+       aes(axis1 = donor, axis2 = compound, axis3 = receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = compound)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+![](plot_smetana_detailed_interactions_files/figure-gfm/kefir_interactions_small-1.png)<!-- -->
+
+# Soil community
+
+``` r
+ggplot(smet_all %>% filter(community =="soil"),aes(x=reorder(compound,ave_smet),y=ave_smet)) + geom_boxplot() + coord_flip()
+```
+
+![](plot_smetana_detailed_interactions_files/figure-gfm/soil_smet_distribution-1.png)<!-- -->
+
+Let’s plot all interactions with high SMETANA score
+
+``` r
+ggplot(smet_all %>% filter(community =="soil",ave_smet>=0.90),
+       aes(axis1 = donor, axis2 = compound, axis3 = receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = compound)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+![](plot_smetana_detailed_interactions_files/figure-gfm/soil_interactions_all-1.png)<!-- -->
+
+Filter down to some metabolites of interest to get a more interpretable
+plot
+
+``` r
+mets = c("M_pnto__R_e","M_glu__L_e","M_arg__L_e","M_thr__L_e")
+
+ggplot(smet_all %>% filter(community =="soil",compound%in%mets,ave_smet>=0.90),
+       aes(axis1 = donor, axis2 = compound, axis3 = receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = compound)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+![](plot_smetana_detailed_interactions_files/figure-gfm/soil_interactions_small-1.png)<!-- -->
+
+### Human gut microbiome community
+
+Load in some taxonomy metadata and create `smet_gut` subset object for
+easy manipulation/plotting
+
+``` r
+smetana_don <- read.delim("../data/smetana_donors.tsv")
+smetana_rec <- read.delim("../data/smetana_receivers.tsv")
+
+smet_gut<- left_join(left_join(smet_all %>% filter(community!="soil",community!="kefir"),smetana_don,by="donor"),smetana_rec,by="receiver")
+```
+
+``` r
+ggplot(smet_gut, aes(x=reorder(compound,ave_smet),y=ave_smet)) + geom_boxplot() + facet_wrap(~community,scales="free") + coord_flip()
+```
+
+![](plot_smetana_detailed_interactions_files/figure-gfm/gut_smet_distribution-1.png)<!-- -->
+
+Notice the x-axis on the `refseq` subplot, very low confidence
+predictions were generated with reference-genome-based-models! Let’s
+plot all interactions with SMETANA score &gt; 0.5 so that we can see the
+top predicted refseq model interactions
+
+``` r
+ggplot(smet_gut %>% filter(ave_smet>=0.50),
+       aes(axis1 = taxonomy_donor, axis2 = compound, axis3 = taxonomy_receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = community)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+![](plot_smetana_detailed_interactions_files/figure-gfm/gut_interactions_all_50-1.png)<!-- -->
+
+Plot all interactions with SMETANA score &gt; 0.9
+
+``` r
+ggplot(smet_gut %>% filter(ave_smet>=0.90),
+       aes(axis1 = taxonomy_donor, axis2 = compound, axis3 = taxonomy_receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = community)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+    ## Warning in to_lodes_form(data = data, axes = axis_ind, discern =
+    ## params$discern): Some strata appear at multiple axes.
+
+![](plot_smetana_detailed_interactions_files/figure-gfm/gut_interactions_all_90-1.png)<!-- -->
+
+Notice the observable differences in the metabolic exchange predictions
+across different conditions. For example, we can see that *B. uniformis*
+is an amino acid donor in disease states, while *B. wexlerae* is an
+important donor in the healthy microbiome.

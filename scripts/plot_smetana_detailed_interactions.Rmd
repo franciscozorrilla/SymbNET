@@ -21,15 +21,15 @@ library(ggalluvial) # easy alluvial diagrams
 
 We will now generate sankey/alluvial diagrams using the metabolic predictions from SMETANA.
 
-```{r}
+```{r load_data}
 ## Set working directory inside scripts folder of cloned repo
 #setwd("~/path/to/SymbNET/scripts")
 
 # Load data & take average across simulations within each community, remember to unzip smet_all.tsv.gz!
 smet_all <- read.delim("../data/smet_all.tsv") %>% 
      select(-medium) %>% 
-     group_by(simulation,compound,receiver,donor) %>% 
-     mutate(ave_smet = mean(smetana)) %>%
+     group_by(community,compound,receiver,donor) %>% 
+     mutate(ave_smet = mean(smetana),sd_smet=sd(smetana)) %>%
      ungroup() %>%
      select(-simulation,-mps,-mus,-scs,-smetana) %>%
      unique() %>%
@@ -48,17 +48,65 @@ summary(smet_all)
 We already have some clues as to what interactions may be occurring in this community from the original publication (see, https://www.nature.com/articles/s41564-020-00816-5). As an exploratory first step, plot the distribution of average SMETANA scores across metabolites.
 
 ```{r kefir_smet_distribution}
-ggplot(smet_all %>% filter(community =="kefir"),aes(x=compound,y=ave_smet)) + geom_boxplot() + coord_flip()
+ggplot(smet_all %>% filter(community =="kefir"),aes(x=reorder(compound,ave_smet),y=ave_smet)) + geom_boxplot() + coord_flip()
 ```
 
-We need to filter down to some metabolites of interest to get a reasonable plot (try removing the metabolite filter to see what I mean)
+Let's plot all interactions with high SMETANA score
 
-```{r kefir_interactions}
-# filter by compound list
+```{r kefir_interactions_all}
+ggplot(smet_all %>% filter(community =="kefir",ave_smet>=0.90),
+       aes(axis1 = donor, axis2 = compound, axis3 = receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = compound)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+Filter down to some metabolites of interest to get a more interpretable plot
+
+```{r kefir_interactions_small}
 mets = c("M_val__L_e","M_tyr__L_e","M_trp__L_e","M_his__L_e","M_phe__L_e","M_fol_e")
 
-# Plot kefir
-ggplot(smet_all %>% filter(community =="kefir",compound%in%mets),
+ggplot(smet_all %>% filter(community =="kefir",compound%in%mets, ave_smet>=0.90),
+       aes(axis1 = donor, axis2 = compound, axis3 = receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = compound)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+# Soil community
+
+```{r soil_smet_distribution}
+ggplot(smet_all %>% filter(community =="soil"),aes(x=reorder(compound,ave_smet),y=ave_smet)) + geom_boxplot() + coord_flip()
+```
+
+Let's plot all interactions with high SMETANA score
+
+```{r soil_interactions_all}
+ggplot(smet_all %>% filter(community =="soil",ave_smet>=0.90),
+       aes(axis1 = donor, axis2 = compound, axis3 = receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = compound)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+Filter down to some metabolites of interest to get a more interpretable plot
+
+```{r soil_interactions_small}
+mets = c("M_pnto__R_e","M_glu__L_e","M_arg__L_e","M_thr__L_e")
+
+ggplot(smet_all %>% filter(community =="soil",compound%in%mets,ave_smet>=0.90),
        aes(axis1 = donor, axis2 = compound, axis3 = receiver,
            y = ave_smet)) +
     scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
@@ -70,6 +118,48 @@ ggplot(smet_all %>% filter(community =="kefir",compound%in%mets),
 
 ```
 
-## R Markdown
+### Human gut microbiome community
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Load in some taxonomy metadata and create `smet_gut` subset object for easy manipulation/plotting
+
+```{r human_metadata}
+smetana_don <- read.delim("../data/smetana_donors.tsv")
+smetana_rec <- read.delim("../data/smetana_receivers.tsv")
+
+smet_gut<- left_join(left_join(smet_all %>% filter(community!="soil",community!="kefir"),smetana_don,by="donor"),smetana_rec,by="receiver")
+```
+
+```{r gut_smet_distribution}
+ggplot(smet_gut, aes(x=reorder(compound,ave_smet),y=ave_smet)) + geom_boxplot() + facet_wrap(~community,scales="free") + coord_flip()
+```
+
+Notice the x-axis on the `refseq` subplot, very low confidence predictions were generated with reference-genome-based-models!
+Let's plot all interactions with SMETANA score > 0.5 so that we can see the top predicted refseq model interactions
+
+```{r gut_interactions_all_50}
+ggplot(smet_gut %>% filter(ave_smet>=0.50),
+       aes(axis1 = taxonomy_donor, axis2 = compound, axis3 = taxonomy_receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = community)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+Plot all interactions with SMETANA score > 0.9
+
+```{r gut_interactions_all_90}
+ggplot(smet_gut %>% filter(ave_smet>=0.90),
+       aes(axis1 = taxonomy_donor, axis2 = compound, axis3 = taxonomy_receiver,
+           y = ave_smet)) +
+    scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
+    xlab("Interaction") +
+    geom_alluvium(aes(fill = community)) +
+    geom_stratum(width=0.3) +
+    theme_minimal() + geom_text(stat = "stratum", aes(label = after_stat(stratum)),min.y=0.2)+theme_bw() + 
+    theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
+```
+
+Notice the observable differences in the metabolic exchange predictions across different conditions. For example, we can see that *B. uniformis* is an amino acid donor in disease states, while *B. wexlerae* is an important donor in the healthy microbiome.
