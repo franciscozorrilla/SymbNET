@@ -2,8 +2,6 @@
 
 ## 💰 Learning Outcomes
 
-This module will cover practical aspects of metagenomics-based metabolic modeling:
-
  - Generating genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
  - Predicting metabolic interactions within communities of GEMs
  - Exploring uncertainty in GEM reconstruction and simulation
