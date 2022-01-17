@@ -2,10 +2,10 @@
 
 ## 💰 Learning Outcomes
 
- - Generating genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
- - Predicting metabolic interactions within communities of GEMs
- - Exploring uncertainty in GEM reconstruction and simulation
- - Reference genomes vs MAGs/SAGs
+ - Generate genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
+ - Predict metabolic interactions within bacterial communities
+ - Explore uncertainty in GEM reconstruction and simulation
+ - Reference genomes vs metagenome-assembled/single-amplified genomes for metabolic modeling 
 
 ## ☑️ Exercises
 
@@ -27,7 +27,7 @@
 | metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
 | Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
 
-The following figure shows the metaGEM workflow for reconstruction of MAGs and metabolic modeling. By now you will be familiar with the tools used for MAG generation, next you will learn how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
+Pictured below is the metaGEM workflow for reconstructing and simulating metagenome based metabolic models. This training module will focus on how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
 
 ![](https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png)
 
@@ -139,7 +139,7 @@ while read model;
 done< <(ls genomes/*.faa)
 ```
 
-## 🔑 SMETANA
+## 🕸️ SMETANA
 
 ### Usage
 
@@ -246,7 +246,7 @@ for i in {1..100}; do
 done
 ```
 
-## 🏖️ Daniel's repos
+## 🥃 Daniel's repos
 
 ### Tools
 
