@@ -139,7 +139,7 @@ while read model;
 done< <(ls genomes/*.faa)
 ```
 
-## 🧫 SMETANA
+## 🕸️ SMETANA
 
 ### Usage
 
@@ -246,7 +246,7 @@ for i in {1..100}; do
 done
 ```
 
-## 🏖️ Daniel's repos
+## 🥃 Daniel's repos
 
 ### Tools
 
