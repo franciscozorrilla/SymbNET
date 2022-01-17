@@ -1,0 +1,279 @@
+medium	description	compound	name
+MILK	Milk compounds	h2o	H2O
+MILK	Milk compounds	o2	O2
+MILK	Milk compounds	co2	CO2
+MILK	Milk compounds	ca2	Ca2+
+MILK	Milk compounds	cl	Cl-
+MILK	Milk compounds	cobalt2	Co2+
+MILK	Milk compounds	cu2	Cu2+
+MILK	Milk compounds	fe2	Fe2+
+MILK	Milk compounds	fe3	Fe3+
+MILK	Milk compounds	h	H+
+MILK	Milk compounds	k	K+
+MILK	Milk compounds	mg2	Mg
+MILK	Milk compounds	mn2	Mn2+
+MILK	Milk compounds	mobd	Molybdate
+MILK	Milk compounds	na1	Na+
+MILK	Milk compounds	nh4	Ammonium
+MILK	Milk compounds	ni2	Ni2+
+MILK	Milk compounds	pi	Phosphate
+MILK	Milk compounds	so4	Sulfate
+MILK	Milk compounds	zn2	Zn2+
+MILK	Milk compounds	ala__L	L-Alanine
+MILK	Milk compounds	asn__L	L-Asparagine
+MILK	Milk compounds	asp__L	L-Aspartate
+MILK	Milk compounds	glu__L	L-Glutamate
+MILK	Milk compounds	gln__L	L-Glutamine
+MILK	Milk compounds	gly	Glycine
+MILK	Milk compounds	his__L	L-Histidine
+MILK	Milk compounds	ile__L	L-Isoleucine
+MILK	Milk compounds	leu__L	L-Leucine
+MILK	Milk compounds	lys__L	L-Lysine
+MILK	Milk compounds	orn	Ornithine
+MILK	Milk compounds	phe__L	L-Phenylalanine
+MILK	Milk compounds	peamn	Phylethylamine
+MILK	Milk compounds	pro__L	L-Proline
+MILK	Milk compounds	ser__L	L-Serine
+MILK	Milk compounds	thr__L	L-Threonine
+MILK	Milk compounds	trp__L	tryptophan
+MILK	Milk compounds	tyr__L	L-Tyrosine
+MILK	Milk compounds	val__L	L-Valine
+MILK	Milk compounds	lcts	Lactose
+MILK	Milk compounds	glc__D	D-Glucose
+MILK	Milk compounds	gal	D-Galactose
+MILK	Milk compounds	gal_bD	Beta D-Galactose
+MILK	Milk compounds	cit	Citrate
+MILK	Milk compounds	lac__D	D-Lactate
+MILK	Milk compounds	lac__L	L-Lactate
+MILK	Milk compounds	for	Formate
+MILK	Milk compounds	ac	Acetate
+MILK	Milk compounds	oxa	Oxalate
+MILK	Milk compounds	pydx	Pyridoxal
+MILK	Milk compounds	cbl1	Vitamin B12
+MILK	Milk compounds	thm	Thiamin
+MILK	Milk compounds	pnto__R	(R)-Pantothenate
+MILK	Milk compounds	fol	Folate
+MILK	Milk compounds	ribflv	Riboflavin
+MILK	Milk compounds	nac	Isonicotinic acid
+MILK	Milk compounds	btn	Biotin
+MILK	Milk compounds	but	Butyrate
+MILK	Milk compounds	caproic	Caproic acid
+MILK	Milk compounds	octa	octanoate
+MILK	Milk compounds	dca	decanoate
+MILK	Milk compounds	ddca	dodecanoate
+MILK	Milk compounds	ttdca	tetradecanoate
+MILK	Milk compounds	ptdca	Pentadecanoate
+MILK	Milk compounds	hdca	hexadecanoate
+MILK	Milk compounds	ocdca	octadecanoate
+MILK	Milk compounds	arach	arachidic acid
+MILK	Milk compounds	ttdcea	Tetradecenoate (n-C14:1)
+MILK	Milk compounds	hdcea	hexadecanoate (n-C16:1)
+MILK	Milk compounds	ocdcea	octadecanoate (n-C18:1)
+MILK	Milk compounds	lnlc	linoleic acid
+MILK	Milk compounds	arachd	arachidonic acid
+MILK	Milk compounds	ade	Adenine
+MILK	Milk compounds	gua	Guanine
+MILK	Milk compounds	ins	Inosine
+MILK	Milk compounds	thymd	Thymidine
+MILK	Milk compounds	ura	Uracil
+MILK	Milk compounds	xan	Xanthine
+MILKminus	Milk minus Val, Ile, Leu	h2o	H2O
+MILKminus	Milk minus Val, Ile, Leu	o2	O2
+MILKminus	Milk minus Val, Ile, Leu	co2	CO2
+MILKminus	Milk minus Val, Ile, Leu	ca2	Ca2+
+MILKminus	Milk minus Val, Ile, Leu	cl	Cl-
+MILKminus	Milk minus Val, Ile, Leu	cobalt2	Co2+
+MILKminus	Milk minus Val, Ile, Leu	cu2	Cu2+
+MILKminus	Milk minus Val, Ile, Leu	fe2	Fe2+
+MILKminus	Milk minus Val, Ile, Leu	fe3	Fe3+
+MILKminus	Milk minus Val, Ile, Leu	h	H+
+MILKminus	Milk minus Val, Ile, Leu	k	K+
+MILKminus	Milk minus Val, Ile, Leu	mg2	Mg
+MILKminus	Milk minus Val, Ile, Leu	mn2	Mn2+
+MILKminus	Milk minus Val, Ile, Leu	mobd	Molybdate
+MILKminus	Milk minus Val, Ile, Leu	na1	Na+
+MILKminus	Milk minus Val, Ile, Leu	nh4	Ammonium
+MILKminus	Milk minus Val, Ile, Leu	ni2	Ni2+
+MILKminus	Milk minus Val, Ile, Leu	pi	Phosphate
+MILKminus	Milk minus Val, Ile, Leu	so4	Sulfate
+MILKminus	Milk minus Val, Ile, Leu	zn2	Zn2+
+MILKminus	Milk minus Val, Ile, Leu	ala__L	L-Alanine
+MILKminus	Milk minus Val, Ile, Leu	asn__L	L-Asparagine
+MILKminus	Milk minus Val, Ile, Leu	asp__L	L-Aspartate
+MILKminus	Milk minus Val, Ile, Leu	glu__L	L-Glutamate
+MILKminus	Milk minus Val, Ile, Leu	gln__L	L-Glutamine
+MILKminus	Milk minus Val, Ile, Leu	gly	Glycine
+MILKminus	Milk minus Val, Ile, Leu	his__L	L-Histidine
+MILKminus	Milk minus Val, Ile, Leu	lys__L	L-Lysine
+MILKminus	Milk minus Val, Ile, Leu	orn	Ornithine
+MILKminus	Milk minus Val, Ile, Leu	phe__L	L-Phenylalanine
+MILKminus	Milk minus Val, Ile, Leu	peamn	Phylethylamine
+MILKminus	Milk minus Val, Ile, Leu	pro__L	L-Proline
+MILKminus	Milk minus Val, Ile, Leu	ser__L	L-Serine
+MILKminus	Milk minus Val, Ile, Leu	thr__L	L-Threonine
+MILKminus	Milk minus Val, Ile, Leu	trp__L	tryptophan
+MILKminus	Milk minus Val, Ile, Leu	tyr__L	L-Tyrosine
+MILKminus	Milk minus Val, Ile, Leu	lcts	Lactose
+MILKminus	Milk minus Val, Ile, Leu	glc__D	D-Glucose
+MILKminus	Milk minus Val, Ile, Leu	gal	D-Galactose
+MILKminus	Milk minus Val, Ile, Leu	gal_bD	Beta D-Galactose
+MILKminus	Milk minus Val, Ile, Leu	cit	Citrate
+MILKminus	Milk minus Val, Ile, Leu	lac__D	D-Lactate
+MILKminus	Milk minus Val, Ile, Leu	lac__L	L-Lactate
+MILKminus	Milk minus Val, Ile, Leu	for	Formate
+MILKminus	Milk minus Val, Ile, Leu	ac	Acetate
+MILKminus	Milk minus Val, Ile, Leu	oxa	Oxalate
+MILKminus	Milk minus Val, Ile, Leu	pydx	Pyridoxal
+MILKminus	Milk minus Val, Ile, Leu	cbl1	Vitamin B12
+MILKminus	Milk minus Val, Ile, Leu	thm	Thiamin
+MILKminus	Milk minus Val, Ile, Leu	pnto__R	(R)-Pantothenate
+MILKminus	Milk minus Val, Ile, Leu	fol	Folate
+MILKminus	Milk minus Val, Ile, Leu	ribflv	Riboflavin
+MILKminus	Milk minus Val, Ile, Leu	nac	Isonicotinic acid
+MILKminus	Milk minus Val, Ile, Leu	btn	Biotin
+MILKminus	Milk minus Val, Ile, Leu	but	Butyrate
+MILKminus	Milk minus Val, Ile, Leu	caproic	Caproic acid
+MILKminus	Milk minus Val, Ile, Leu	octa	octanoate
+MILKminus	Milk minus Val, Ile, Leu	dca	decanoate
+MILKminus	Milk minus Val, Ile, Leu	ddca	dodecanoate
+MILKminus	Milk minus Val, Ile, Leu	ttdca	tetradecanoate
+MILKminus	Milk minus Val, Ile, Leu	ptdca	Pentadecanoate
+MILKminus	Milk minus Val, Ile, Leu	hdca	hexadecanoate
+MILKminus	Milk minus Val, Ile, Leu	ocdca	octadecanoate
+MILKminus	Milk minus Val, Ile, Leu	arach	arachidic acid
+MILKminus	Milk minus Val, Ile, Leu	ttdcea	Tetradecenoate (n-C14:1)
+MILKminus	Milk minus Val, Ile, Leu	hdcea	hexadecanoate (n-C16:1)
+MILKminus	Milk minus Val, Ile, Leu	ocdcea	octadecanoate (n-C18:1)
+MILKminus	Milk minus Val, Ile, Leu	lnlc	linoleic acid
+MILKminus	Milk minus Val, Ile, Leu	arachd	arachidonic acid
+MILKminus	Milk minus Val, Ile, Leu	ade	Adenine
+MILKminus	Milk minus Val, Ile, Leu	gua	Guanine
+MILKminus	Milk minus Val, Ile, Leu	ins	Inosine
+MILKminus	Milk minus Val, Ile, Leu	thymd	Thymidine
+MILKminus	Milk minus Val, Ile, Leu	ura	Uracil
+MILKminus	Milk minus Val, Ile, Leu	xan	Xanthine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	h2o	H2O
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	o2	O2
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	co2	CO2
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ca2	Ca2+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	cl	Cl-
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	cobalt2	Co2+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	cu2	Cu2+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	fe2	Fe2+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	fe3	Fe3+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	h	H+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	k	K+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	mg2	Mg
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	mn2	Mn2+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	mobd	Molybdate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	na1	Na+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	nh4	Ammonium
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ni2	Ni2+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	pi	Phosphate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	so4	Sulfate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	zn2	Zn2+
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ala__L	L-Alanine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	asn__L	L-Asparagine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	asp__L	L-Aspartate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	glu__L	L-Glutamate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	gln__L	L-Glutamine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	gly	Glycine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	lys__L	L-Lysine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	orn	Ornithine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	peamn	Phylethylamine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	pro__L	L-Proline
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ser__L	L-Serine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	thr__L	L-Threonine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	lcts	Lactose
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	cit	Citrate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	lac__D	D-Lactate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	lac__L	L-Lactate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	for	Formate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ac	Acetate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	oxa	Oxalate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	pydx	Pyridoxal
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	cbl1	Vitamin B12
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	thm	Thiamin
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	pnto__R	(R)-Pantothenate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	fol	Folate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ribflv	Riboflavin
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	nac	Isonicotinic acid
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	btn	Biotin
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	but	Butyrate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	caproic	Caproic acid
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	octa	octanoate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	dca	decanoate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ddca	dodecanoate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ttdca	tetradecanoate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ptdca	Pentadecanoate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	hdca	hexadecanoate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ocdca	octadecanoate
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	arach	arachidic acid
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ttdcea	Tetradecenoate (n-C14:1)
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	hdcea	hexadecanoate (n-C16:1)
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ocdcea	octadecanoate (n-C18:1)
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	lnlc	linoleic acid
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	arachd	arachidonic acid
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ade	Adenine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	gua	Guanine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ins	Inosine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	thymd	Thymidine
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	ura	Uracil
+MILKminus2	MILKminus minus aromatic amino acids and simple sugars	xan	Xanthine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	h2o	H2O
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	o2	O2
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	co2	CO2
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ca2	Ca2+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	cl	Cl-
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	cobalt2	Co2+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	cu2	Cu2+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	fe2	Fe2+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	fe3	Fe3+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	h	H+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	k	K+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	mg2	Mg
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	mn2	Mn2+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	mobd	Molybdate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	na1	Na+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	nh4	Ammonium
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ni2	Ni2+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	pi	Phosphate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	so4	Sulfate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	zn2	Zn2+
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ala__L	L-Alanine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	gly	Glycine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	orn	Ornithine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	peamn	Phylethylamine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ser__L	L-Serine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	thr__L	L-Threonine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	lcts	Lactose
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	lac__D	D-Lactate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	lac__L	L-Lactate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	oxa	Oxalate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	pydx	Pyridoxal
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	cbl1	Vitamin B12
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	thm	Thiamin
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	pnto__R	(R)-Pantothenate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	nac	Isonicotinic acid
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	btn	Biotin
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	but	Butyrate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	caproic	Caproic acid
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	octa	octanoate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	dca	decanoate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ddca	dodecanoate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ttdca	tetradecanoate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ptdca	Pentadecanoate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	hdca	hexadecanoate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ocdca	octadecanoate
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	arach	arachidic acid
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ttdcea	Tetradecenoate (n-C14:1)
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	hdcea	hexadecanoate (n-C16:1)
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ocdcea	octadecanoate (n-C18:1)
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	lnlc	linoleic acid
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	arachd	arachidonic acid
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ade	Adenine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	gua	Guanine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ins	Inosine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	thymd	Thymidine
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	ura	Uracil
+MILKminus3	MILKminus3 minus a bunch more carbon and sources and amino acids	xan	Xanthine
