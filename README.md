@@ -5,7 +5,7 @@
  - Generate genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
  - Predict metabolic interactions within bacterial communities
  - Explore uncertainty in GEM reconstruction and simulation
- - Reference genomes vs metagenome-assembled/single-amplified genomes for metabolic modeling 
+ - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
 
 ## ☑️ Exercises
 
