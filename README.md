@@ -221,7 +221,7 @@ optional arguments:
 
 ### Example code
 
-Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP and MRO (metabolic resource overlap).
+Note: Use `--cobra` flag in CarveMe run and `--flavor ucsd` in SMETANA run to calculate global parameters MIP and MRO (metabolic resource overlap). For more details see [this issue](https://github.com/cdanielmachado/smetana/issues/22).
 
 #### Running a series of global simulations
 ```
