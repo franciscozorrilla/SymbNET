@@ -8,9 +8,9 @@
  - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
 
 ## ☑️ Exercises
+ 0. Clone repo -> [START](link)
 
 ### Part I
- 0. Clone repo
  1. Use CarveMe to generate GEMs for a bacterial community
  2. Visualize model metrics different species across species (modify to make summary of models for single communities)
  3. Use SMETANA detailed algorithm to predict metabolic interactions between species
