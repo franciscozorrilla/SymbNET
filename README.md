@@ -9,17 +9,18 @@
 
 ## ☑️ Exercises
 
-0. Clone repo
-1. Use CarveMe to generate GEMs for a bacterial community
-2. Visualize model metrics different species across species (modify to make summary of models for single communities)
-3. Use SMETANA detailed algorithm to predict metabolic interactions between species
-4. Visualize deteailed interactions with alluvial diagrams
+### Part I
+ 0. Clone repo
+ 1. Use CarveMe to generate GEMs for a bacterial community
+ 2. Visualize model metrics different species across species (modify to make summary of models for single communities)
+ 3. Use SMETANA detailed algorithm to predict metabolic interactions between species
+ 4. Visualize deteailed interactions with alluvial diagrams
 
-5. Generate ensemble models (optional)
-6. Quantify network uncertainity (optional)
-
-7. Use SMETANA global algorithm to generate MIP & MRO metrics for community of GEMs
-8. Visualize communities on cooperation-competition plot
+### Part II
+ 5. Use SMETANA global algorithm to generate MIP & MRO metrics for community of GEMs
+ 6. Visualize communities on cooperation-competition plot
+ 7. Generate ensemble models (optional)
+ 8. Quantify network uncertainity (optional)
 
 ## 🍬 Tools
 
