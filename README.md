@@ -21,16 +21,16 @@
  0. [Start by cloning this repo](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/0.clone_repo.md)
 
 ### Part I
- 1. Use CarveMe to generate GEMs for a bacterial community
- 2. Visualize model metrics different species across species (modify to make summary of models for single communities)
- 3. Use SMETANA detailed algorithm to predict metabolic interactions between species
- 4. Visualize deteailed interactions with alluvial diagrams
+ 1. [Use CarveMe to generate GEMs for a bacterial community](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/1.carve_models.md)
+ 2. [Visualize model metrics different species across species (modify to make summary of models for single communities)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_gut_model_summary.ipynb)
+ 3. [Use SMETANA detailed algorithm to predict metabolic interactions between species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/3.run_smetana_detailed_interactions.md)
+ 4. [Visualize deteailed interactions with alluvial diagrams](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/4.plot_smetana_detailed_interactions.md)
 
 ### Part II
- 5. Use SMETANA global algorithm to generate MIP & MRO metrics for community of GEMs
- 6. Visualize communities on cooperation-competition plot
- 7. Generate ensemble models (optional)
- 8. Quantify network uncertainity (optional)
+ 5. [Use SMETANA global algorithm to generate MIP & MRO metrics for community of GEMs](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/5.run_smetana_global_metrics.md)
+ 6. [Visualize communities on cooperation-competition plot](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/6.plot_competition_cooperation.ipynb)
+ 7. [Generate ensemble models (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/7.generate_ensemble_models.md)
+ 8. [Quantify network uncertainity (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/8.plot_ensemble_dist.ipynb)
 
 ## 🍬 Tools
 
