@@ -4,6 +4,7 @@
 
  - Generate genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
  - Predict metabolic interactions within bacterial communities
+ - Characterize communities using competition-cooperation plot
  - Explore uncertainty in GEM reconstruction and simulation
  - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
 
