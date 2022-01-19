@@ -9,7 +9,7 @@
 
 ## ☑️ Exercises
 
- 1. Use CarveMe to generate a community of GEMs
+ 1. Use CarveMe to generate GEMs for a bacterial community
  2. Visualize model metrics different species across conditions
  3. Generate ensemble models
  4. Quantify network uncertainity
