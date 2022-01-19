@@ -9,13 +9,13 @@
 
 ## 🗻 Contents
 
- - `/genomes` 30 ORF annotated protein fasta files (.faa)
- - `/models` 30 pre-generated CarveMe GEMs for simulation (.xml)
- - `/ensembles` 30 pre-generated ensemble models for network uncertainty (.xml) 
- - `/simulations` 1200 pre-computed SMETANA simulations (.tsv)
- - `/data` various metadata, taxonomic assignments, media files, etc.
- - `/scripts` markdown, r-markdown, and jupyter notebooks for each exercise
- - `/plots` visualization of results 
+ - `/genomes/` ORF annotated protein fasta files (.faa)
+ - `/models/` pre-generated CarveMe GEMs for simulation (.xml)
+ - `/ensembles/` pre-generated ensemble models for network uncertainty (.xml) 
+ - `/simulations/` pre-computed SMETANA simulations (.tsv)
+ - `/data/` various metadata, taxonomic assignments, media files, etc.
+ - `/scripts/` markdown, r-markdown, and jupyter notebooks for each exercise
+ - `/plots/` visualization of results 
 
 ## ☑️ Exercises
  0. Clone repo to [START](link)
