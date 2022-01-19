@@ -18,7 +18,7 @@
  - `/plots/` visualization of results 
 
 ## ☑️ Exercises
- 0. Clone repo to [START](link)
+ 0. [START](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/0.clone_repo.md) by cloning this repo
 
 ### Part I
  1. Use CarveMe to generate GEMs for a bacterial community
