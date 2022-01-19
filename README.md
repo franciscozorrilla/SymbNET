@@ -7,6 +7,16 @@
  - Explore uncertainty in GEM reconstruction and simulation
  - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
 
+## 🗻 Contents
+
+ - `/genomes`: ORF annotated protein fasta files (.faa)
+ - `/models`: pre-generated CarveMe GEMs for simulation (.xml)
+ - `/ensembles`: pre-generated ensemble models for network uncertainty (.xml) 
+ - `/simulations`: 100 pre-computed SMETANA simulations for each community (.tsv)
+ - `/data`: various metadata, taxonomic assignments, media files, etc.
+ - `/scripts`: markdown, r-markdown, and jupyter notebooks for each exercise
+ - `/plots`: visualization of results 
+
 ## ☑️ Exercises
  0. Clone repo to [START](link)
 
