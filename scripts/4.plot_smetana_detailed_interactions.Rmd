@@ -1,5 +1,5 @@
 ---
-title: "8.plot_smetana_detailed"
+title: "4.plot_smetana_detailed_interactions"
 author: "Francisco Zorrilla"
 date: "15/01/2022"
 output: github_document
