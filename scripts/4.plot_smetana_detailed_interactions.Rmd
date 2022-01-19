@@ -1,5 +1,5 @@
 ---
-title: "4.plot_smetana_detailed_interactions"
+title: "📶 4. Visualize deteailed interactions with alluvial diagrams"
 author: "Francisco Zorrilla"
 date: "15/01/2022"
 output: github_document
@@ -163,3 +163,5 @@ ggplot(smet_gut %>% filter(ave_smet>=0.90),
 ```
 
 Notice the observable differences in the metabolic exchange predictions across different conditions. For example, we can see that *B. uniformis* is an amino acid donor in disease states, while *B. wexlerae* is an important donor in the healthy microbiome.
+
+## This is the end of part I of this tutorial, move on to [exercise 5](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/5.run_smetana_global_metrics.md)
