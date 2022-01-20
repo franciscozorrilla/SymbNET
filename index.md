@@ -1,4 +1,4 @@
-# 💻 SymbNET 🧬 From Metagenomics to Metabolic Interactions (Day 5) 
+# 🦠 From Metagenomics to Metabolic Interactions (Day 5) 
 
 ## 💰 Learning Outcomes
 
