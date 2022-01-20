@@ -1,5 +1,5 @@
 ---
-title: "📶 4. Visualize deteailed interactions with alluvial diagrams"
+title: "📶 4. Visualize detailed interactions with alluvial diagrams"
 author: "Francisco Zorrilla"
 date: "15/01/2022"
 output: github_document
