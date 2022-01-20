@@ -1,4 +1,4 @@
-bigg	name	super_class	class	sub_class
+compound	name	super_class	class	sub_class
 thm	Thiamine	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives
 26dap__M	Meso-2,6-Diaminoheptanedioate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 3cmp	3 CMP	Nucleosides, nucleotides, and analogues	Ribonucleoside 3'-phosphates	Ribonucleoside 3'-phosphates
