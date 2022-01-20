@@ -19,6 +19,7 @@
  - `/plots/` visualization of results 
 
 ## ☑️ Exercises
+### Setup
  0. [Start by cloning this repo](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/0.clone_repo.md)
 
 ### Part I
