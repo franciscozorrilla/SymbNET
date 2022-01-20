@@ -23,7 +23,7 @@
 
 ### Part I
  1. [Use CarveMe to generate GEMs for a bacterial community](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/1.carve_models.md)
- 2. [Visualize model metrics different species across species (modify to make summary of models for single communities)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_gut_model_summary.ipynb)
+ 2. [Visualize model metrics different species across species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_gut_model_summary.ipynb)
  3. [Use SMETANA detailed algorithm to predict metabolic interactions between species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/3.run_smetana_detailed_interactions.md)
  4. [Visualize deteailed interactions with alluvial diagrams](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/4.plot_smetana_detailed_interactions.md)
 
