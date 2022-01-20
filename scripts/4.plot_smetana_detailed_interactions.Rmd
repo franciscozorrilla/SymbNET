@@ -183,10 +183,10 @@ ggplot(smet_gut %>% filter(ave_smet>=0.90),
 
 Notice the observable differences in the metabolic exchange predictions across different conditions. For example, we can see that *B. uniformis* is an amino acid donor in disease states, while *B. wexlerae* is an important donor in the healthy microbiome.
 
-Filter out Fe2+ ion exchanges as pH-dependence is not accounted for in models. These exchanges may be possible, but further domain knowledge is needed to asses their feasibility.
+Filter out Fe2+ and Hydrogen ion exchanges as pH-dependence is not accounted for in models. These exchanges may be possible, but further domain knowledge is needed to asses their feasibility.
 
 ```{r gut_interactions_all_90_nofe2}
-ggplot(smet_gut %>% filter(ave_smet>=0.90,name!="Fe2+"),
+ggplot(smet_gut %>% filter(ave_smet>=0.90,name!="Fe2+",name!="Hydrogen Ion"),
        aes(axis1 = taxonomy_donor, axis2 = name, axis3 = taxonomy_receiver,
            y = ave_smet)) +
     scale_x_discrete(limits = c("Donor", "Metabolite", "Reciever")) +
