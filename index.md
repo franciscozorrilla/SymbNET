@@ -44,7 +44,7 @@
 
 Pictured below is the metaGEM workflow for reconstructing and simulating metagenome based metabolic models. This training module will focus on how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
 
-<img align="center" src="https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png" height = 500 width = 800>
+<img align="center" src="https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png" height = 450 width = 800>
 
 ## ⛏️ Datasets
 
