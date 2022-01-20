@@ -1,3 +1,4 @@
+
 ## 💰 Learning Outcomes
 
  - Generate genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
