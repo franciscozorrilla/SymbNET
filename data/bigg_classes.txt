@@ -345,10 +345,8 @@ CE5868	L-Aspartic acid	Organic acids and derivatives	Carboxylic acids and deriva
 asp__L	L-Aspartic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 CE1787	1-deoxy-1-(N6-lysino)-D-fructose	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 CE5868	1-deoxy-1-(N6-lysino)-D-fructose	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
-asp__L	1-deoxy-1-(N6-lysino)-D-fructose	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 CE1787	N-acetyl-seryl-aspartate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 CE5868	N-acetyl-seryl-aspartate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
-asp__L	N-acetyl-seryl-aspartate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 CE1918	5-Hydroxytryptophol	Organoheterocyclic compounds	Indoles and derivatives	Hydroxyindoles
 CE1925	3'-carboxy-alpha-chromanol	Organoheterocyclic compounds	Benzopyrans	1-benzopyrans
 CE1936	Spermine dialdehyde	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds
