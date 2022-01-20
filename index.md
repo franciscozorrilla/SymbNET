@@ -1,5 +1,3 @@
-# 🦠 From Metagenomics to Metabolic Interactions (Day 5) 
-
 ## 💰 Learning Outcomes
 
  - Generate genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
