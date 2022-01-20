@@ -1560,7 +1560,6 @@ trdcal	Tridecanal	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
 tre	Trehalose	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
 tre6p	Trehalose 6-phosphate	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates
 trp__L	L-Tryptophan	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives
-trp__L	(±)-Tryptophan	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives
 trypta	Tryptamine	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives
 ttdcal	Tetradecanal	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes
 ttdcrn	Tetradecanoylcarnitine	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters
