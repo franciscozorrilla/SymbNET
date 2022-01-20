@@ -779,7 +779,6 @@ arbt	Arbutin	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and c
 arbtn_fe3	Aerobactin	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 arg__D	D-Arginine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 arg__L	L-Arginine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
-arg__L	L-argininium(1+)	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 ascb__L	Ascorbic acid	Organoheterocyclic compounds	Dihydrofurans	Furanones
 asn__L	L-Asparagine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 aso3	Arsenite	Inorganic compounds	Mixed metal/non-metal compounds	Miscellaneous mixed metal/non-metals
@@ -1062,7 +1061,6 @@ glu5p	L-Glutamic acid 5-phosphate	Organic acids and derivatives	Carboxylic acids
 glu5sa	L-Glutamic gamma-semialdehyde	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 glu__D	D-Glutamic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 glu__L	L-Glutamic acid	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
-glu__L	DL-Glutamate	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 gluala	gamma-Glutamylalanine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 glucys	gamma-Glutamylcysteine	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues
 gluside_cho	Glucosylceramide	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids
