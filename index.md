@@ -87,7 +87,9 @@ Please cite [Daniel Machado](https://orcid.org/0000-0002-2063-5383)'s relevant l
  - CarveMe: [Fast automated reconstruction of genome-scale metabolic models for microbial species and communities](https://academic.oup.com/nar/article/46/15/7542/5042022)
  - SMETANA: [Metabolic dependencies drive species co-occurrence in diverse microbial communities](https://www.pnas.org/content/112/20/6449)
  - metaGEM: [Reconstruction of genome scale metabolic models directly from metagenomes](https://academic.oup.com/nar/article/49/21/e126/6382386)
- - https://www.nature.com/articles/s41564-018-0123-9
+ - Human gut study: [Nutritional preferences of human gut bacteria reveal their metabolic idiosyncrasies](https://www.nature.com/articles/s41564-018-0123-9)
+ - Kefir study: [Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial community](https://www.nature.com/articles/s41564-020-00816-5)
+ - Cooccurrence study: [Polarization of microbial communities between competitive and cooperative metabolism](https://www.nature.com/articles/s41559-020-01353-4)
 
 ## 🇪🇺 About SymbNET
 
