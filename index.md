@@ -34,6 +34,9 @@
  7. [Generate ensemble models (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/7.generate_ensemble_models.md)
  8. [Quantify network uncertainity (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/8.plot_ensemble_dist.ipynb)
 
+### Wrap-up
+ 9. [Discussion of methods, results, and interpretation](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/9.wrap_up_discussion.md)
+
 ## 🍬 Tools
 
 | Tool | Task | GitHub | Reference |
