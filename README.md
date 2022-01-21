@@ -89,7 +89,7 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 
  - [EMBL GEMs](https://github.com/cdanielmachado/embl_gems): Collection of RefSeq-based GEMs
 
-Please cite [Daniel Machado](https://orcid.org/0000-0002-2063-5383)'s relevant literature if you make use of relevant tools and/or resources.
+Please cite literature if you make use of relevant tools and/or resources.
 
 ## 📚 Suggested Reading
 
