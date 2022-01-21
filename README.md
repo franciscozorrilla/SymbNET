@@ -63,10 +63,12 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 | Kefir | SAGs | Fermented with German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | <ul><li>[Paper](https://www.nature.com/articles/s41564-020-00816-5)</li></ul>   |
 | Soil | MAGs |  Calcarosols from Uluru, Australia (ERR671933)   | <ul><li>f_Thermoleophilaceae</li><li>f_Herpetosiphonaceae</li><li>f_Phormidiaceae</li><li>f_Geodermatophilaceae</li><li>f_Rubrobacteraceae</li></ul>   | <ul><li>[Paper](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982)</li><li>[metaGEM](https://github.com/franciscozorrilla/metaGEM_paper)</li><li>[MGnify](https://www.ebi.ac.uk/metagenomics/studies/MGYS00000434)</li></ul>  |
 
-## 🥃 Daniel's repos
+## 🛠️ Metabolic modeling repos
 
 ### Tools
 
+ - [metaGEM](https://github.com/franciscozorrilla/metaGEM): Reconstruction and simulation of genome scale metabolic models directly from metagenomes
+ 
  - [DesignMC](https://github.com/cdanielmachado/designmc): Design microbial communities for production of specific target compounds using GEMs 
 
  - [HiOrCo](https://github.com/cdanielmachado/HiOrCo): Compute higher order cooccurence using abundance across samples
@@ -74,6 +76,10 @@ The following table describes in detail the 6 small bacterial communities of 5 s
  - [Reframed](https://github.com/cdanielmachado/reframed): Metabolic modeling package
 
 ### Resources
+
+ - [metaGEM_paper](https://github.com/franciscozorrilla/metaGEM_paper): metaGEM paper results
+
+ - [metaGEM_unseenbio](https://github.com/franciscozorrilla/unseenbio_metaGEM): metaGEM analysis of unseen bio at-home-test WGS sequencing data
 
  - [Cooccurrence paper](https://github.com/cdanielmachado/cooccurrence): Supplement repo to cooccurrence paper
 
@@ -83,7 +89,7 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 
  - [EMBL GEMs](https://github.com/cdanielmachado/embl_gems): Collection of RefSeq-based GEMs
 
-Please cite [Daniel Machado](https://orcid.org/0000-0002-2063-5383)'s relevant literature if you make use of these tools and/or resources.
+Please cite [Daniel Machado](https://orcid.org/0000-0002-2063-5383)'s relevant literature if you make use of relevant tools and/or resources.
 
 ## 📚 Suggested Reading
 
