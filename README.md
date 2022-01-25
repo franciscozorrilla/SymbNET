@@ -50,6 +50,8 @@ Pictured below is the metaGEM workflow for reconstructing and simulating metagen
 
 ![](https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png)
 
+
+
 ## ⛏️ Datasets
 
 The following table describes in detail the 6 small bacterial communities of 5 species that we will consider for metabolic modeling. These include MAG,SAG, and reference genome-based communities; the samples also span the human gut, kefir, and soil habitats.
