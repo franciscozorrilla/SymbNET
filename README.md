@@ -66,25 +66,17 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 ### Tools
 
  - [metaGEM](https://github.com/franciscozorrilla/metaGEM): Reconstruction and simulation of genome scale metabolic models directly from metagenomes
- 
  - [DesignMC](https://github.com/cdanielmachado/designmc): Design microbial communities for production of specific target compounds using GEMs 
-
  - [HiOrCo](https://github.com/cdanielmachado/HiOrCo): Compute higher order cooccurence using abundance across samples
-
  - [Reframed](https://github.com/cdanielmachado/reframed): Metabolic modeling package
 
 ### Resources
 
  - [metaGEM_paper](https://github.com/franciscozorrilla/metaGEM_paper): metaGEM paper results
-
  - [metaGEM_unseenbio](https://github.com/franciscozorrilla/unseenbio_metaGEM): metaGEM analysis of unseen bio at-home-test WGS sequencing data
-
  - [Cooccurrence paper](https://github.com/cdanielmachado/cooccurrence): Supplement repo to cooccurrence paper
-
  - [CarveMe paper](https://github.com/cdanielmachado/carveme_paper): Supplement repo to CarveMe paper
-
  - [Kefir paper](https://github.com/cdanielmachado/kefir_paper): Supplement repo to kefir paper
-
  - [EMBL GEMs](https://github.com/cdanielmachado/embl_gems): Collection of RefSeq-based GEMs
 
 Please cite literature if you make use of relevant tools and/or resources.
