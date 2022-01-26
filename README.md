@@ -33,8 +33,6 @@
  8. [Quantify network uncertainty (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/8.plot_ensemble_dist.ipynb)
  9. [Discussion of methods, results, and interpretation](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/9.wrap_up_discussion.md)
 
-### Wrap-up
-
 ## 🍬 Tools
 
 | Tool | Task | GitHub | Reference |
