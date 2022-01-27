@@ -103,11 +103,11 @@ Please cite literature if you make use of relevant tools and/or resources.
  
  - [Prodigal](https://github.com/hyattpd/Prodigal)
  - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
- - [R 4.1](https://cran.r-project.org/)
+ - [R v4.x](https://cran.r-project.org/)
    * [tidyverse](https://github.com/tidyverse/tidyverse)
    * [ggalluvial](https://github.com/corybrunson/ggalluvial/)
    * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
- - [Python 3](https://www.python.org/downloads/)
+ - [Python v3.x](https://www.python.org/downloads/)
    * [framed](https://github.com/cdanielmachado/framed)
    * [reframed](https://github.com/cdanielmachado/reframed)
    * [matplotlib](https://matplotlib.org/)
