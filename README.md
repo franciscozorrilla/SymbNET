@@ -46,8 +46,6 @@ Pictured below is the metaGEM workflow for reconstructing and simulating metagen
 
 ![](https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png)
 
-
-
 ## ⛏️ Datasets
 
 The following table describes in detail the 6 small bacterial communities of 5 species that we will consider for metabolic modeling. These include MAG,SAG, and reference genome-based communities; the samples also span the human gut, kefir, and soil habitats.
@@ -60,37 +58,6 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 | Human gut| Reference genomes | Reference genomes taken from RefSeq   | <ul><li>*B. uniformis*</li><li>*R. bromii*</li><li>*B. wexlerae*</li><li>*E. rectale*</li><li>*F. saccharivorans*</li></ul>  | <ul><li>[NCBI](https://www.ncbi.nlm.nih.gov/)</li></ul>   |
 | Kefir | SAGs | Fermented with German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | <ul><li>[Paper](https://www.nature.com/articles/s41564-020-00816-5)</li></ul>   |
 | Soil | MAGs |  Calcarosols from Uluru, Australia (ERR671933)   | <ul><li>f_Thermoleophilaceae</li><li>f_Herpetosiphonaceae</li><li>f_Phormidiaceae</li><li>f_Geodermatophilaceae</li><li>f_Rubrobacteraceae</li></ul>   | <ul><li>[Paper](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982)</li><li>[metaGEM](https://github.com/franciscozorrilla/metaGEM_paper)</li><li>[MGnify](https://www.ebi.ac.uk/metagenomics/studies/MGYS00000434)</li></ul>  |
-
-## 🚛 Software requirements
-
-### Main tools
-
- - CarveMe
- - SMETANA
-
-### Dependencies
-
- - IBM CPLEX Solver
- - Diamond
-
-### Additonal packages
- 
- - Prodigal
- - Git
- - R 4.1
-   * tidyverse
-   * ggalluvial
-   * ggpubr
- - Python 3
-   * framed 
-   * reframed 
-   * matplotlib 
-   * seaborn 
-   * pandas 
-   * glob 
-   * numpy 
-   * random 
-   * scipy
 
 ## 🏄 Metabolic modeling repos
 
@@ -121,6 +88,35 @@ Please cite literature if you make use of relevant tools and/or resources.
  - [Human gut study](https://www.nature.com/articles/s41564-018-0123-9): Nutritional preferences of human gut bacteria reveal their metabolic idiosyncrasies
  - [Kefir study](https://www.nature.com/articles/s41564-020-00816-5): Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial community
  - [Cooccurrence study](https://www.nature.com/articles/s41559-020-01353-4): Polarization of microbial communities between competitive and cooperative metabolism
+
+## 🚛 Software requirements
+
+ - [CarveMe](https://github.com/cdanielmachado/carveme)
+ - [SMETANA](https://github.com/cdanielmachado/smetana)
+
+### Dependencies
+
+ - [IBM CPLEX Solver (academic edition)](https://community.ibm.com/community/user/datascience/blogs/xavier-nodet1/2020/07/09/cplex-free-for-students)
+ - [Diamond](https://github.com/bbuchfink/diamond)
+
+### Additonal packages
+ 
+ - [Prodigal](https://github.com/hyattpd/Prodigal)
+ - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+ - [R 4.1](https://cran.r-project.org/)
+   * [tidyverse](https://github.com/tidyverse/tidyverse)
+   * [ggalluvial](https://github.com/corybrunson/ggalluvial/)
+   * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
+ - [Python 3](https://www.python.org/downloads/)
+   * [framed](https://github.com/cdanielmachado/framed)
+   * [reframed](https://github.com/cdanielmachado/reframed)
+   * [matplotlib](https://matplotlib.org/)
+   * [seaborn](https://seaborn.pydata.org/)
+   * [pandas](https://github.com/pandas-dev/pandas)
+   * [glob](https://docs.python.org/3/library/glob.html)
+   * [numpy](https://numpy.org/)
+   * [random](https://docs.python.org/3/library/random.html)
+   * [scipy](https://scipy.org/)
 
 ## 🇪🇺 About SymbNET
 
