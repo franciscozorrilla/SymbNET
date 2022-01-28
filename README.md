@@ -107,6 +107,7 @@ Please cite literature if you make use of relevant tools and/or resources.
    * [tidyverse](https://github.com/tidyverse/tidyverse)
    * [ggalluvial](https://github.com/corybrunson/ggalluvial/)
    * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
+   * [Rstudio](https://www.rstudio.com/)
  - [Python (v3.x)](https://www.python.org/downloads/)
    * [framed](https://github.com/cdanielmachado/framed)
    * [reframed](https://github.com/cdanielmachado/reframed)
