@@ -118,6 +118,7 @@ Please cite literature if you make use of relevant tools and/or resources.
    * [numpy](https://numpy.org/)
    * [random](https://docs.python.org/3/library/random.html)
    * [scipy](https://scipy.org/)
+   * [jupyter notebook](https://jupyter.org/install)
 
 ## 🇪🇺 About SymbNET
 
