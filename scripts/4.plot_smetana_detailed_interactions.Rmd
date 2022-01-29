@@ -197,4 +197,13 @@ ggplot(smet_gut %>% filter(ave_smet>=0.90,name!="Fe2+",name!="Hydrogen Ion"),
     theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
 ```
 
+
+## 🍉 Discussion questions
+
+ - Do the predictions make sense from a biological perspective?
+ - Look at the receiver species on your community's alluvial diagram, are they known to be auxotrophic for the metabolites we predicted them to uptake?
+  - Look at the donor species on your community's alluvial diagram, are they known to be prototrophic for the metabolites we predicted them to donate?
+  - Is there supporting literature for the predicted interactions in your community?
+  - Can this approach be used for hypothesis generation in microbial ecology?
+
 ## This is the end of part I of this tutorial, move on to [exercise 5](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/5.run_smetana_global_metrics.md)
