@@ -8,7 +8,7 @@
  - Explore uncertainty in GEM reconstruction and simulation
  - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
 
-## 🍬 Tools
+## 🍬 Software
 
 | Tool | Task | GitHub | Reference |
 | :---         | :---           | :---          |  :---         | 
