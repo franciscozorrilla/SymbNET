@@ -1,5 +1,13 @@
 # 💻 SymbNET 🧬 From Metagenomics to Metabolic Interactions (Day 5)
 
+## 💰 Learning Outcomes
+
+ - Generate genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
+ - Predict metabolic interactions within bacterial communities
+ - Characterize communities using competition-cooperation plot
+ - Explore uncertainty in GEM reconstruction and simulation
+ - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
+
 ## 🍬 Tools
 
 | Tool | Task | GitHub | Reference |
@@ -12,14 +20,6 @@
 Pictured below is the metaGEM workflow for reconstructing and simulating metagenome based metabolic models. This training module will focus on how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
 
 ![](https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png)
-
-## 💰 Learning Outcomes
-
- - Generate genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
- - Predict metabolic interactions within bacterial communities
- - Characterize communities using competition-cooperation plot
- - Explore uncertainty in GEM reconstruction and simulation
- - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
 
 ## 🗻 Contents
 
