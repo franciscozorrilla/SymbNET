@@ -1,5 +1,18 @@
 # 💻 SymbNET 🧬 From Metagenomics to Metabolic Interactions (Day 5)
 
+## 🍬 Tools
+
+| Tool | Task | GitHub | Reference |
+| :---         | :---           | :---          |  :---         | 
+| CarveMe   | Build GEMs from MAGs   |[Repo](https://github.com/cdanielmachado/carveme)    |        [Paper](https://academic.oup.com/nar/article/46/15/7542/5042022)       |
+| SMETANA     | Predict metabolic interactions between GEMs       | [Repo](https://github.com/cdanielmachado/smetana)      |          [Paper](https://www.pnas.org/content/112/20/6449)     |
+| metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
+| Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
+
+Pictured below is the metaGEM workflow for reconstructing and simulating metagenome based metabolic models. This training module will focus on how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
+
+![](https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png)
+
 ## 💰 Learning Outcomes
 
  - Generate genome-scale metabolic models (GEMs) from metagenome assembled genomes (MAGs)
@@ -22,7 +35,7 @@
 ### Part I
  0. [Start by cloning this repo](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/0.clone_repo.md)
  1. [Use CarveMe to generate GEMs for a bacterial community](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/1.carve_models.md)
- 2. [Visualize model metrics different species across species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_gut_model_summary.ipynb)
+ 2. [Visualize model metrics across species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_gut_model_summary.ipynb)
  3. [Use SMETANA detailed algorithm to predict metabolic interactions between species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/3.run_smetana_detailed_interactions.md)
  4. [Visualize detailed interactions with alluvial diagrams](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/4.plot_smetana_detailed_interactions.md)
 
@@ -32,19 +45,6 @@
  7. [Generate ensemble models (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/7.generate_ensemble_models.md)
  8. [Quantify network uncertainty (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/8.plot_ensemble_dist.ipynb)
  9. [Discussion of methods, results, and interpretation](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/9.wrap_up_discussion.md)
-
-## 🍬 Tools
-
-| Tool | Task | GitHub | Reference |
-| :---         | :---           | :---          |  :---         | 
-| CarveMe   | Build GEMs from MAGs   |[Repo](https://github.com/cdanielmachado/carveme)    |        [Paper](https://academic.oup.com/nar/article/46/15/7542/5042022)       |
-| SMETANA     | Predict metabolic interactions between GEMs       | [Repo](https://github.com/cdanielmachado/smetana)      |          [Paper](https://www.pnas.org/content/112/20/6449)     |
-| metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
-| Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
-
-Pictured below is the metaGEM workflow for reconstructing and simulating metagenome based metabolic models. This training module will focus on how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
-
-![](https://github.com/franciscozorrilla/SymbNET/blob/main/plots/metaGEM/metagem_fig1.png)
 
 ## ⛏️ Datasets
 
