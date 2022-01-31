@@ -1,4 +1,4 @@
-name: symbnet_osx64_perm
+name: symbnet
 channels:
   - r
   - bioconda
