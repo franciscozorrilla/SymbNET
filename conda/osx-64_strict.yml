@@ -1,4 +1,4 @@
-name: symbnet_osx64_strict
+name: symbnet
 channels:
   - r
   - bioconda
