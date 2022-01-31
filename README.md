@@ -117,7 +117,7 @@ Then `conda install` software listed below as required, e.g. to install prodigal
 $ conda install -c bioconda prodigal diamond
 ```
 
-## Core
+### Core
 
  - [CarveMe](https://github.com/cdanielmachado/carveme)
  - [SMETANA](https://github.com/cdanielmachado/smetana)
@@ -153,3 +153,5 @@ $ conda install -c bioconda prodigal diamond
 SymbNET is a European network for host-microbe interactions research, funded by the European Union’s Horizon 2020 research and innovation programme. The project coordinated by FCG-IGC (Instituto Gulbenkian de Ciência, Portugal), brings together the world-leading research institutions EMBL (European Molecular Biology Laboratory, Germany),  CAU (Christian-Albrechts-Universität zu Kiel, Germany),  and UNIL (Université de Lausanne,  Switzerland), and a local widening partner ITQB NOVA (Instituto de Tecnologia Química e Biológica, Portugal).
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement Nº 952537
+
+## 🥼 Contributors
