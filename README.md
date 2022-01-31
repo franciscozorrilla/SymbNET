@@ -91,6 +91,34 @@ Please cite literature if you make use of relevant tools and/or resources.
 
 ## 🚛 Software requirements
 
+The following software will be pre-installed in your virtual machines. In the future, you can set up these software requirements in a conda environment on your cluster or local machine using the recipe files under the `/conda/` subdirectory. The exact dependencies and versions may vary based on your operating system. For example, to set up a conda environment on an M1 Macbook, assuming you are in the SymbNET repo root folder
+
+```bash
+$ conda env create -f conda/osx-64_permissive.yml
+```
+
+Alternatively, you can manually create an environment using `conda create` 
+```bash
+$ conda create --yes -n symbnet
+```
+
+You can activate the environment using `source` or `conda` command
+```bash
+$ source activate symbnet
+```
+
+Then `pip install` software listed below as required, e.g. to install CarveMe and SMETANA
+```bash
+$ pip install --user carveme smetana
+```
+
+Then `conda install` software listed below as required, e.g. to install prodigal and diamond
+```bash
+$ conda install -c bioconda prodigal diamond
+```
+
+## Core
+
  - [CarveMe](https://github.com/cdanielmachado/carveme)
  - [SMETANA](https://github.com/cdanielmachado/smetana)
 
