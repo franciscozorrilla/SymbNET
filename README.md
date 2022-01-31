@@ -1,4 +1,4 @@
-# EMBL-EBI Virtual Course: 💻 [SymbNET](https://www.ebi.ac.uk/training/events/symbnet-2022/) 🧬 From Metagenomics to Metabolic Interactions (Day 5)
+# 🧬 [SymbNET](https://www.ebi.ac.uk/training/events/symbnet-2022/) 🔬 From Metagenomics to Metabolic Interactions <br /> 💻 EMBL-EBI Virtual Course (Day 5)
 
 ## 💰 Learning Outcomes
 
