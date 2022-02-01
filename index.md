@@ -1,4 +1,4 @@
-# 💻 SymbNET 🧬 From Metagenomics to Metabolic Interactions (Day 5)
+# 🧬 [SymbNET](https://www.ebi.ac.uk/training/events/symbnet-2022/) 🔬 From Metagenomics to Metabolic Interactions <br /> 💻 EMBL-EBI Virtual Course (Day 5)
 
 ## 💰 Learning Outcomes
 
@@ -7,6 +7,19 @@
  - Characterize communities using competition-cooperation plot
  - Explore uncertainty in GEM reconstruction and simulation
  - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
+
+## 🍬 Recommended Software
+
+| Tool | Task | GitHub | Reference |
+| :---         | :---           | :---          |  :---         | 
+| CarveMe   | Build GEMs from MAGs   |[Repo](https://github.com/cdanielmachado/carveme)    |        [Paper](https://academic.oup.com/nar/article/46/15/7542/5042022)       |
+| SMETANA     | Predict metabolic interactions between GEMs       | [Repo](https://github.com/cdanielmachado/smetana)      |          [Paper](https://www.pnas.org/content/112/20/6449)     |
+| metaGEM   | Metagenomic metabolic modeling workflow | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
+| Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
+
+Pictured below is the metaGEM workflow for reconstructing and simulating metagenome based metabolic models. This training module will focus on how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
+
+<img align="center" src="https://raw.githubusercontent.com/franciscozorrilla/SymbNET/main/plots/metaGEM/metagem_fig1.png" height = 450 width = 800>
 
 ## 🗻 Contents
 
@@ -22,7 +35,7 @@
 ### Part I
  0. [Start by cloning this repo](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/0.clone_repo.md)
  1. [Use CarveMe to generate GEMs for a bacterial community](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/1.carve_models.md)
- 2. [Visualize model metrics different species across species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_gut_model_summary.ipynb)
+ 2. [Visualize model metrics across species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_gut_model_summary.ipynb)
  3. [Use SMETANA detailed algorithm to predict metabolic interactions between species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/3.run_smetana_detailed_interactions.md)
  4. [Visualize detailed interactions with alluvial diagrams](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/4.plot_smetana_detailed_interactions.md)
 
@@ -32,19 +45,6 @@
  7. [Generate ensemble models (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/7.generate_ensemble_models.md)
  8. [Quantify network uncertainty (optional)](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/8.plot_ensemble_dist.ipynb)
  9. [Discussion of methods, results, and interpretation](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/9.wrap_up_discussion.md)
-
-## 🍬 Tools
-
-| Tool | Task | GitHub | Reference |
-| :---         | :---           | :---          |  :---         | 
-| CarveMe   | Build GEMs from MAGs   |[Repo](https://github.com/cdanielmachado/carveme)    |        [Paper](https://academic.oup.com/nar/article/46/15/7542/5042022)       |
-| SMETANA     | Predict metabolic interactions between GEMs       | [Repo](https://github.com/cdanielmachado/smetana)      |          [Paper](https://www.pnas.org/content/112/20/6449)     |
-| metaGEM   | Wrap tools & visualize results  | [Repo](https://github.com/franciscozorrilla/metaGEM)    | [Paper](https://academic.oup.com/nar/article/49/21/e126/6382386)    |
-| Snakemake   | Workflow management and reproducibility    | [Repo](https://github.com/snakemake/snakemake)    | [Paper](https://f1000research.com/articles/10-33)   |
-
-Pictured below is the metaGEM workflow for reconstructing and simulating metagenome based metabolic models. This training module will focus on how to generate and simulate communities of metabolic models using CarveMe and SMETANA.
-
-<img align="center" src="https://raw.githubusercontent.com/franciscozorrilla/SymbNET/main/plots/metaGEM/metagem_fig1.png" height = 450 width = 800>
 
 ## ⛏️ Datasets
 
@@ -59,7 +59,7 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 | Kefir | SAGs | Fermented with German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | <ul><li>[Paper](https://www.nature.com/articles/s41564-020-00816-5)</li></ul>   |
 | Soil | MAGs |  Calcarosols from Uluru, Australia (ERR671933)   | <ul><li>f_Thermoleophilaceae</li><li>f_Herpetosiphonaceae</li><li>f_Phormidiaceae</li><li>f_Geodermatophilaceae</li><li>f_Rubrobacteraceae</li></ul>   | <ul><li>[Paper](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982)</li><li>[metaGEM](https://github.com/franciscozorrilla/metaGEM_paper)</li><li>[MGnify](https://www.ebi.ac.uk/metagenomics/studies/MGYS00000434)</li></ul>  |
 
-## 🏄 Metabolic modeling repos
+## 🏄 Metabolic Modeling Repos
 
 ### Tools
 
@@ -89,8 +89,77 @@ Please cite literature if you make use of relevant tools and/or resources.
  - [Kefir study](https://www.nature.com/articles/s41564-020-00816-5): Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial community
  - [Cooccurrence study](https://www.nature.com/articles/s41559-020-01353-4): Polarization of microbial communities between competitive and cooperative metabolism
 
+## 🚛 Software Requirements
+
+The following software will be pre-installed in your virtual machines. In the future, you can set up these software requirements in a conda environment on your cluster or local machine using the recipe files under the `/conda/` subdirectory. The exact dependencies and versions may vary based on your operating system. For example, to set up a conda environment on an M1 Macbook, assuming you are in the SymbNET repo root folder
+
+```bash
+$ conda env create -f conda/osx-64_permissive.yml
+```
+
+Alternatively, you can manually create an environment using `conda create` 
+```bash
+$ conda create --yes -n symbnet
+```
+
+You can activate the environment using `source` or `conda` command
+```bash
+$ source activate symbnet
+```
+
+Then `pip install` software listed below as required, e.g. to install CarveMe and SMETANA
+```bash
+$ pip install --user carveme smetana
+```
+
+Then `conda install` software listed below as required, e.g. to install prodigal and diamond
+```bash
+$ conda install -c bioconda prodigal diamond
+```
+
+You will also need to obtain a [free academic initiative license](https://community.ibm.com/community/user/datascience/blogs/xavier-nodet1/2020/07/09/cplex-free-for-students) from IBM to use the [academic version of CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio). You must then follow the installation instructions to set up CPLEX on your local machine or cluster. Refer to your local cluster's wiki page to see if they have a load-able CPLEX module that you can use. CPLEX versions 12.7-12.9 are recommended. Note that the free version of CPLEX that can be obtained with `pip install` DOES NOT WORK FOR BIOLOGICAL NETWORKS OF OUR SIZE.
+
+### Core
+
+ - [CarveMe](https://github.com/cdanielmachado/carveme)
+ - [SMETANA](https://github.com/cdanielmachado/smetana)
+
+### Dependencies
+
+ - [IBM CPLEX Solver (academic edition)](https://community.ibm.com/community/user/datascience/blogs/xavier-nodet1/2020/07/09/cplex-free-for-students)
+ - [Diamond](https://github.com/bbuchfink/diamond)
+
+### Additonal packages
+ 
+ - [Prodigal](https://github.com/hyattpd/Prodigal)
+ - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+ - [R (v4.x)](https://cran.r-project.org/)
+   * [tidyverse](https://github.com/tidyverse/tidyverse)
+   * [ggalluvial](https://github.com/corybrunson/ggalluvial/)
+   * [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
+   * [Rstudio](https://www.rstudio.com/)
+ - [Python (v3.x)](https://www.python.org/downloads/)
+   * [framed](https://github.com/cdanielmachado/framed)
+   * [reframed](https://github.com/cdanielmachado/reframed)
+   * [matplotlib](https://matplotlib.org/)
+   * [seaborn](https://seaborn.pydata.org/)
+   * [pandas](https://github.com/pandas-dev/pandas)
+   * [glob](https://docs.python.org/3/library/glob.html)
+   * [numpy](https://numpy.org/)
+   * [random](https://docs.python.org/3/library/random.html)
+   * [scipy](https://scipy.org/)
+   * [jupyter notebook](https://jupyter.org/install)
+
 ## 🇪🇺 About SymbNET
 
 SymbNET is a European network for host-microbe interactions research, funded by the European Union’s Horizon 2020 research and innovation programme. The project coordinated by FCG-IGC (Instituto Gulbenkian de Ciência, Portugal), brings together the world-leading research institutions EMBL (European Molecular Biology Laboratory, Germany),  CAU (Christian-Albrechts-Universität zu Kiel, Germany),  and UNIL (Université de Lausanne,  Switzerland), and a local widening partner ITQB NOVA (Instituto de Tecnologia Química e Biológica, Portugal).
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement Nº 952537
+
+## 🥼 Contributors
+
+ - Francisco Zorrilla, MRC Toxicology Unit - University of Cambridge
+ - Eva-Maria Geissen, Center for Biological Modelling - EMBL Heidelberg
+ - Maria Zimmermann-Kogadeeva, EMBL Heidelberg
+ - Kiran R. Patil, MRC Toxicology Unit - University of Cambridge
+
