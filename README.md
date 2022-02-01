@@ -117,6 +117,8 @@ Then `conda install` software listed below as required, e.g. to install prodigal
 $ conda install -c bioconda prodigal diamond
 ```
 
+You will also need to obtain a [free academic initiative license](https://community.ibm.com/community/user/datascience/blogs/xavier-nodet1/2020/07/09/cplex-free-for-students) from IBM to use the [academic version of CPLEX](https://www.ibm.com/products/ilog-cplex-optimization-studio). You must then follow the installation instructions to set up CPLEX on your local machine or cluster. Refer to your local cluster's wiki page to see if they have a load-able CPLEX module that you can use. CPLEX versions 12.7-12.9 are recommended. Note that the free version of CPLEX that can be obtained with `pip install` DOES NOT WORK FOR BIOLOGICAL NETWORKS OF OUR SIZE.
+
 ### Core
 
  - [CarveMe](https://github.com/cdanielmachado/carveme)
