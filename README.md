@@ -8,7 +8,7 @@
  - Explore uncertainty in GEM reconstruction and simulation
  - Pros and cons of using reference genomes vs metagenome-assembled or single-amplified genomes for metabolic modeling 
 
-## 🍬 Recommended software
+## 🍬 Recommended Software
 
 | Tool | Task | GitHub | Reference |
 | :---         | :---           | :---          |  :---         | 
@@ -59,7 +59,7 @@ The following table describes in detail the 6 small bacterial communities of 5 s
 | Kefir | SAGs | Fermented with German grains (GER6)    | <ul><li>*L. mesenteroides*</li><li>*L. lactis*</li><li>*A. fabarum*</li><li>*L. kefiranofaciens*</li><li>*L. kefiri*</li></ul>  | <ul><li>[Paper](https://www.nature.com/articles/s41564-020-00816-5)</li></ul>   |
 | Soil | MAGs |  Calcarosols from Uluru, Australia (ERR671933)   | <ul><li>f_Thermoleophilaceae</li><li>f_Herpetosiphonaceae</li><li>f_Phormidiaceae</li><li>f_Geodermatophilaceae</li><li>f_Rubrobacteraceae</li></ul>   | <ul><li>[Paper](https://academic.oup.com/gigascience/article/5/1/s13742-016-0126-5/2720982)</li><li>[metaGEM](https://github.com/franciscozorrilla/metaGEM_paper)</li><li>[MGnify](https://www.ebi.ac.uk/metagenomics/studies/MGYS00000434)</li></ul>  |
 
-## 🏄 Metabolic modeling repos
+## 🏄 Metabolic Modeling Repos
 
 ### Tools
 
@@ -89,7 +89,7 @@ Please cite literature if you make use of relevant tools and/or resources.
  - [Kefir study](https://www.nature.com/articles/s41564-020-00816-5): Metabolic cooperation and spatiotemporal niche partitioning in a kefir microbial community
  - [Cooccurrence study](https://www.nature.com/articles/s41559-020-01353-4): Polarization of microbial communities between competitive and cooperative metabolism
 
-## 🚛 Software requirements
+## 🚛 Software Requirements
 
 The following software will be pre-installed in your virtual machines. In the future, you can set up these software requirements in a conda environment on your cluster or local machine using the recipe files under the `/conda/` subdirectory. The exact dependencies and versions may vary based on your operating system. For example, to set up a conda environment on an M1 Macbook, assuming you are in the SymbNET repo root folder
 
@@ -155,3 +155,8 @@ SymbNET is a European network for host-microbe interactions research, funded by 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement Nº 952537
 
 ## 🥼 Contributors
+
+ - Francisco Zorrilla, MRC Toxicology Unit - University of Cambridge
+ - Eva-Maria Geissen, Center for Biological Modelling - EMBL Heidelberg
+ - Maria Zimmermann-Kogadeeva, EMBL Heidelberg
+ - Kiran R. Patil, MRC Toxicology Unit - University of Cambridge
