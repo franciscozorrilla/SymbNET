@@ -207,4 +207,4 @@ ggplot(smet_gut %>% filter(ave_smet>=0.90,name!="Fe2+",name!="Hydrogen Ion"),
   - Is there supporting literature for the predicted interactions in your community?
   - Can this approach be used for hypothesis generation in microbial ecology?
 
-## This is the end of part I of this tutorial, move on to [exercise 5](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/5.run_smetana_global_metrics.md)
+## This is the end of part I of this tutorial. After the break, move on to [exercise 5](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/5.run_smetana_global_metrics.md)
