@@ -35,7 +35,7 @@ Pictured below is the metaGEM workflow for reconstructing and simulating metagen
 ### Part I
  0. [Start by cloning this repo](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/0.clone_repo.md)
  1. [Use CarveMe to generate GEMs for a bacterial community](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/1.carve_models.md)
- 2. [Visualize model metrics across species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_gut_model_summary.ipynb)
+ 2. [Visualize model metrics across species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/2.plot_model_summary.ipynb)
  3. [Use SMETANA detailed algorithm to predict metabolic interactions between species](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/3.run_smetana_detailed_interactions.md)
  4. [Visualize detailed interactions with alluvial diagrams](https://github.com/franciscozorrilla/SymbNET/blob/main/scripts/4.plot_smetana_detailed_interactions.md)
 
