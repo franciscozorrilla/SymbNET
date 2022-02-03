@@ -65,7 +65,7 @@ smet_all <- left_join(smet_all,smetana_met,by="compound")%>%
 summary(smet_all)
 ```
 
-# Kefir community
+## Kefir community
 
 We already have some clues as to what interactions may be occurring in this community from the original publication (see, https://www.nature.com/articles/s41564-020-00816-5). As an exploratory first step, plot the distribution of average SMETANA scores across metabolites.
 
@@ -103,7 +103,7 @@ ggplot(smet_all %>% filter(community =="kefir",name%in%mets, ave_smet>=0.90),
     theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
 ```
 
-# Soil community
+## Soil community
 
 ```{r soil_smet_distribution}
 ggplot(smet_all %>% filter(community =="soil"),aes(x=reorder(name,ave_smet),y=ave_smet)) + geom_boxplot() + coord_flip()
@@ -140,7 +140,7 @@ ggplot(smet_all %>% filter(community =="soil",name%in%mets,ave_smet>=0.90),
 
 ```
 
-### Human gut microbiome community
+## Human gut microbiome community
 
 Subset object for easier manipulation/plotting
 
