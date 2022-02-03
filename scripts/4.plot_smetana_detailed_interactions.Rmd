@@ -200,7 +200,7 @@ ggplot(smet_gut %>% filter(ave_smet>=0.90,name!="Fe2+",name!="Hydrogen Ion"),
 
 ## 🍉 Discussion questions
 
- - Do the predictions make sense from a biological perspective?
+ - Do the predictions make sense for your specific community from a biological perspective?
  - How can these predictions be validated experimentally?
  - Look at the receiver species on your community's alluvial diagram, are they known to be auxotrophic for the metabolites we predicted them to uptake?
   - Look at the donor species on your community's alluvial diagram, are they known to be prototrophic for the metabolites we predicted them to donate?
