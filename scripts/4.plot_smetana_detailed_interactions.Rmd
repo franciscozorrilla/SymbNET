@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 You are now familiar with how the SMETANA detailed algorithm works, next we will inspect the output interaction predictions. This R-markdown document loads the summary file `smet_all.tsv` with 100 simulations for each community, plus any that you may have added. You may follow along passively on GitHub or launch the R-markdown document from Rstudio to interactively run through each code chunk. For more details see the [Rmd documentation](https://rmarkdown.rstudio.com/articles_intro.html).
 
-## Packages
+### 📦 Packages
 
 ```{r}
 library(tidyverse) # data manipulation
@@ -19,9 +19,9 @@ library(ggpubr) # statistical testing and figure manipulation
 library(ggalluvial) # easy alluvial diagrams
 ```
 
-## SMETANA detailed interactions
+### 📙 Data
 
-We will now generate sankey/alluvial diagrams using the metabolic predictions from SMETANA.
+We will now load and preprocess the data to generate sankey/alluvial diagrams using the metabolic predictions from SMETANA.
 
 ```{r load_data}
 ## Set working directory inside scripts folder of cloned repo
@@ -65,7 +65,7 @@ smet_all <- left_join(smet_all,smetana_met,by="compound")%>%
 summary(smet_all)
 ```
 
-## Kefir community
+## 🥛 Kefir community
 
 We already have some clues as to what interactions may be occurring in this community from the original publication (see, https://www.nature.com/articles/s41564-020-00816-5). As an exploratory first step, plot the distribution of average SMETANA scores across metabolites.
 
@@ -103,7 +103,7 @@ ggplot(smet_all %>% filter(community =="kefir",name%in%mets, ave_smet>=0.90),
     theme(panel.border = element_blank(), panel.grid.major = element_blank(),panel.grid.minor = element_blank(), axis.line = element_line(colour = "black"),axis.line.y = element_blank(),axis.ticks.y = element_blank(),axis.text.y = element_blank(),axis.title.y = element_blank(),axis.line.x = element_blank(),axis.ticks.x = element_blank())
 ```
 
-## Soil community
+## 🌏 Soil community
 
 ```{r soil_smet_distribution}
 ggplot(smet_all %>% filter(community =="soil"),aes(x=reorder(name,ave_smet),y=ave_smet)) + geom_boxplot() + coord_flip()
@@ -140,7 +140,7 @@ ggplot(smet_all %>% filter(community =="soil",name%in%mets,ave_smet>=0.90),
 
 ```
 
-## Human gut microbiome community
+## 💩 Human gut microbiome community
 
 Subset object for easier manipulation/plotting
 
@@ -201,6 +201,7 @@ ggplot(smet_gut %>% filter(ave_smet>=0.90,name!="Fe2+",name!="Hydrogen Ion"),
 ## 🍉 Discussion questions
 
  - Do the predictions make sense from a biological perspective?
+ - How can these predictions be validated experimentally?
  - Look at the receiver species on your community's alluvial diagram, are they known to be auxotrophic for the metabolites we predicted them to uptake?
   - Look at the donor species on your community's alluvial diagram, are they known to be prototrophic for the metabolites we predicted them to donate?
   - Is there supporting literature for the predicted interactions in your community?
