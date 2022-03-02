@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6323607.svg)](https://doi.org/10.5281/zenodo.6323607)
-
 # 🧬 [SymbNET](https://www.ebi.ac.uk/training/events/symbnet-2022/) 🔬 From Metagenomics to Metabolic Interactions <br /> 💻 EMBL-EBI Virtual Course (Day 5)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6323607.svg)](https://doi.org/10.5281/zenodo.6323607)
 
 ## 💰 Learning Outcomes
 
